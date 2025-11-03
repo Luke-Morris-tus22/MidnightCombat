@@ -11,7 +11,6 @@ namespace StarterAssets
     public class PlayerController : MonoBehaviour
     {
         public PlayerInputs _input;
-        public bool punchRight;
         public Animator animator;
 
         // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -27,6 +26,12 @@ namespace StarterAssets
             {
                // animator.ResetTrigger("RUP");
                 animator.SetTrigger("RUP");
+            }
+
+            if (_input.punchLeft)
+            {
+                // animator.ResetTrigger("RUP");
+                animator.SetTrigger("LUP");
             }
         }
     }

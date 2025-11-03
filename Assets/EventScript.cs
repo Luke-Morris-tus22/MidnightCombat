@@ -27,9 +27,22 @@ public class EventScript : MonoBehaviour
         } else {
             spriteRenderer.color = Color.white;
         }
-        
+    }
 
+    public void LeftPunchHit()
+    {
+        Debug.Log("Left Punch Hit");
+
+        BoxColour = !BoxColour;
+        if (BoxColour)
+        {
+            spriteRenderer.color = Color.red;
+        }
+        else
+        {
+            spriteRenderer.color = Color.white;
+        }
     }
 
 
-}
+    }
