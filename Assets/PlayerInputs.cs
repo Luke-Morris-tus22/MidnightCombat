@@ -32,11 +32,29 @@ namespace StarterAssets
                 punchLeft = true;
             }
         }
+
+        public void OnLeftDodge(InputValue value)
+        {
+            if (value.isPressed)
+            {
+                dodgeLeft = true;
+            }
+        }
+
+        public void OnRightDodge(InputValue value)
+        {
+            if (value.isPressed)
+            {
+                dodgeRight = true;
+            }
+        }
 #endif
         public void LateUpdate()
         {
             punchRight = false;
             punchLeft = false;
+            dodgeLeft=false;
+            dodgeRight=false;
         }
     }
 }

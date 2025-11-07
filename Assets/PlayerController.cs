@@ -33,6 +33,16 @@ namespace StarterAssets
                 // animator.ResetTrigger("RUP");
                 animator.SetTrigger("LUP");
             }
+
+            if (_input.dodgeLeft)
+            {
+                animator.SetTrigger("LeftDodge");
+            }
+
+            if (_input.dodgeRight)
+            {
+                animator.SetTrigger("RightDodge");
+            }
         }
     }
 }
