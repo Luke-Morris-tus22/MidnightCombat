@@ -405,6 +405,7 @@ GameObject:
   m_Component:
   - component: {fileID: 374206734}
   - component: {fileID: 374206733}
+  - component: {fileID: 374206735}
   m_Layer: 0
   m_Name: Untitled_Artwork-2_0
   m_TagString: Untagged
@@ -475,13 +476,27 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 374206732}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -4, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1716510682}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &374206735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 374206732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c30f91ad859944a89a88d8b69170ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shakeSpeed: 1
+  shakeAmplittude: 0.5
 --- !u!1 &1073653338
 GameObject:
   m_ObjectHideFlags: 0
@@ -646,7 +661,7 @@ MonoBehaviour:
     FieldOfView: 60
     OrthographicSize: 5
     NearClipPlane: 0.01
-    FarClipPlane: 1000
+    FarClipPlane: 27.2
     Dutch: 0
     ModeOverride: 0
     PhysicalProperties:
@@ -829,6 +844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1387297328}
   - component: {fileID: 1387297327}
+  - component: {fileID: 1387297329}
   m_Layer: 0
   m_Name: Untitled_Artwork-1_0
   m_TagString: Untagged
@@ -899,13 +915,27 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1387297326}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -4, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1716510682}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1387297329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1387297326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c30f91ad859944a89a88d8b69170ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shakeSpeed: 1
+  shakeAmplittude: 0.5
 --- !u!1 &1471665190
 GameObject:
   m_ObjectHideFlags: 0
@@ -966,7 +996,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.01
-  far clip plane: 1000
+  far clip plane: 27.2
   field of view: 60
   orthographic: 1
   orthographic size: 5
@@ -1086,6 +1116,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1615489875}
   - component: {fileID: 1615489874}
+  - component: {fileID: 1615489876}
   m_Layer: 0
   m_Name: Untitled_Artwork-3_0
   m_TagString: Untagged
@@ -1156,11 +1187,60 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1615489873}
   serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1716510682}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1615489876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1615489873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c30f91ad859944a89a88d8b69170ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shakeSpeed: 1
+  shakeAmplittude: 0.5
+--- !u!1 &1716510680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1716510682}
+  m_Layer: 0
+  m_Name: Audience
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1716510682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1716510680}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1850654905}
+  - {fileID: 1615489875}
+  - {fileID: 374206734}
+  - {fileID: 1387297328}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1743744896
@@ -1251,6 +1331,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1850654905}
   - component: {fileID: 1850654904}
+  - component: {fileID: 1850654906}
   m_Layer: 0
   m_Name: Untitled_Artwork-4_0
   m_TagString: Untagged
@@ -1321,13 +1402,27 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1850654903}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -4, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1716510682}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1850654906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850654903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60c30f91ad859944a89a88d8b69170ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shakeSpeed: 1
+  shakeAmplittude: 0.5
 --- !u!1 &1969966942
 GameObject:
   m_ObjectHideFlags: 0
@@ -1425,7 +1520,4 @@ SceneRoots:
   - {fileID: 1969966944}
   - {fileID: 1282997655}
   - {fileID: 1073653340}
-  - {fileID: 1850654905}
-  - {fileID: 1615489875}
-  - {fileID: 374206734}
-  - {fileID: 1387297328}
+  - {fileID: 1716510682}
