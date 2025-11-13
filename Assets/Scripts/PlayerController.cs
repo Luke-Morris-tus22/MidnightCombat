@@ -10,6 +10,7 @@ namespace StarterAssets
 #endif
     public class PlayerController : MonoBehaviour
     {
+        public bool playerInCombat;
         public PlayerInputs _input;
         public Animator animator;
 
@@ -22,26 +23,29 @@ namespace StarterAssets
         // Update is called once per frame
         void Update()
         {
-            if (_input.punchRight)
+            if (playerInCombat)
             {
-               // animator.ResetTrigger("RUP");
-                animator.SetTrigger("RUP");
-            }
+                if (_input.punchRight)
+                {
+                    // animator.ResetTrigger("RUP");
+                    animator.SetTrigger("RUP");
+                }
 
-            if (_input.punchLeft)
-            {
-                // animator.ResetTrigger("RUP");
-                animator.SetTrigger("LUP");
-            }
+                if (_input.punchLeft)
+                {
+                    // animator.ResetTrigger("RUP");
+                    animator.SetTrigger("LUP");
+                }
 
-            if (_input.dodgeLeft)
-            {
-                animator.SetTrigger("LeftDodge");
-            }
+                if (_input.dodgeLeft)
+                {
+                    animator.SetTrigger("LeftDodge");
+                }
 
-            if (_input.dodgeRight)
-            {
-                animator.SetTrigger("RightDodge");
+                if (_input.dodgeRight)
+                {
+                    animator.SetTrigger("RightDodge");
+                }
             }
         }
     }
