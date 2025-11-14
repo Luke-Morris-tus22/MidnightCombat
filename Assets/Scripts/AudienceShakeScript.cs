@@ -4,9 +4,10 @@ using UnityEngine.Splines.Interpolators;
 
 public class AudienceShakeScript : MonoBehaviour
 {
+    public static float AudienceExcitement;
     public float shakeSpeed = 1;
     public float shakeAmplittude = 0.5f;
-    public Vector2 Offset;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -17,6 +18,11 @@ public class AudienceShakeScript : MonoBehaviour
     void Update()
     {
         Vector2 tempPos = transform.position;
-        transform.position = Vector2.Lerp((tempPos+Offset), ((Random.insideUnitCircle * shakeAmplittude)+Offset), shakeSpeed * Time.deltaTime);
+        transform.position = Vector2.Lerp(tempPos, Random.insideUnitCircle * (shakeAmplittude * AudienceExcitement), (shakeSpeed * AudienceExcitement) * Time.deltaTime);
+    }
+
+    public void updateAudienceExcitement(float value)
+    {
+        AudienceExcitement = value;
     }
 }
