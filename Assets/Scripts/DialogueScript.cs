@@ -21,9 +21,9 @@ public class DialogueScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (player.GetComponent<PlayerInputs>().punchLeft & dialogueOn)
+        if (player.GetComponent<PlayerInputs>().punchLeft && dialogueOn)
         {
-
+            continueDialogue();
         }
     }
 
@@ -34,5 +34,20 @@ public class DialogueScript : MonoBehaviour
         dialogueStringPos = 0;
         player.GetComponent<PlayerController>().playerInCombat = false;
         dialogueTextGO.GetComponent<TextMeshProUGUI>().text = dialogueText[dialogueStringPos];
+    }
+
+    public void continueDialogue()
+    {
+        dialogueStringPos += 1;
+        if (dialogueStringPos >= dialogueText.Length)
+        {
+            dialogueOn = false;
+            _animator.SetBool("DialogueOn", false);
+            player.GetComponent<PlayerController>().playerInCombat = true;
+        } else
+        {
+            dialogueTextGO.GetComponent<TextMeshProUGUI>().text = dialogueText[dialogueStringPos];
+        }
+
     }
 }

@@ -10,7 +10,7 @@ namespace StarterAssets
 #endif
     public class PlayerController : MonoBehaviour
     {
-        public bool playerInCombat;
+        public bool playerInCombat = true;
         public PlayerInputs _input;
         public Animator animator;
 

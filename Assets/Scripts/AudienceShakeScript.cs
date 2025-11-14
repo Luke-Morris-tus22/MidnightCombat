@@ -18,6 +18,5 @@ public class AudienceShakeScript : MonoBehaviour
     {
         Vector2 tempPos = transform.position;
         transform.position = Vector2.Lerp((tempPos+Offset), ((Random.insideUnitCircle * shakeAmplittude)+Offset), shakeSpeed * Time.deltaTime);
-        Debug.Log(transform.position);
     }
 }

@@ -18,7 +18,6 @@ public class EventScript : MonoBehaviour
 
     public void RightPunchHit()
     {
-        Debug.Log("Right Punch Hit");
 
         BoxColour = !BoxColour;
         if (BoxColour)
@@ -31,8 +30,6 @@ public class EventScript : MonoBehaviour
 
     public void LeftPunchHit()
     {
-        Debug.Log("Left Punch Hit");
-
         BoxColour = !BoxColour;
         if (BoxColour)
         {
