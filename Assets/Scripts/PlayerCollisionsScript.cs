@@ -17,10 +17,10 @@ public class PlayerCollisionsScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Trigger");
+      //  Debug.Log("Trigger");
         if (other.CompareTag("EnemyAttack"))
         {
-            Debug.Log("Player Hit");
+           // Debug.Log("Player Hit");
         }
     }
 }

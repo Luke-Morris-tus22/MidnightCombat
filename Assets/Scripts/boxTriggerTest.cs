@@ -17,6 +17,6 @@ public class boxTriggerTest : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Hit");
+       // Debug.Log("Hit");
     }
 }
