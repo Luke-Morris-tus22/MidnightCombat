@@ -184,42 +184,20 @@ TextureImporter:
       name: VS icon_0
       rect:
         serializedVersion: 2
-        x: 922
-        y: 999
-        width: 38
-        height: 53
+        x: 915
+        y: 992
+        width: 93
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 14a3420f631fd7ba0800000000000000
-      internalID: -6089445902875608511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VS icon_1
-      rect:
-        serializedVersion: 2
-        x: 959
-        y: 998
-        width: 36
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 673d4b656f16b8800800000000000000
-      internalID: 615693484710744950
+      spriteID: 3b4b936cd02839242b33b56fbea6be78
+      internalID: 2083827723
       vertices: []
       indices: 
       edges: []
@@ -228,7 +206,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f4fc40bfcc56c634ea37ee3f78b74fb2
     internalID: 0
     vertices: []
     indices: 
@@ -237,7 +215,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VS icon_0: 2083827723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
