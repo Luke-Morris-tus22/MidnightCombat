@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RK BarOut_0: 4230829096577972385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
