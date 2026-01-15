@@ -59,6 +59,11 @@ namespace StarterAssets
                 {
                     animator.SetTrigger("Duck");
                 }
+
+                if (_input.parry)
+                {
+                    animator.SetTrigger("Parry");
+                }
             }
         }
     }

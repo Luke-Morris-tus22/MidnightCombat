@@ -16,6 +16,7 @@ namespace StarterAssets
         public bool dodgeLeft;
         public bool upPressed;
         public bool duck;
+        public bool parry;
 
 #if ENABLE_INPUT_SYSTEM
 
@@ -69,6 +70,14 @@ namespace StarterAssets
                 duck = true;
             }
         }
+
+        public void OnParry(InputValue value)
+        {
+            if (value.isPressed)
+            {
+                parry = true;
+            }
+        }
 #endif
         public void LateUpdate()
         {
@@ -77,6 +86,7 @@ namespace StarterAssets
             dodgeLeft=false;
             dodgeRight=false;
             duck = false;
+            parry = false;
         }
     }
 }

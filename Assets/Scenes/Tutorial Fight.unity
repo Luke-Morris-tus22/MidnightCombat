@@ -512,6 +512,7 @@ MonoBehaviour:
   dodgeLeft: 0
   upPressed: 0
   duck: 0
+  parry: 0
 --- !u!114 &21389789
 MonoBehaviour:
   m_ObjectHideFlags: 0
