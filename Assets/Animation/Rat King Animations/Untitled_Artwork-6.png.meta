@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: a79063f86af40424a87fa884abb38e56
+guid: a39acc60cef56664f84dcf2e39d3757a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5776421600631150107
-    second: Untitled_Artwork-3_0
+      213: -1303488210474810115
+    second: Untitled_Artwork-6_0
+  - first:
+      213: 8090372893175922758
+    second: Untitled_Artwork-6_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -161,17 +164,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Untitled_Artwork-3_0
+      name: Untitled_Artwork-6_0
       rect:
         serializedVersion: 2
-        x: 346
-        y: 276
-        width: 896
-        height: 1642
+        x: 22
+        y: 1081
+        width: 15
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +196,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e9ac75b82706dfa0800000000000000
-      internalID: -5776421600631150107
+      spriteID: df44db5f06419ede0800000000000000
+      internalID: -1303488210474810115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitled_Artwork-6_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 199
+        width: 1227
+        height: 1522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640433e1847c64070800000000000000
+      internalID: 8090372893175922758
       vertices: []
       indices: 
       edges: []
@@ -200,7 +238,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Untitled_Artwork-3_0: -5776421600631150107
+      Untitled_Artwork-6_0: -1303488210474810115
+      Untitled_Artwork-6_1: 8090372893175922758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

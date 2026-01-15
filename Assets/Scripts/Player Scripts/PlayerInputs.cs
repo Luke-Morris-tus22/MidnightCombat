@@ -14,8 +14,21 @@ namespace StarterAssets
         public bool punchLeft;
         public bool dodgeRight;
         public bool dodgeLeft;
+        public bool upPressed;
+        public bool duck;
 
 #if ENABLE_INPUT_SYSTEM
+
+        public void OnUpHeld(InputValue value)
+        {
+            if (value.isPressed)
+            {
+                upPressed = true;
+            } else
+            {
+                upPressed = false;
+            }
+        }
 
         public void OnRightAttack(InputValue value)
         {
@@ -48,6 +61,14 @@ namespace StarterAssets
                 dodgeRight = true;
             }
         }
+
+        public void OnDuck(InputValue value)
+        {
+            if (value.isPressed)
+            {
+                duck = true;
+            }
+        }
 #endif
         public void LateUpdate()
         {
@@ -55,6 +76,7 @@ namespace StarterAssets
             punchLeft = false;
             dodgeLeft=false;
             dodgeRight=false;
+            duck = false;
         }
     }
 }

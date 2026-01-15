@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f7a15fd06ffd5554f892d0d344fc7120
+guid: 11873b32fc5e2e6419e86608c21da5d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 280308805116380786
-    second: Player_UpwardPunch3_0
+      213: -5755259824121443176
+    second: Player_Duck_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -178,13 +178,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_UpwardPunch3_0
+      name: Player_Duck_0
       rect:
         serializedVersion: 2
-        x: 1301
-        y: 480
-        width: 335
-        height: 751
+        x: 1305
+        y: 476
+        width: 308
+        height: 614
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27640648f5bd3e300800000000000000
-      internalID: 280308805116380786
+      spriteID: 89c0a21cea53120b0800000000000000
+      internalID: -5755259824121443176
       vertices: []
       indices: 
       edges: []
@@ -213,7 +213,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player_UpwardPunch3_0: 280308805116380786
+      Player_Duck_0: -5755259824121443176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

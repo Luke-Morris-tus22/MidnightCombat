@@ -25,15 +25,23 @@ namespace StarterAssets
         {
             if (playerInCombat)
             {
-                if (_input.punchRight)
+                if (_input.punchRight && !_input.upPressed)
                 {
-                    // animator.ResetTrigger("RUP");
+                    animator.SetTrigger("RSP");
+                }
+
+                if (_input.punchRight && _input.upPressed)
+                {
                     animator.SetTrigger("RUP");
                 }
 
-                if (_input.punchLeft)
+                if (_input.punchLeft && !_input.upPressed)
                 {
-                    // animator.ResetTrigger("RUP");
+                    animator.SetTrigger("LSP");
+                }
+
+                if (_input.punchLeft && _input.upPressed)
+                {
                     animator.SetTrigger("LUP");
                 }
 
@@ -45,6 +53,11 @@ namespace StarterAssets
                 if (_input.dodgeRight)
                 {
                     animator.SetTrigger("RightDodge");
+                }
+
+                if (_input.duck)
+                {
+                    animator.SetTrigger("Duck");
                 }
             }
         }

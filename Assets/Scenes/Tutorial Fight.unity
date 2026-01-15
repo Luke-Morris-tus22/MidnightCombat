@@ -510,6 +510,8 @@ MonoBehaviour:
   punchLeft: 0
   dodgeRight: 0
   dodgeLeft: 0
+  upPressed: 0
+  duck: 0
 --- !u!114 &21389789
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2608,7 +2610,7 @@ MonoBehaviour:
       Offset: {x: 0, y: 0}
   CenterOnActivate: 1
   TargetOffset: {x: 0, y: 0, z: 0}
-  Damping: {x: 0.5, y: 100, z: 1}
+  Damping: {x: 0.5, y: 10000, z: 1}
   Lookahead:
     Enabled: 0
     Time: 0
@@ -2859,7 +2861,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &1282997653
 Animator:
   serializedVersion: 7
