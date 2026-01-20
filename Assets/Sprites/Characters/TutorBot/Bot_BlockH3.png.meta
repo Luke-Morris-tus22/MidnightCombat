@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: af7583a3df1d03c479b4ea9db6a5b438
+guid: e12473163bfc26b45a030601c56b944b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8873226939545822073
-    second: Bot_HitHL2_0
+      213: 1256952175339019091
+    second: Bot_BlockH3_0
   - first:
-      213: 7630802075307126025
-    second: Bot_HitHL2_1
+      213: -5609943545455062959
+    second: Bot_BlockH3_1
+  - first:
+      213: 133122099067794421
+    second: Bot_BlockH3_2
+  - first:
+      213: 9051442743304918449
+    second: Bot_BlockH3_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -181,7 +187,51 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bot_HitHL2_0
+      name: Bot_BlockH3_0
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 621
+        width: 244
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b9cb60857917110800000000000000
+      internalID: 1256952175339019091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_BlockH3_1
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1011
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150d723711a7522b0800000000000000
+      internalID: -5609943545455062959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_BlockH3_2
       rect:
         serializedVersion: 2
         x: 1251
@@ -196,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78cd1f06c17fbd480800000000000000
-      internalID: -8873226939545822073
+      spriteID: 5f3b0b208d1f8d100800000000000000
+      internalID: 133122099067794421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bot_HitHL2_1
+      name: Bot_BlockH3_3
       rect:
         serializedVersion: 2
-        x: 1346
-        y: 627
-        width: 298
-        height: 737
+        x: 1549
+        y: 633
+        width: 78
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90daef9ce0e06e960800000000000000
-      internalID: 7630802075307126025
+      spriteID: 1b51a7be73f2d9d70800000000000000
+      internalID: 9051442743304918449
       vertices: []
       indices: 
       edges: []
@@ -238,8 +288,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bot_HitHL2_0: -8873226939545822073
-      Bot_HitHL2_1: 7630802075307126025
+      Bot_BlockH3_0: 1256952175339019091
+      Bot_BlockH3_1: -5609943545455062959
+      Bot_BlockH3_2: 133122099067794421
+      Bot_BlockH3_3: 9051442743304918449
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

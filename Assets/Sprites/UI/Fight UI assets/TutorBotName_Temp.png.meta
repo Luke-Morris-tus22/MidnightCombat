@@ -1,13 +1,31 @@
 fileFormatVersion: 2
-guid: af7583a3df1d03c479b4ea9db6a5b438
+guid: 2c5a3b37685785e4eaeab41833f33163
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8873226939545822073
-    second: Bot_HitHL2_0
+      213: 5781149036970482913
+    second: TutorBotName_Temp_0
   - first:
-      213: 7630802075307126025
-    second: Bot_HitHL2_1
+      213: 5358712427831602309
+    second: TutorBotName_Temp_1
+  - first:
+      213: -1778227605353247740
+    second: TutorBotName_Temp_2
+  - first:
+      213: -3418894943605475247
+    second: TutorBotName_Temp_3
+  - first:
+      213: 6716036909203840446
+    second: TutorBotName_Temp_4
+  - first:
+      213: 689425974793944460
+    second: TutorBotName_Temp_5
+  - first:
+      213: -7211707515562065391
+    second: TutorBotName_Temp_6
+  - first:
+      213: 8155283984688041291
+    second: TutorBotName_Temp_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -181,13 +199,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bot_HitHL2_0
+      name: TutorBotName_Temp_0
       rect:
         serializedVersion: 2
-        x: 1251
-        y: 635
-        width: 210
-        height: 10
+        x: 91
+        y: 98
+        width: 47
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78cd1f06c17fbd480800000000000000
-      internalID: -8873226939545822073
+      spriteID: 1ec97365b64ca3050800000000000000
+      internalID: 5781149036970482913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bot_HitHL2_1
+      name: TutorBotName_Temp_1
       rect:
         serializedVersion: 2
-        x: 1346
-        y: 627
-        width: 298
-        height: 737
+        x: 135
+        y: 100
+        width: 24
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,8 +236,140 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90daef9ce0e06e960800000000000000
-      internalID: 7630802075307126025
+      spriteID: 58caf5abf88fd5a40800000000000000
+      internalID: 5358712427831602309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorBotName_Temp_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c40251a677257e0800000000000000
+      internalID: -1778227605353247740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorBotName_Temp_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583402b925ad80d0800000000000000
+      internalID: -3418894943605475247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorBotName_Temp_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 102
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd18f5cf7243d50800000000000000
+      internalID: 6716036909203840446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorBotName_Temp_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 103
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d35867545519900800000000000000
+      internalID: 689425974793944460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorBotName_Temp_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 103
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11288ee493edaeb90800000000000000
+      internalID: -7211707515562065391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorBotName_Temp_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 45
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d43c553936d2170800000000000000
+      internalID: 8155283984688041291
       vertices: []
       indices: 
       edges: []
@@ -238,8 +388,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bot_HitHL2_0: -8873226939545822073
-      Bot_HitHL2_1: 7630802075307126025
+      TutorBotName_Temp_0: 5781149036970482913
+      TutorBotName_Temp_1: 5358712427831602309
+      TutorBotName_Temp_2: -1778227605353247740
+      TutorBotName_Temp_3: -3418894943605475247
+      TutorBotName_Temp_4: 6716036909203840446
+      TutorBotName_Temp_5: 689425974793944460
+      TutorBotName_Temp_6: -7211707515562065391
+      TutorBotName_Temp_7: 8155283984688041291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
