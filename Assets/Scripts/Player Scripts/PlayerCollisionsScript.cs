@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerCollisionsScript : MonoBehaviour
 {
+    private Animator _animator;
     private Collider2D _collisionCollider;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -12,7 +13,7 @@ public class PlayerCollisionsScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        _animator = GetComponent<Animator>();   
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -20,7 +21,8 @@ public class PlayerCollisionsScript : MonoBehaviour
       //  Debug.Log("Trigger");
         if (other.CompareTag("EnemyAttack"))
         {
-           // Debug.Log("Player Hit");
+            Debug.Log("Player Hit");
+            _animator.SetTrigger("HitRight");
         }
     }
 }

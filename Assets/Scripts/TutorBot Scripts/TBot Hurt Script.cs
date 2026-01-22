@@ -5,7 +5,7 @@ public class TBotHurtScript : MonoBehaviour
     public HealthBarScript healthBarScript;
     public float health;
     public float maxHealth;
-    public float damageTake;
+    public float damageTakeAmount;
 
     public bool guardUp = false;
 
@@ -31,6 +31,6 @@ public class TBotHurtScript : MonoBehaviour
 
     public void takeDamage()
     {
-        healthBarScript.TakesDamage(damageTake);
+        healthBarScript.TakesDamage(damageTakeAmount);
     }
 }
