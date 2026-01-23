@@ -1664,7 +1664,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isRight: 0
-  damage: 0
+  damage: 5
+  isParriable: 0
+  returnHitsCount: 0
 --- !u!1 &645580208
 GameObject:
   m_ObjectHideFlags: 0
@@ -2320,8 +2322,11 @@ MonoBehaviour:
   healthBarScript: {fileID: 16053200}
   health: 100
   maxHealth: 100
-  damageTakeAmount: 0
+  damageTakeAmount: 3
   guardUp: 1
+  hurtBoxScript: {fileID: 579415065}
+  returnHitCount: 0
+  returnHitCountMax: 0
 --- !u!114 &838888497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2336,6 +2341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackInterval: 2
   playerCollisionsScript: {fileID: 21389793}
+  hurtBoxScript: {fileID: 579415065}
 --- !u!1 &978573158
 GameObject:
   m_ObjectHideFlags: 0

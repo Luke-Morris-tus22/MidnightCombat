@@ -8,6 +8,7 @@ public class TBotAttackScript : MonoBehaviour
     private float _attackIntervalCounter;
     private TBotHurtScript _botHurtScript;
     public PlayerCollisionsScript playerCollisionsScript;
+    public HurtBoxScript hurtBoxScript;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -25,6 +26,7 @@ public class TBotAttackScript : MonoBehaviour
             Attack();
         }
         //Debug.Log(_attackIntervalCounter);
+        
     }
 
     public void restartAttackCounter()
@@ -42,15 +44,20 @@ public class TBotAttackScript : MonoBehaviour
     {
         //Debug.Log("attack success check");
         _animator.SetBool("MissedAttack", playerCollisionsScript.playerDodgedCheck());
+        _botHurtScript.returnHitCountMax = hurtBoxScript.returnHitsCount;
+
     }
 
     public void LowerGuard()
     {
+        Debug.Log("Lower Guard");
         _botHurtScript.guardUp = false;
     }
 
     public void RaiseGuard()
     {
         _botHurtScript.guardUp = true;
+        _botHurtScript.returnHitCount = 0;
     }
+
 }

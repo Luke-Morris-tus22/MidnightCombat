@@ -6,6 +6,9 @@ public class PlayerCollisionsScript : MonoBehaviour
     private Collider2D _collisionCollider;
     public HealthBarScript HealthBarScript;
     public float timeSinceDamageTaken;
+
+    public bool isParrying;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,21 +25,29 @@ public class PlayerCollisionsScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-      //  Debug.Log("Trigger");
+        //  Debug.Log("Trigger");
         if (other.CompareTag("EnemyAttack"))
         {
             HurtBoxScript hurtBoxScript = other.GetComponent<HurtBoxScript>();
-            if (hurtBoxScript.isRight)
+            if (hurtBoxScript.isParriable && isParrying)
             {
-                _animator.SetTrigger("HitRight");
+                _animator.SetTrigger("ParrySuccess");
 
             }
             else
             {
-                _animator.SetTrigger("HitLeft");
+                if (hurtBoxScript.isRight)
+                {
+                    _animator.SetTrigger("HitRight");
+
+                }
+                else
+                {
+                    _animator.SetTrigger("HitLeft");
+                }
+                HealthBarScript.TakesDamage(hurtBoxScript.damage);
+                timeSinceDamageTaken = 0;
             }
-            HealthBarScript.TakesDamage(hurtBoxScript.damage);
-            timeSinceDamageTaken = 0;
         }
     }
 

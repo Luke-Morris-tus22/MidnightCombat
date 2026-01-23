@@ -8,7 +8,9 @@ public class TBotHurtScript : MonoBehaviour
     public float damageTakeAmount;
 
     public bool guardUp = false;
-
+    public HurtBoxScript hurtBoxScript;
+    public float returnHitCount;
+    public float returnHitCountMax;
     Animator animator_;
 
     void Start()
@@ -27,6 +29,15 @@ public class TBotHurtScript : MonoBehaviour
         animator_.SetBool("HitInHead", isHead);
         animator_.SetBool("HitRight", isRight);
         animator_.SetTrigger("GotHit");
+        returnHitCount += 1;
+        if (returnHitCount >= returnHitCountMax) 
+        {
+            guardUp = true;
+            returnHitCount = 0;
+        }
+
+        Debug.Log("return hit count" + returnHitCount);
+
     }
 
     public void takeDamage()

@@ -29,10 +29,8 @@ public class HealthBarScript : MonoBehaviour
         whiteSlider.value = _whiteHealthbar;
         if(_timeSinceDamaged >= whiteBarDelay && _whiteHealthbar > Health)
         {
-            //  updateWhiteBar();
             _whiteHealthbar -= 0.125f;
         }
-        // Debug.Log(_timeSinceDamaged);
         if (Health == _whiteHealthbar) {
             _timeSinceDamaged = 0;
                  }
@@ -40,16 +38,8 @@ public class HealthBarScript : MonoBehaviour
 
     public void TakesDamage(float damage)
     {
-        Debug.Log("takes damage");
         _timeSinceDamaged = 0f;
         _Animator.SetTrigger("shake");
         Health = Health - damage;
     }
-
-    //public void updateWhiteBar()
-    //{
-    //    Debug.Log(_whiteHealthbar);
-    //    Debug.Log(playerHealth);
-    //    whiteSlider.value = Mathf.Lerp(_whiteHealthbar, playerHealth, Time.deltaTime * whiteChangeRate);
-    //}
 }
