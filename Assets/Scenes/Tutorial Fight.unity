@@ -567,6 +567,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HealthBarScript: {fileID: 728473919}
   timeSinceDamageTaken: 0
+  isParrying: 0
+  BotAttackScript: {fileID: 838888497}
 --- !u!1 &96622276
 GameObject:
   m_ObjectHideFlags: 0
@@ -1667,6 +1669,7 @@ MonoBehaviour:
   damage: 5
   isParriable: 0
   returnHitsCount: 0
+  parryReturnHitsCount: 0
 --- !u!1 &645580208
 GameObject:
   m_ObjectHideFlags: 0

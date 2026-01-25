@@ -8,8 +8,8 @@ public class PlayerCollisionsScript : MonoBehaviour
     public float timeSinceDamageTaken;
 
     public bool isParrying;
+    public TBotAttackScript BotAttackScript;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         _collisionCollider = GetComponent<Collider2D>();
@@ -17,7 +17,6 @@ public class PlayerCollisionsScript : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
         timeSinceDamageTaken += Time.deltaTime;
@@ -25,14 +24,16 @@ public class PlayerCollisionsScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        //  Debug.Log("Trigger");
         if (other.CompareTag("EnemyAttack"))
         {
             HurtBoxScript hurtBoxScript = other.GetComponent<HurtBoxScript>();
             if (hurtBoxScript.isParriable && isParrying)
             {
                 _animator.SetTrigger("ParrySuccess");
-
+                if(BotAttackScript != null)
+                {
+                    BotAttackScript.attackParried();
+                }
             }
             else
             {

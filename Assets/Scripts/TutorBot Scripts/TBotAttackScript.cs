@@ -36,7 +36,7 @@ public class TBotAttackScript : MonoBehaviour
 
     public void Attack()
     {
-        _animator.SetTrigger("StartJab");
+        _animator.SetTrigger("StartJabP");
         _attackIntervalCounter = 0;
     }
 
@@ -60,4 +60,9 @@ public class TBotAttackScript : MonoBehaviour
         _botHurtScript.returnHitCount = 0;
     }
 
+    public void attackParried()
+    {
+        _animator.SetBool("MissedAttack", true);
+        _botHurtScript.returnHitCountMax = hurtBoxScript.parryReturnHitsCount;
+    }
 }

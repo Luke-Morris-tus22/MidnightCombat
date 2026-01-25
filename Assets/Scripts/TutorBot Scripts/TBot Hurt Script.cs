@@ -11,11 +11,11 @@ public class TBotHurtScript : MonoBehaviour
     public HurtBoxScript hurtBoxScript;
     public float returnHitCount;
     public float returnHitCountMax;
-    Animator animator_;
+    Animator _animator;
 
     void Start()
     {
-        animator_ = GetComponent<Animator>();
+        _animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -25,10 +25,11 @@ public class TBotHurtScript : MonoBehaviour
 
     public void IsHit(bool isHead, bool isRight)
     {
-        animator_.SetBool("GuardUp", guardUp);
-        animator_.SetBool("HitInHead", isHead);
-        animator_.SetBool("HitRight", isRight);
-        animator_.SetTrigger("GotHit");
+        _animator.SetBool("MissedAttack", false);
+        _animator.SetBool("GuardUp", guardUp);
+        _animator.SetBool("HitInHead", isHead);
+        _animator.SetBool("HitRight", isRight);
+        _animator.SetTrigger("GotHit");
         returnHitCount += 1;
         if (returnHitCount >= returnHitCountMax) 
         {
