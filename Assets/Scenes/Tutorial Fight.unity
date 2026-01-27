@@ -1666,7 +1666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isRight: 0
-  damage: 5
+  damage: 100
   isParriable: 0
   returnHitsCount: 0
   parryReturnHitsCount: 0

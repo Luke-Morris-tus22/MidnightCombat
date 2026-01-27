@@ -36,7 +36,7 @@ public class TBotAttackScript : MonoBehaviour
 
     public void Attack()
     {
-        _animator.SetTrigger("StartJabP");
+        _animator.SetTrigger("StartHook");
         _attackIntervalCounter = 0;
     }
 

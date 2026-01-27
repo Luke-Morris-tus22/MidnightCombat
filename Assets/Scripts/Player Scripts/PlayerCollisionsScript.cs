@@ -37,17 +37,34 @@ public class PlayerCollisionsScript : MonoBehaviour
             }
             else
             {
-                if (hurtBoxScript.isRight)
+                HealthBarScript.TakesDamage(hurtBoxScript.damage);
+                if (HealthBarScript.Health <= 0)
                 {
-                    _animator.SetTrigger("HitRight");
+                    if (hurtBoxScript.isRight)
+                    {
+                        _animator.SetTrigger("HitRightKO");
 
+                    }
+                    else
+                    {
+                        _animator.SetTrigger("HitLeftKO");
+                    }
+                    timeSinceDamageTaken = 0;
                 }
                 else
                 {
-                    _animator.SetTrigger("HitLeft");
+
+                    if (hurtBoxScript.isRight)
+                    {
+                        _animator.SetTrigger("HitRight");
+
+                    }
+                    else
+                    {
+                        _animator.SetTrigger("HitLeft");
+                    }
+                    timeSinceDamageTaken = 0;
                 }
-                HealthBarScript.TakesDamage(hurtBoxScript.damage);
-                timeSinceDamageTaken = 0;
             }
         }
     }
