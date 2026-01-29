@@ -24,9 +24,7 @@ public class TBotAttackScript : MonoBehaviour
         if (_attackIntervalCounter > attackInterval)
         {
             Attack();
-        }
-        //Debug.Log(_attackIntervalCounter);
-        
+        }        
     }
 
     public void restartAttackCounter()
@@ -50,7 +48,6 @@ public class TBotAttackScript : MonoBehaviour
 
     public void LowerGuard()
     {
-        Debug.Log("Lower Guard");
         _botHurtScript.guardUp = false;
     }
 

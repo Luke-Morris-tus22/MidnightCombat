@@ -1,3 +1,4 @@
+using StarterAssets;
 using UnityEngine;
 
 public class PlayerCollisionsScript : MonoBehaviour
@@ -5,10 +6,11 @@ public class PlayerCollisionsScript : MonoBehaviour
     private Animator _animator;
     private Collider2D _collisionCollider;
     public HealthBarScript HealthBarScript;
-    public float timeSinceDamageTaken;
+    private float _timeSinceDamageTaken;
 
     public bool isParrying;
     public TBotAttackScript BotAttackScript;
+    public KORecoveryScript KORecoveryScript;
 
     void Start()
     {
@@ -19,7 +21,7 @@ public class PlayerCollisionsScript : MonoBehaviour
 
     void Update()
     {
-        timeSinceDamageTaken += Time.deltaTime;
+        _timeSinceDamageTaken += Time.deltaTime;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -49,7 +51,9 @@ public class PlayerCollisionsScript : MonoBehaviour
                     {
                         _animator.SetTrigger("HitLeftKO");
                     }
-                    timeSinceDamageTaken = 0;
+                    _timeSinceDamageTaken = 0;
+                    KORecoveryScript.KORecStart();
+                    GetComponent<PlayerController>().playerInRecovery = true;
                 }
                 else
                 {
@@ -63,7 +67,7 @@ public class PlayerCollisionsScript : MonoBehaviour
                     {
                         _animator.SetTrigger("HitLeft");
                     }
-                    timeSinceDamageTaken = 0;
+                    _timeSinceDamageTaken = 0;
                 }
             }
         }
@@ -72,7 +76,7 @@ public class PlayerCollisionsScript : MonoBehaviour
     public bool playerDodgedCheck()
     {
         //Debug.Log("dodge check");
-        if (timeSinceDamageTaken > 2)
+        if (_timeSinceDamageTaken > 2)
         {
            // Debug.Log("dodge check true");
             return true;

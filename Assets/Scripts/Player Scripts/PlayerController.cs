@@ -10,21 +10,21 @@ namespace StarterAssets
 #endif
     public class PlayerController : MonoBehaviour
     {
-        public bool inTutorial;
-
         public bool playerInCombat = true;
-        public PlayerInputs _input;
-        public Animator animator;
-
-        public bool playerPunchingHead;
-        public bool playerPunchingRight;
-
+        public bool playerInRecovery = false;
         public TBotHurtScript botHurtScript;
+        public KORecoveryScript KORecoveryScript;
+
+        PlayerInputs _input;
+        Animator _animator;
+        bool _playerPunchingHead;
+        bool _playerPunchingRight;
 
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
             _input = GetComponent<PlayerInputs>();
+            _animator = GetComponent<Animator>();
         }
 
         // Update is called once per frame
@@ -34,50 +34,62 @@ namespace StarterAssets
             {
                 if (_input.punchRight && !_input.upPressed)
                 {
-                    playerPunchingHead = false;
-                    playerPunchingRight = true;
-                    animator.SetTrigger("RSP");
+                    _playerPunchingHead = false;
+                    _playerPunchingRight = true;
+                    _animator.SetTrigger("RSP");
                 }
 
                 if (_input.punchRight && _input.upPressed)
                 {
-                    playerPunchingHead = true;
-                    playerPunchingRight = true;
-                    animator.SetTrigger("RUP");
+                    _playerPunchingHead = true;
+                    _playerPunchingRight = true;
+                    _animator.SetTrigger("RUP");
                 }
 
                 if (_input.punchLeft && !_input.upPressed)
                 {
-                    playerPunchingHead = false;
-                    playerPunchingRight = false;
-                    animator.SetTrigger("LSP");
+                    _playerPunchingHead = false;
+                    _playerPunchingRight = false;
+                    _animator.SetTrigger("LSP");
                 }
 
                 if (_input.punchLeft && _input.upPressed)
                 {
-                    playerPunchingHead = true;
-                    playerPunchingRight = false;
-                    animator.SetTrigger("LUP");
+                    _playerPunchingHead = true;
+                    _playerPunchingRight = false;
+                    _animator.SetTrigger("LUP");
                 }
 
                 if (_input.dodgeLeft)
                 {
-                    animator.SetTrigger("LeftDodge");
+                    _animator.SetTrigger("LeftDodge");
                 }
 
                 if (_input.dodgeRight)
                 {
-                    animator.SetTrigger("RightDodge");
+                    _animator.SetTrigger("RightDodge");
                 }
 
                 if (_input.duck)
                 {
-                    animator.SetTrigger("Duck");
+                    _animator.SetTrigger("Duck");
                 }
 
                 if (_input.parry)
                 {
-                    animator.SetTrigger("Parry");
+                    _animator.SetTrigger("Parry");
+                }
+
+                if (playerInRecovery)
+                {
+                    if (_input.punchLeft)
+                    {
+                        KORecoveryScript.HitLeft();
+                    }
+                    if (_input.punchRight)
+                    {
+                        KORecoveryScript.HitRight();
+                    }
                 }
             }
         }
@@ -86,22 +98,22 @@ namespace StarterAssets
         {
             if (botHurtScript != null)
             {
-                botHurtScript.IsHit(playerPunchingHead, playerPunchingRight);
+                botHurtScript.IsHit(_playerPunchingHead, _playerPunchingRight);
             }
         }
 
         public void clearControls()
         {
-            animator.ResetTrigger("RUP");
-            animator.ResetTrigger("LUP");
-            animator.ResetTrigger("LeftDodge");
-            animator.ResetTrigger("RightDodge");
-            animator.ResetTrigger("RSP");
-            animator.ResetTrigger("LSP");
-            animator.ResetTrigger("Duck");
-            animator.ResetTrigger("Parry");
-            animator.ResetTrigger("HitLeft");
-            animator.ResetTrigger("HitRight");
+            _animator.ResetTrigger("RUP");
+            _animator.ResetTrigger("LUP");
+            _animator.ResetTrigger("LeftDodge");
+            _animator.ResetTrigger("RightDodge");
+            _animator.ResetTrigger("RSP");
+            _animator.ResetTrigger("LSP");
+            _animator.ResetTrigger("Duck");
+            _animator.ResetTrigger("Parry");
+            _animator.ResetTrigger("HitLeft");
+            _animator.ResetTrigger("HitRight");
         }
     }
 }
