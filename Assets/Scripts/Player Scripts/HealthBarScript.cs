@@ -14,6 +14,10 @@ public class HealthBarScript : MonoBehaviour
 
     public float whiteChangeRate = 10f;
 
+    private bool _healing;
+    private float _healingTarget;
+    public float healingSpeed;
+
     void Start()
     {
         _Animator = GetComponent<Animator>();
@@ -34,6 +38,25 @@ public class HealthBarScript : MonoBehaviour
         if (Health == _whiteHealthbar) {
             _timeSinceDamaged = 0;
                  }
+
+        if (_healing)
+        {
+            _Animator.SetBool("Healing", true);
+            if (Health < _healingTarget)
+            {
+                Health += healingSpeed * Time.deltaTime;
+                _whiteHealthbar = _healingTarget;
+            }
+            else
+            {
+                Health = _healingTarget;
+                _healing = false;
+            }
+        }
+        else
+        {
+            _Animator.SetBool("Healing", false);
+        }
     }
 
     public void TakesDamage(float damage)
@@ -41,5 +64,11 @@ public class HealthBarScript : MonoBehaviour
         _timeSinceDamaged = 0f;
         _Animator.SetTrigger("shake");
         Health = Health - damage;
+    }
+
+    public void Heal(float TargetHealth)
+    {
+        _healing = true;
+        _healingTarget = TargetHealth;
     }
 }

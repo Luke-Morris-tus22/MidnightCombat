@@ -5,7 +5,14 @@ public class KORecTargetScript : MonoBehaviour
 {
     public float speed = 100;
     RectTransform rectTransform;
+    public KORecoveryScript recoveryScript;
 
+    private void Awake()
+    {
+       // Debug.Log("awake");
+        recoveryScript = FindAnyObjectByType<KORecoveryScript>();
+        
+    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,6 +25,7 @@ public class KORecTargetScript : MonoBehaviour
         rectTransform.position = new Vector3(rectTransform.position.x, rectTransform.position.y - (speed * Time.deltaTime), rectTransform.position.z);
         if (rectTransform.position.y < -520)
         {
+            recoveryScript.ScoreBad();
             Destroy(gameObject);
         }
     }
@@ -29,15 +37,18 @@ public class KORecTargetScript : MonoBehaviour
             float distance = Mathf.Abs(collision.GetComponent<RectTransform>().position.y - rectTransform.position.y);
             if (distance <= 15)
             {
-                Debug.Log("Perfect");
+                // Debug.Log("Perfect");
+                recoveryScript.ScorePerfect();
             }
             else if (distance <= 30)
             {
-                Debug.Log("Good");
+                // Debug.Log("Good");
+                recoveryScript.ScoreGood();
             }
             else
             {
-                Debug.Log("Bad");
+                // Debug.Log("Bad");
+                recoveryScript.ScoreBad();
             }
             Destroy(gameObject);
         }

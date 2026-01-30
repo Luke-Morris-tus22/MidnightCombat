@@ -21,10 +21,14 @@ public class TBotAttackScript : MonoBehaviour
     void Update()
     {
         _attackIntervalCounter += Time.deltaTime;
-        if (_attackIntervalCounter > attackInterval)
+        if (_attackIntervalCounter > attackInterval && playerCollisionsScript.playerInCombat)
         {
             Attack();
-        }        
+        }
+        if (!playerCollisionsScript.playerInCombat)
+        {
+            restartAttackCounter();
+        }
     }
 
     public void restartAttackCounter()

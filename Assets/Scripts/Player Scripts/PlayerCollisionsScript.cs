@@ -12,6 +12,8 @@ public class PlayerCollisionsScript : MonoBehaviour
     public TBotAttackScript BotAttackScript;
     public KORecoveryScript KORecoveryScript;
 
+    public bool playerInCombat;
+
     void Start()
     {
         _collisionCollider = GetComponent<Collider2D>();
@@ -22,6 +24,7 @@ public class PlayerCollisionsScript : MonoBehaviour
     void Update()
     {
         _timeSinceDamageTaken += Time.deltaTime;
+        playerInCombat = GetComponent<PlayerController>().playerInCombat;
     }
 
     private void OnTriggerEnter2D(Collider2D other)

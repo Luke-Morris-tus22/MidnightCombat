@@ -14,6 +14,8 @@ namespace StarterAssets
         public bool playerInRecovery = false;
         public TBotHurtScript botHurtScript;
         public KORecoveryScript KORecoveryScript;
+        public HealthBarScript HealthBarScript;
+
 
         PlayerInputs _input;
         Animator _animator;
@@ -80,16 +82,18 @@ namespace StarterAssets
                     _animator.SetTrigger("Parry");
                 }
 
-                if (playerInRecovery)
+                
+            }
+
+            if (playerInRecovery)
+            {
+                if (_input.punchLeft)
                 {
-                    if (_input.punchLeft)
-                    {
-                        KORecoveryScript.HitLeft();
-                    }
-                    if (_input.punchRight)
-                    {
-                        KORecoveryScript.HitRight();
-                    }
+                    KORecoveryScript.HitLeft();
+                }
+                if (_input.punchRight)
+                {
+                    KORecoveryScript.HitRight();
                 }
             }
         }
@@ -114,6 +118,11 @@ namespace StarterAssets
             _animator.ResetTrigger("Parry");
             _animator.ResetTrigger("HitLeft");
             _animator.ResetTrigger("HitRight");
+        }
+
+        public void PlayerHeal(float targetAmount)
+        {
+            HealthBarScript.Heal(targetAmount);
         }
     }
 }
