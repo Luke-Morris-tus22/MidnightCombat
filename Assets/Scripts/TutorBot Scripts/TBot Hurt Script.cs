@@ -3,8 +3,6 @@ using UnityEngine;
 public class TBotHurtScript : MonoBehaviour
 {
     public HealthBarScript healthBarScript;
-    public float health;
-    public float maxHealth;
     public float damageTakeAmount;
 
     public bool guardUp = false;
@@ -12,10 +10,12 @@ public class TBotHurtScript : MonoBehaviour
     public float returnHitCount;
     public float returnHitCountMax;
     Animator _animator;
+    TBotAttackScript _attackScript;
 
     void Start()
     {
         _animator = GetComponent<Animator>();
+        _attackScript = GetComponent<TBotAttackScript>();
     }
 
     void Update()
@@ -33,11 +33,11 @@ public class TBotHurtScript : MonoBehaviour
         returnHitCount += 1;
         if (returnHitCount >= returnHitCountMax) 
         {
-            guardUp = true;
+            _attackScript.RaiseGuard();
             returnHitCount = 0;
         }
 
-        Debug.Log("return hit count" + returnHitCount);
+        //Debug.Log("return hit count" + returnHitCount);
 
     }
 
