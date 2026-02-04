@@ -1,3 +1,4 @@
+using StarterAssets;
 using TMPro;
 using UnityEngine;
 
@@ -5,20 +6,25 @@ public class TBotTutorialMasterScript : MonoBehaviour
 {
     private float _tutorialPhase;
 
+    public PlayerController PlayerController;
     public TextMeshProUGUI ObjectiveText;
     public TextMeshProUGUI ObjectiveCounterText;
     public DialogueScript DialogueScript;
     public HurtBoxScript HurtBoxScript;
+    public string[] SparAttackOrder;
+
+    private int sparAttackPos;
     private TBotAttackScript _attackScript;
     private TBotHurtScript _hurtScript;
-
     private bool _inDialogue;
     private float _tutorialObjectGoal;
     private float _tutorialObjectiveProgress;
+    private Animator _animator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        _animator = GetComponent<Animator>();
         _tutorialPhase = 0;
         DialogueScript.dialogueTextCurrent = DialogueScript.dialogueTextIntro;
         DialogueScript.startDialogue();
@@ -51,6 +57,12 @@ public class TBotTutorialMasterScript : MonoBehaviour
             } else if (_tutorialPhase == 4)
             {
                 StartPhase5();
+            } else if (_tutorialPhase == 5)
+            {
+                StartPhaseSpar();
+            } else if (_tutorialPhase == 6)
+            {
+                StartPhaseSparWon();
             }
                 DialogueScript.dialogueEnded = false;
             _inDialogue = false;
@@ -86,7 +98,6 @@ public class TBotTutorialMasterScript : MonoBehaviour
         ObjectiveText.text = "Punch the robot in the head four times";
         _tutorialObjectGoal = 4;
         _tutorialObjectiveProgress = 0;
-        _attackScript.guardDownOverwrite = true;
         _attackScript.attackInterval = 2;
     }
 
@@ -133,8 +144,6 @@ public class TBotTutorialMasterScript : MonoBehaviour
         ObjectiveText.text = "Duck under the robot's attacks 3 times";
         _tutorialObjectGoal = 3;
         _tutorialObjectiveProgress = 0;
-        _attackScript.guardDownOverwrite = false;
-        _attackScript.attackingActive = true;
         _attackScript.currentAttack = "StartHook";
     }
 
@@ -179,8 +188,33 @@ public class TBotTutorialMasterScript : MonoBehaviour
         _tutorialPhase = 6;
         ObjectiveText.enabled = false;
         ObjectiveCounterText.enabled = false;
-        _attackScript.guardDownOverwrite = false;
-        _attackScript.attackingActive = true;
-        _attackScript.currentAttack = "StartJab";
+        HurtBoxScript.damage = 10;
+        _hurtScript.damageTakeAmount = 3;
+        sparAttackPos = 0;
+    }
+
+    public void PrepareNextAttack()
+    {
+        if (_tutorialPhase == 6)
+        {
+            sparAttackPos += 1;
+            if (sparAttackPos > SparAttackOrder.Length)
+            {
+                sparAttackPos = 1;
+            }
+            _attackScript.currentAttack = SparAttackOrder[sparAttackPos];
+        }
+    }
+
+    public void robotDefeated()
+    {
+        DialogueScript.dialogueTextCurrent = DialogueScript.dialogueTextSparWin1;
+        DialogueScript.startDialogue();
+    }
+    public void StartPhaseSparWon()
+    {
+        HurtBoxScript.damage = 100;
+        PlayerController.playerInCombat = false;
+        _animator.SetTrigger("StartHook");
     }
 }

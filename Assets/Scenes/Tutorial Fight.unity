@@ -3236,10 +3236,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d95dae92cb2e6743891ca600d4f1583, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PlayerController: {fileID: 21389787}
   ObjectiveText: {fileID: 1966679147}
   ObjectiveCounterText: {fileID: 109639608}
   DialogueScript: {fileID: 658875211}
   HurtBoxScript: {fileID: 579415065}
+  SparAttackOrder:
+  - StartJab
+  - StartHook
+  - StartJabP
+  - StartJab
 --- !u!1 &978573158
 GameObject:
   m_ObjectHideFlags: 0
