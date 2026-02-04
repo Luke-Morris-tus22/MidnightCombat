@@ -3239,6 +3239,7 @@ MonoBehaviour:
   ObjectiveText: {fileID: 1966679147}
   ObjectiveCounterText: {fileID: 109639608}
   DialogueScript: {fileID: 658875211}
+  HurtBoxScript: {fileID: 579415065}
 --- !u!1 &978573158
 GameObject:
   m_ObjectHideFlags: 0
@@ -3850,8 +3851,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Try dodging these attacks using <sprite name="A"> and <sprite name="D">
-    or <sprite name="StickLeft"> and <sprite name="StickRight"> . '
+  m_text: 'Certain attacks can be parried if you press <sprite name="Space"> or <sprite
+    name="EButton"> right before you get hit. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}

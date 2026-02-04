@@ -8,6 +8,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
     public TextMeshProUGUI ObjectiveText;
     public TextMeshProUGUI ObjectiveCounterText;
     public DialogueScript DialogueScript;
+    public HurtBoxScript HurtBoxScript;
     private TBotAttackScript _attackScript;
     private TBotHurtScript _hurtScript;
 
@@ -24,6 +25,8 @@ public class TBotTutorialMasterScript : MonoBehaviour
         _inDialogue = true;
         _attackScript = GetComponent<TBotAttackScript>();
         _hurtScript = GetComponent<TBotHurtScript>();
+        HurtBoxScript.damage = 0;
+        _hurtScript.damageTakeAmount = 0;
     }
 
     // Update is called once per frame
@@ -169,5 +172,15 @@ public class TBotTutorialMasterScript : MonoBehaviour
                 DialogueScript.startDialogue();
             }
         }
+    }
+
+    public void StartPhaseSpar()
+    {
+        _tutorialPhase = 6;
+        ObjectiveText.enabled = false;
+        ObjectiveCounterText.enabled = false;
+        _attackScript.guardDownOverwrite = false;
+        _attackScript.attackingActive = true;
+        _attackScript.currentAttack = "StartJab";
     }
 }

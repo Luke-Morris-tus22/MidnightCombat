@@ -22,6 +22,8 @@ namespace StarterAssets
         bool _playerPunchingHead;
         bool _playerPunchingRight;
 
+        private float _punchHitCooldown;
+
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()
         {
@@ -32,6 +34,7 @@ namespace StarterAssets
         // Update is called once per frame
         void Update()
         {
+            _punchHitCooldown -= Time.deltaTime;
             if (playerInCombat)
             {
                 if (_input.punchRight && !_input.upPressed)
@@ -100,9 +103,13 @@ namespace StarterAssets
 
         public void PunchHit()
         {
-            if (botHurtScript != null)
+            if (_punchHitCooldown <= 0)
             {
-                botHurtScript.IsHit(_playerPunchingHead, _playerPunchingRight);
+                if (botHurtScript != null)
+                {
+                    botHurtScript.IsHit(_playerPunchingHead, _playerPunchingRight);
+                }
+                _punchHitCooldown = 0.4f;
             }
         }
 
