@@ -10,13 +10,18 @@ public class KORecoveryScript : MonoBehaviour
     public GameObject LeftSpawn;
     public GameObject RightSpawn;
     public Animator targetSpawnAnimator;
+    public Animator resultAnimator;
 
     public float recoveryScore;
     public float scoreGood = 10;
     public float scoreBad = -10;
     public float scorePerfect = 30;
 
+    public bool recoveryActive;
+
     public Slider slider;
+
+    public TBotTutorialMasterScript botTutorialMasterScript;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -33,6 +38,7 @@ public class KORecoveryScript : MonoBehaviour
 
     public void KORecStart()
     {
+        recoveryActive = true;
         _animator.SetBool("KORecOn", true);
         targetSpawnAnimator.SetBool("On", true );
         recoveryScore = 30;
@@ -63,6 +69,7 @@ public class KORecoveryScript : MonoBehaviour
 
     public void ScoreGood()
     {
+        resultAnimator.SetTrigger("Good");
         recoveryScore += scoreGood;
         if (recoveryScore >= 100)
         {
@@ -71,10 +78,12 @@ public class KORecoveryScript : MonoBehaviour
     }
     public void ScoreBad()
     {
+        resultAnimator.SetTrigger("Bad");
         recoveryScore += scoreBad;
     }
     public void ScorePerfect()
     {
+        resultAnimator.SetTrigger("Perfect");
         recoveryScore += scorePerfect;
         if (recoveryScore >= 100)
         {
@@ -84,6 +93,7 @@ public class KORecoveryScript : MonoBehaviour
 
     public void RecoverSuccess()
     {
+        recoveryActive = false;
         _animator.SetBool("KORecOn", false);
         targetSpawnAnimator.SetBool("On", false);
         Player.GetComponent<PlayerController>().playerInCombat = true;
@@ -91,9 +101,14 @@ public class KORecoveryScript : MonoBehaviour
 
         Player.GetComponent<PlayerController>().PlayerHeal(100);
 
+        if (botTutorialMasterScript != null)
+        {
+            botTutorialMasterScript.StartPhaseRecoverDone();
+        }
     }
     public void RecoverFail()
     {
+        recoveryActive = false;
 
     }
 }

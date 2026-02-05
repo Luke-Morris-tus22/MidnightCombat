@@ -1,6 +1,7 @@
 using StarterAssets;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class TBotTutorialMasterScript : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
     public DialogueScript DialogueScript;
     public HurtBoxScript HurtBoxScript;
     public string[] SparAttackOrder;
+    public GameObject victoryScreenPanel;
 
     private int sparAttackPos;
     private TBotAttackScript _attackScript;
@@ -20,6 +22,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
     private float _tutorialObjectGoal;
     private float _tutorialObjectiveProgress;
     private Animator _animator;
+    private bool _sparWon;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -33,6 +36,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
         _hurtScript = GetComponent<TBotHurtScript>();
         HurtBoxScript.damage = 0;
         _hurtScript.damageTakeAmount = 0;
+        _sparWon = false;
     }
 
     // Update is called once per frame
@@ -63,6 +67,9 @@ public class TBotTutorialMasterScript : MonoBehaviour
             } else if (_tutorialPhase == 6)
             {
                 StartPhaseSparWon();
+            } else if (_tutorialPhase == 7)
+            {
+                EnableVictoryScreen();
             }
                 DialogueScript.dialogueEnded = false;
             _inDialogue = false;
@@ -198,9 +205,9 @@ public class TBotTutorialMasterScript : MonoBehaviour
         if (_tutorialPhase == 6)
         {
             sparAttackPos += 1;
-            if (sparAttackPos > SparAttackOrder.Length)
+            if (sparAttackPos >= SparAttackOrder.Length)
             {
-                sparAttackPos = 1;
+                sparAttackPos = 0;
             }
             _attackScript.currentAttack = SparAttackOrder[sparAttackPos];
         }
@@ -213,8 +220,31 @@ public class TBotTutorialMasterScript : MonoBehaviour
     }
     public void StartPhaseSparWon()
     {
+        _sparWon = true;
         HurtBoxScript.damage = 100;
         PlayerController.playerInCombat = false;
         _animator.SetTrigger("StartHook");
+    }
+
+    public void StartPhaseRecoverDone()
+    {
+        _tutorialPhase = 7;
+        _attackScript.attackingActive = false;
+        if (_sparWon)
+        {
+            DialogueScript.dialogueTextCurrent = DialogueScript.dialogueTextSparWin2;
+            DialogueScript.startDialogue();
+        }
+        else
+        {
+            DialogueScript.dialogueTextCurrent = DialogueScript.dialogueTextSparLose;
+            DialogueScript.startDialogue();
+        }
+    }
+    public void EnableVictoryScreen()
+    {
+        _attackScript.attackingActive = false;
+        PlayerController.playerInCombat = false;
+        victoryScreenPanel.GetComponent<Image>().color = Color.gray;
     }
 }

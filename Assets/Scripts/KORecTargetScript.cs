@@ -23,7 +23,11 @@ public class KORecTargetScript : MonoBehaviour
     void Update()
     {
         rectTransform.position = new Vector3(rectTransform.position.x, rectTransform.position.y - (speed * Time.deltaTime), rectTransform.position.z);
-        if (rectTransform.position.y < -520)
+        if (!recoveryScript.recoveryActive)
+        {
+            Destroy(gameObject);
+        }
+        if (rectTransform.position.y < 0)
         {
             recoveryScript.ScoreBad();
             Destroy(gameObject);

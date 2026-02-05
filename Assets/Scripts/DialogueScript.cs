@@ -36,10 +36,10 @@ public class DialogueScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (player.GetComponent<PlayerInputs>().punchLeft && dialogueOn && _continueBlockTimer <=0)
+        if ((player.GetComponent<PlayerInputs>().punchLeft || player.GetComponent<PlayerInputs>().parry) && dialogueOn && _continueBlockTimer <=0)
         {
             continueDialogue();
-            _continueBlockTimer = 1f;
+            _continueBlockTimer = 0.5f;
         }
         if (_continueBlockTimer > 0)
         {
@@ -54,6 +54,7 @@ public class DialogueScript : MonoBehaviour
         _dialogueStringPos = 0;
         player.GetComponent<PlayerController>().playerInCombat = false;
         dialogueTextGO.GetComponent<TextMeshProUGUI>().text = dialogueTextCurrent[_dialogueStringPos];
+        _continueBlockTimer = 0.75f;
     }
 
     public void continueDialogue()
