@@ -675,6 +675,7 @@ MonoBehaviour:
   scoreGood: 10
   scoreBad: -10
   scorePerfect: 30
+  recoveryActive: 0
   slider: {fileID: 173995430}
   botTutorialMasterScript: {fileID: 838888498}
 --- !u!95 &30214402
