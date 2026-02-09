@@ -1041,6 +1041,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de91f9db21125de4f891e1cc80a5d1f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  button: {fileID: 1232683940}
+  button2: {fileID: 815632917}
+  button3: {fileID: 1179086975}
 --- !u!1 &109639606
 GameObject:
   m_ObjectHideFlags: 0
@@ -3828,6 +3831,18 @@ MonoBehaviour:
       - m_Target: {fileID: 97768577}
         m_TargetAssemblyTypeName: VictoryScreenButtons, Assembly-CSharp
         m_MethodName: RestartPlaytest
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 97768577}
+        m_TargetAssemblyTypeName: VictoryScreenButtons, Assembly-CSharp
+        m_MethodName: disabelButtons
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
