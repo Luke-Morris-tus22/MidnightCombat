@@ -4,7 +4,7 @@ using UnityEngine.Splines.Interpolators;
 
 public class AudienceShakeScript : MonoBehaviour
 {
-    public static float AudienceExcitement;
+    public static float AudienceExcitement = 1;
     public float shakeSpeed = 1;
     public float shakeAmplittude = 0.5f;
 
