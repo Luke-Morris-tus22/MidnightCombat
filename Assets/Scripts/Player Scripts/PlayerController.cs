@@ -13,6 +13,7 @@ namespace StarterAssets
         public bool playerInCombat = true;
         public bool playerInRecovery = false;
         public TBotHurtScript botHurtScript;
+        public RKHurtScript RKHurtScript;
         public KORecoveryScript KORecoveryScript;
         public HealthBarScript HealthBarScript;
 
@@ -107,7 +108,10 @@ namespace StarterAssets
                 {
                     botHurtScript.IsHit(_playerPunchingHead, _playerPunchingRight);
                 }
-            
+            if(RKHurtScript != null)
+            {
+                RKHurtScript.isHit(_playerPunchingHead, _playerPunchingRight);
+            }
         }
 
         public void clearControls()

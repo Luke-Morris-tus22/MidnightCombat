@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 222212c78e95a2b47bcc687414c111b8
+guid: c99e2baf3ebe09e46a960d0b34c273b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8273418679544145434
-    second: RK_HitHR2_0
-  - first:
-      213: -1757308407137959310
-    second: RK_HitHR2_1
-  - first:
-      213: -7872894264555488972
-    second: RK_HitHR2_2
+      213: -1195652308794183532
+    second: RK_HitBR3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -184,13 +178,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RK_HitHR2_0
+      name: RK_HitBR3_0
       rect:
         serializedVersion: 2
-        x: 1159
-        y: 619
-        width: 569
-        height: 630
+        x: 1277
+        y: 611
+        width: 300
+        height: 715
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,52 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a166f40647611d270800000000000000
-      internalID: 8273418679544145434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RK_HitHR2_1
-      rect:
-        serializedVersion: 2
-        x: 1184
-        y: 1244
-        width: 129
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2720cb77059cc97e0800000000000000
-      internalID: -1757308407137959310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RK_HitHR2_2
-      rect:
-        serializedVersion: 2
-        x: 1154
-        y: 967
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 439b5f6f06cddb290800000000000000
-      internalID: -7872894264555488972
+      spriteID: 490727b5f80386fe0800000000000000
+      internalID: -1195652308794183532
       vertices: []
       indices: 
       edges: []
@@ -263,9 +213,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RK_HitHR2_0: 8273418679544145434
-      RK_HitHR2_1: -1757308407137959310
-      RK_HitHR2_2: -7872894264555488972
+      RK_HitBR3_0: -1195652308794183532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
