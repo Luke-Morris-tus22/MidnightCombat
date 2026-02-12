@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0b177a3ec9231824dbddcced3855b928
+guid: bcb8281863e49144ea7c7f0aec76bb80
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -181,10 +181,10 @@ TextureImporter:
       name: RK_HitBL3_0
       rect:
         serializedVersion: 2
-        x: 1355
-        y: 602
-        width: 296
-        height: 728
+        x: 1293
+        y: 595
+        width: 324
+        height: 779
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

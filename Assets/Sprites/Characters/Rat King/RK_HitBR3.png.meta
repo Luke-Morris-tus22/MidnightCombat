@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c99e2baf3ebe09e46a960d0b34c273b9
+guid: 4a2d60382aa073249965564fd06a5dc5
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -181,10 +181,10 @@ TextureImporter:
       name: RK_HitBR3_0
       rect:
         serializedVersion: 2
-        x: 1277
-        y: 611
-        width: 300
-        height: 715
+        x: 1291
+        y: 593
+        width: 325
+        height: 782
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

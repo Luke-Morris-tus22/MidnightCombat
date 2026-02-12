@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 790cd9b2ff2ecb84cbab45438b87888f
+guid: 4420b2807aad99046a76cb40f925ea6c
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 2051946283523151190
     second: RK_HitBR2_0
+  - first:
+      213: -7421823007488764017
+    second: RK_HitBR2_1
+  - first:
+      213: 7984767245269280992
+    second: RK_HitBR2_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -181,10 +187,10 @@ TextureImporter:
       name: RK_HitBR2_0
       rect:
         serializedVersion: 2
-        x: 1208
-        y: 616
-        width: 365
-        height: 710
+        x: 1291
+        y: 605
+        width: 320
+        height: 720
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,6 +201,50 @@ TextureImporter:
       bones: []
       spriteID: 655949fe54af97c10800000000000000
       internalID: 2051946283523151190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_HitBR2_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1319
+        width: 119
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f879fc41c43600990800000000000000
+      internalID: -7421823007488764017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_HitBR2_2
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 720
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8237421879fce60800000000000000
+      internalID: 7984767245269280992
       vertices: []
       indices: 
       edges: []
@@ -214,6 +264,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       RK_HitBR2_0: 2051946283523151190
+      RK_HitBR2_1: -7421823007488764017
+      RK_HitBR2_2: 7984767245269280992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

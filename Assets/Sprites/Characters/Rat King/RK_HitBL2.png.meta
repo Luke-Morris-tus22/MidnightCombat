@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 47f090612355b6d4fbe27ea2ebadb8fe
+guid: f5aa86cbdf74e224daea65cf766a0d13
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 6720298195366928125
     second: RK_HitBL2_0
+  - first:
+      213: 8214620404378960440
+    second: RK_HitBL2_1
+  - first:
+      213: 5609668024175417401
+    second: RK_HitBL2_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -181,10 +187,10 @@ TextureImporter:
       name: RK_HitBL2_0
       rect:
         serializedVersion: 2
-        x: 1359
-        y: 597
-        width: 344
-        height: 733
+        x: 1294
+        y: 594
+        width: 320
+        height: 730
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,6 +201,50 @@ TextureImporter:
       bones: []
       spriteID: dfe5b8f5a9b434d50800000000000000
       internalID: 6720298195366928125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_HitBL2_1
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1319
+        width: 118
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8320faf1cb1300270800000000000000
+      internalID: 8214620404378960440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_HitBL2_2
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 720
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938d7d0c85b89dd40800000000000000
+      internalID: 5609668024175417401
       vertices: []
       indices: 
       edges: []
@@ -214,6 +264,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       RK_HitBL2_0: 6720298195366928125
+      RK_HitBL2_1: 8214620404378960440
+      RK_HitBL2_2: 5609668024175417401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

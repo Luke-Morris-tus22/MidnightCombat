@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 7289a24a12cf6f4429de6c920e20b533
+guid: ecca76d5f13a90348be55e6573ae8d11
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2086137357276626569
-    second: RK_HitBL1_0
-  - first:
-      213: 6852615267363958309
-    second: RK_HitBL1_1
+      213: 1435060461143581365
+    second: RK_HitBR1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -181,13 +178,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RK_HitBL1_0
+      name: RK_HitBR1_0
       rect:
         serializedVersion: 2
-        x: 1394
-        y: 1327
-        width: 113
-        height: 60
+        x: 1218
+        y: 644
+        width: 363
+        height: 704
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,30 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98e3525afd273fc10800000000000000
-      internalID: 2086137357276626569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RK_HitBL1_1
-      rect:
-        serializedVersion: 2
-        x: 1294
-        y: 599
-        width: 331
-        height: 724
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 52ea5a96741691f50800000000000000
-      internalID: 6852615267363958309
+      spriteID: 5b2eba9d2eb5ae310800000000000000
+      internalID: 1435060461143581365
       vertices: []
       indices: 
       edges: []
@@ -238,8 +213,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RK_HitBL1_0: 2086137357276626569
-      RK_HitBL1_1: 6852615267363958309
+      RK_HitBR1_0: 1435060461143581365
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
