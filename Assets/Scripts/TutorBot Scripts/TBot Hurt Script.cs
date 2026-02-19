@@ -8,6 +8,8 @@ public class TBotHurtScript : MonoBehaviour
     public HurtBoxScript hurtBoxScript;
     public float returnHitCount;
     public float returnHitCountMax;
+    public ParticleSystem blockPS;
+
 
     Animator _animator;
     TBotAttackScript _attackScript;
@@ -23,13 +25,13 @@ public class TBotHurtScript : MonoBehaviour
 
     void Update()
     {
+        _animator.SetBool("GuardUp", guardUp);
 
     }
 
     public void IsHit(bool isHead, bool isRight)
     {
         _animator.SetBool("MissedAttack", false);
-        _animator.SetBool("GuardUp", guardUp);
         _animator.SetBool("HitInHead", isHead);
         _animator.SetBool("HitRight", isRight);
         _animator.SetTrigger("GotHit");
@@ -48,5 +50,10 @@ public class TBotHurtScript : MonoBehaviour
         {
             _masterScript.robotDefeated();
         }
+    }
+
+    public void playBlockPS()
+    {
+        blockPS.Play();
     }
 }

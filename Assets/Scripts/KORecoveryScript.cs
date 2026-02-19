@@ -38,10 +38,11 @@ public class KORecoveryScript : MonoBehaviour
 
     public void KORecStart()
     {
+        recoveryScore = 30;
+
         recoveryActive = true;
         _animator.SetBool("KORecOn", true);
         targetSpawnAnimator.SetBool("On", true );
-        recoveryScore = 30;
         Player.GetComponent<PlayerController>().playerInCombat = false;
         Player.GetComponent<PlayerController>().playerInRecovery = true;
 
@@ -80,6 +81,30 @@ public class KORecoveryScript : MonoBehaviour
     {
         resultAnimator.SetTrigger("Bad");
         recoveryScore += scoreBad;
+        if (recoveryScore < 0)
+        {
+            recoveryScore = 0;
+        }
+    }
+
+    public void Late()
+    {
+        resultAnimator.SetTrigger("Late");
+        recoveryScore += scoreBad;
+        if (recoveryScore < 0)
+        {
+            recoveryScore = 0;
+        }
+    }
+
+    public void Early()
+    {
+        resultAnimator.SetTrigger("Early");
+        recoveryScore += scoreBad;
+        if (recoveryScore < 0)
+        {
+            recoveryScore = 0;
+        }
     }
     public void ScorePerfect()
     {

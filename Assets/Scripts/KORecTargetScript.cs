@@ -29,7 +29,7 @@ public class KORecTargetScript : MonoBehaviour
         }
         if (rectTransform.position.y < 0)
         {
-            recoveryScript.ScoreBad();
+            recoveryScript.Late();
             Destroy(gameObject);
         }
     }
@@ -51,8 +51,14 @@ public class KORecTargetScript : MonoBehaviour
             }
             else
             {
-                // Debug.Log("Bad");
-                recoveryScript.ScoreBad();
+                if (rectTransform.position.y < collision.GetComponent<RectTransform>().position.y)
+                {
+                    recoveryScript.Late();
+                }
+                else
+                {
+                    recoveryScript.Early();
+                }
             }
             Destroy(gameObject);
         }

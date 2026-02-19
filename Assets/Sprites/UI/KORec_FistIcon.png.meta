@@ -181,10 +181,10 @@ TextureImporter:
       name: KORec_FistIcon_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 0
-        width: 291
-        height: 291
+        x: 7
+        y: 8
+        width: 279
+        height: 281
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,8 +212,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      KORec_FistIcon_0: -4189366240605109407
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

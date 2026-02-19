@@ -190,10 +190,10 @@ TextureImporter:
       name: Bot_BlockH1_0
       rect:
         serializedVersion: 2
-        x: 1333
+        x: 1336
         y: 621
-        width: 242
-        height: 723
+        width: 232
+        height: 714
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

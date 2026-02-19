@@ -128,6 +128,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
         _tutorialObjectGoal = 3;
         _tutorialObjectiveProgress = 0;
         _attackScript.guardDownOverwrite = false;
+        _attackScript.RaiseGuard();
         _attackScript.attackingActive = true;
         _attackScript.currentAttack = "StartJab";
     }
@@ -152,6 +153,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
         _tutorialObjectGoal = 3;
         _tutorialObjectiveProgress = 0;
         _attackScript.currentAttack = "StartHook";
+        _attackScript.RaiseGuard();
     }
 
     public void beenDucked()
@@ -175,6 +177,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
         _attackScript.guardDownOverwrite = false;
         _attackScript.attackingActive = true;
         _attackScript.currentAttack = "StartJabP";
+        _attackScript.RaiseGuard();
     }
 
     public void beenParried()
@@ -198,6 +201,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
         HurtBoxScript.damage = 10;
         _hurtScript.damageTakeAmount = 3;
         sparAttackPos = 0;
+        _attackScript.RaiseGuard();
     }
 
     public void PrepareNextAttack()
@@ -223,6 +227,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
         _sparWon = true;
         HurtBoxScript.damage = 100;
         PlayerController.playerInCombat = false;
+        _attackScript.RaiseGuard();
         _animator.SetTrigger("StartHook");
     }
 
