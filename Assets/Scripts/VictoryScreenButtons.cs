@@ -38,7 +38,7 @@ public class VictoryScreenButtons : MonoBehaviour
 
     public void OpenLink()
     {
-        Application.OpenURL("https://docs.google.com/forms/d/e/1FAIpQLSdp11_vGiRBvCrrTrCO6ShLzmGy7vzYheMjB_suYoCzzS-3pg/viewform?usp=dialog");
+        Application.OpenURL("https://docs.google.com/forms/d/e/1FAIpQLSfTlz_8N2UOqsHKS_kNI5ZrCe0Ao2t_QkCvJAjoUhNYhmXG_Q/viewform?usp=publish-editor");
     }
 
     public void RestartPlaytest()
