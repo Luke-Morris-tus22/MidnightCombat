@@ -18,7 +18,6 @@ public class TBotTutorialMasterScript : MonoBehaviour
     private int sparAttackPos;
     private TBotAttackScript _attackScript;
     private TBotHurtScript _hurtScript;
-    private bool _inDialogue;
     private float _tutorialObjectGoal;
     private float _tutorialObjectiveProgress;
     private Animator _animator;
@@ -31,7 +30,6 @@ public class TBotTutorialMasterScript : MonoBehaviour
         _tutorialPhase = 0;
         DialogueScript.dialogueTextCurrent = DialogueScript.dialogueTextIntro;
         DialogueScript.startDialogue();
-        _inDialogue = true;
         _attackScript = GetComponent<TBotAttackScript>();
         _hurtScript = GetComponent<TBotHurtScript>();
         HurtBoxScript.damage = 0;
@@ -72,7 +70,6 @@ public class TBotTutorialMasterScript : MonoBehaviour
                 EnableVictoryScreen();
             }
                 DialogueScript.dialogueEnded = false;
-            _inDialogue = false;
         }
     }
 

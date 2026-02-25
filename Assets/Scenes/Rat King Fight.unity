@@ -221,7 +221,7 @@ GameObject:
   - component: {fileID: 16053200}
   - component: {fileID: 16053199}
   m_Layer: 5
-  m_Name: Bot Health UI
+  m_Name: RK Health UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3042,7 +3042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackInterval: 2
-  playerCollisionsScript: {fileID: 21389793}
+  playerCollisionScript: {fileID: 0}
   hurtBoxScript: {fileID: 579415065}
   guardDownOverwrite: 0
   attackingActive: 0
@@ -3145,6 +3145,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 978573158}
   m_CullTransparentMesh: 1
+--- !u!1001 &1015871532
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 833753065557191831, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3808551267534258589, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+      propertyPath: m_Name
+      value: Block Particle System
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+--- !u!198 &1015871533 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 531295361409290639, guid: 90a72e499b3c1ff40a035cc71bd6c28c, type: 3}
+  m_PrefabInstance: {fileID: 1015871532}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1116416783
 GameObject:
   m_ObjectHideFlags: 0
@@ -3576,7 +3638,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1264560132
 Transform:
   m_ObjectHideFlags: 0
@@ -3586,7 +3648,7 @@ Transform:
   m_GameObject: {fileID: 1264560131}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 4.27, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5658,6 +5720,7 @@ GameObject:
   - component: {fileID: 2130929056}
   - component: {fileID: 2130929057}
   - component: {fileID: 2130929058}
+  - component: {fileID: 2130929059}
   m_Layer: 0
   m_Name: RatKing
   m_TagString: Untagged
@@ -5770,6 +5833,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0da08ea80f601d41bae63859f82214b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  healthBarScript: {fileID: 16053200}
+  damageTakeAmount: 3
+  guardUp: 0
+  invulnerable: 0
+  hurtBoxScript: {fileID: 1264560133}
+  returnHitCount: 0
+  returnHitCountMax: 0
+  blockPS: {fileID: 1015871533}
 --- !u!114 &2130929058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5782,11 +5853,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e2d9915f0c15364ea629333645a7a91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackInterval: 1
+  attackInterval: 2
   playerCollisionScript: {fileID: 21389793}
   HurtBoxScript: {fileID: 1264560133}
-  attackingActive: 0
-  currentAttack: 
+  attackingActive: 1
+  currentAttack: RightJab
+--- !u!114 &2130929059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130929053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d47d4626b4bae2428eb4e2644777dda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SparAttackOrder:
+  - RightJab
+  - LeftJab
+  - Sweep
+  - Overhead
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -5801,3 +5889,4 @@ SceneRoots:
   - {fileID: 1604627898}
   - {fileID: 1187748422}
   - {fileID: 2130929055}
+  - {fileID: 1015871532}

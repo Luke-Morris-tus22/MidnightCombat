@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: d7d854e80497ff24aafa9ce9e7848f55
+guid: a70dadfd32abc4c4dad3d8fda3ac228b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5788876296601114554
-    second: Player_Parry2_0
+      213: -2117392553838392324
+    second: Player_Parry3_0
   - first:
-      213: -8477217264416109238
-    second: Player_Parry2_1
+      213: 8798131194710895694
+    second: Player_Parry3_1
   - first:
-      213: -3931518197363214445
-    second: Player_Parry2_2
+      213: 7430860177484475222
+    second: Player_Parry3_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -184,13 +184,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Parry2_0
+      name: Player_Parry3_0
       rect:
         serializedVersion: 2
-        x: 1234
-        y: 778
-        width: 87
-        height: 179
+        x: 1117
+        y: 877
+        width: 213
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab7969b2258365050800000000000000
-      internalID: 5788876296601114554
+      spriteID: cfbc762d0b28d92e0800000000000000
+      internalID: -2117392553838392324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Parry2_1
+      name: Player_Parry3_1
       rect:
         serializedVersion: 2
-        x: 1310
-        y: 487
-        width: 321
-        height: 599
+        x: 1276
+        y: 483
+        width: 418
+        height: 632
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4d4baeefcfda5a80800000000000000
-      internalID: -8477217264416109238
+      spriteID: e4ca60405bd391a70800000000000000
+      internalID: 8798131194710895694
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Parry2_2
+      name: Player_Parry3_2
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 871
-        width: 85
-        height: 167
+        x: 1632
+        y: 900
+        width: 182
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,8 +243,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3977e2297017079c0800000000000000
-      internalID: -3931518197363214445
+      spriteID: 65bee8606f7bf1760800000000000000
+      internalID: 7430860177484475222
       vertices: []
       indices: 
       edges: []
@@ -263,9 +263,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player_Parry2_0: 5788876296601114554
-      Player_Parry2_1: -8477217264416109238
-      Player_Parry2_2: -3931518197363214445
+      Player_Parry3_0: -2117392553838392324
+      Player_Parry3_1: 8798131194710895694
+      Player_Parry3_2: 7430860177484475222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

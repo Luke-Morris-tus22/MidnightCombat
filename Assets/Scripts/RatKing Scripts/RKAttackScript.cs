@@ -12,7 +12,6 @@ public class RKAttackScript : MonoBehaviour
     public bool attackingActive;
     public string currentAttack;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         _animator = GetComponent<Animator>();
@@ -20,10 +19,17 @@ public class RKAttackScript : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        _attackIntervalCounter += Time.deltaTime;
+        if (_attackIntervalCounter > attackInterval && playerCollisionScript.playerInCombat && attackingActive)
+        {
+            Attack();
+        }
+        if (!playerCollisionScript.playerInCombat)
+        {
+            restartAttackCounter();
+        }
     }
 
     public void restartAttackCounter()
@@ -40,8 +46,8 @@ public class RKAttackScript : MonoBehaviour
     public void attackSuccessCheck()
     {
         //Debug.Log("attack success check");
-        _animator.SetBool("MissedAttack", playerCollisionScript.playerDodgedCheck());
-       // RKHurtScript.returnHitCountMax = hurtBoxScript.returnHitsCount;
+        _animator.SetBool("AttackMissed", playerCollisionScript.playerDodgedCheck());
+        _hurtScript.returnHitCountMax = HurtBoxScript.returnHitsCount;
 
     }
 }

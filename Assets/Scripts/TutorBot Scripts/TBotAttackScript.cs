@@ -7,7 +7,7 @@ public class TBotAttackScript : MonoBehaviour
     public float attackInterval = 2; //seconds before starting an attack
     private float _attackIntervalCounter;
     private TBotHurtScript _botHurtScript;
-    public PlayerCollisionsScript playerCollisionsScript;
+    public PlayerCollisionsScript playerCollisionScript;
     public HurtBoxScript hurtBoxScript;
 
     public bool guardDownOverwrite;
@@ -27,11 +27,11 @@ public class TBotAttackScript : MonoBehaviour
     void Update()
     {
         _attackIntervalCounter += Time.deltaTime;
-        if (_attackIntervalCounter > attackInterval && playerCollisionsScript.playerInCombat && attackingActive)
+        if (_attackIntervalCounter > attackInterval && playerCollisionScript.playerInCombat && attackingActive)
         {
             Attack();
         }
-        if (!playerCollisionsScript.playerInCombat)
+        if (!playerCollisionScript.playerInCombat)
         {
             restartAttackCounter();
         }
@@ -51,7 +51,7 @@ public class TBotAttackScript : MonoBehaviour
     public void attackSuccessCheck()
     {
         //Debug.Log("attack success check");
-        _animator.SetBool("MissedAttack", playerCollisionsScript.playerDodgedCheck());
+        _animator.SetBool("MissedAttack", playerCollisionScript.playerDodgedCheck());
         _botHurtScript.returnHitCountMax = hurtBoxScript.returnHitsCount;
 
     }
