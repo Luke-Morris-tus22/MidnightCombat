@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      KORec_FistIcon_0: -4189366240605109407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
