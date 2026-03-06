@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ea315b5c7e61807459933997f305bd01
+guid: 5014f55aafdd14440aa810ecec684b50
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8486031539342236817
-    second: Untitled_Artwork-7_0
+      213: 8421568580686491582
+    second: number04_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,10 +48,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 250
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -161,30 +161,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Untitled_Artwork-7_0
+      name: number04_0
       rect:
         serializedVersion: 2
-        x: 119
-        y: 181
-        width: 1127
-        height: 1651
+        x: 61
+        y: 33
+        width: 390
+        height: 422
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19c514f59b074c570800000000000000
-      internalID: 8486031539342236817
+      spriteID: ebfa867310c6fd470800000000000000
+      internalID: 8421568580686491582
       vertices: []
       indices: 
       edges: []
@@ -213,7 +200,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Untitled_Artwork-7_0: 8486031539342236817
+      number04_0: 8421568580686491582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
