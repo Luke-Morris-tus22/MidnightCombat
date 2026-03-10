@@ -39,6 +39,7 @@ public class RKHurtScript : MonoBehaviour
             _animator.SetTrigger("Hit");
             if (returnHitCount == returnHitCountMax)
             {
+                _animator.SetBool("Stunned", false);
                 _animator.SetBool("StunEnd", true);
             }
 
@@ -47,6 +48,8 @@ public class RKHurtScript : MonoBehaviour
 
     public void takeDamage()
     {
+        _animator.SetBool("Stunned", true);
+
         healthBarScript.TakesDamage(damageTakeAmount);
         if (healthBarScript.Health <= 0)
         {
@@ -75,6 +78,7 @@ public class RKHurtScript : MonoBehaviour
 
     public void RaiseGuard()
     {
+        _animator.SetBool("Stunned", false);
         if (!guardUp)
         {
             guardUp = true;

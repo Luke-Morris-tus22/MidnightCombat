@@ -321,9 +321,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   redSlider: {fileID: 3184421}
   whiteSlider: {fileID: 434092977}
-  playerHealth: 100
+  Health: 0
   whiteBarDelay: 2
   whiteChangeRate: 10
+  healingSpeed: 0
 --- !u!222 &16053201
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -431,7 +432,7 @@ SpriteRenderer:
   m_Size: {x: 4.6251855, y: 7.24}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &21389785
@@ -492,8 +493,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerInCombat: 1
-  _input: {fileID: 21389788}
-  animator: {fileID: 21389783}
+  playerInRecovery: 0
+  botHurtScript: {fileID: 0}
+  RKHurtScript: {fileID: 0}
+  KORecoveryScript: {fileID: 0}
+  HealthBarScript: {fileID: 0}
 --- !u!114 &21389788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -510,6 +514,9 @@ MonoBehaviour:
   punchLeft: 0
   dodgeRight: 0
   dodgeLeft: 0
+  upPressed: 0
+  duck: 0
+  parry: 0
 --- !u!114 &21389789
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -582,6 +589,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58331028e0daa3f458768e162c8e6b74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HealthBarScript: {fileID: 0}
+  isParrying: 0
+  BotAttackScript: {fileID: 0}
+  KORecoveryScript: {fileID: 0}
+  playerInCombat: 0
 --- !u!50 &21389792
 Rigidbody2D:
   serializedVersion: 5
@@ -2031,12 +2043,18 @@ MonoBehaviour:
   dialogueOn: 0
   player: {fileID: 21389782}
   dialogueTextGO: {fileID: 1416828780}
-  dialogueText:
-  - Hello
-  - I am the coach
-  - This is a test
-  - Dialogue 4
-  dialogueStringPos: 0
+  animator: {fileID: 0}
+  dialogueTextIntro: []
+  dialogueTextPunchUp: []
+  dialogueTextDodge: []
+  dialogueTextDuck: []
+  dialogueTextParry: []
+  dialogueTextSpar: []
+  dialogueTextSparWin1: []
+  dialogueTextSparWin2: []
+  dialogueTextSparLose: []
+  dialogueTextCurrent: []
+  dialogueEnded: 0
 --- !u!1 &728473916
 GameObject:
   m_ObjectHideFlags: 0
@@ -2100,9 +2118,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   redSlider: {fileID: 2105469329}
   whiteSlider: {fileID: 1565417465}
-  playerHealth: 100
+  Health: 0
   whiteBarDelay: 2
   whiteChangeRate: 10
+  healingSpeed: 0
 --- !u!95 &728473920
 Animator:
   serializedVersion: 7
@@ -2234,7 +2253,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2612,8 +2631,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 48.4675, y: -9.033}
-  m_SizeDelta: {x: 683.465, y: 62.669}
+  m_AnchoredPosition: {x: 73.29535, y: 221.18274}
+  m_SizeDelta: {x: 816.7, y: 198.4982}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1150156754
 MonoBehaviour:
@@ -3036,7 +3055,7 @@ SpriteRenderer:
   m_Size: {x: 16.4, y: 23.603092}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1282997655
