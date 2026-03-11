@@ -1,0 +1,4433 @@
+fileFormatVersion: 2
+guid: ed9d339679aa0564e9cc1328903fe656
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8096140313928529114
+    second: Healthbar_Overlay_0
+  - first:
+      213: -2853596062180975609
+    second: Healthbar_Overlay_1
+  - first:
+      213: -6127909749474950867
+    second: Healthbar_Overlay_2
+  - first:
+      213: 7005526564026639359
+    second: Healthbar_Overlay_3
+  - first:
+      213: -3481275027684011417
+    second: Healthbar_Overlay_4
+  - first:
+      213: 6904394351306422901
+    second: Healthbar_Overlay_5
+  - first:
+      213: 7234743723199971837
+    second: Healthbar_Overlay_6
+  - first:
+      213: 7469585570017837210
+    second: Healthbar_Overlay_7
+  - first:
+      213: 2341370831382431858
+    second: Healthbar_Overlay_8
+  - first:
+      213: 8400941226920936670
+    second: Healthbar_Overlay_9
+  - first:
+      213: 3492800502614057547
+    second: Healthbar_Overlay_10
+  - first:
+      213: 8662342566177093854
+    second: Healthbar_Overlay_11
+  - first:
+      213: 3132253209328132305
+    second: Healthbar_Overlay_12
+  - first:
+      213: 2744554216041875020
+    second: Healthbar_Overlay_13
+  - first:
+      213: -5665418064565188470
+    second: Healthbar_Overlay_14
+  - first:
+      213: -1527110556436066045
+    second: Healthbar_Overlay_15
+  - first:
+      213: 7372341543567248655
+    second: Healthbar_Overlay_16
+  - first:
+      213: 3949722016825053668
+    second: Healthbar_Overlay_17
+  - first:
+      213: -2483986408022604634
+    second: Healthbar_Overlay_18
+  - first:
+      213: 7179214398310250705
+    second: Healthbar_Overlay_19
+  - first:
+      213: 7409735049139676784
+    second: Healthbar_Overlay_20
+  - first:
+      213: 1780518970370227667
+    second: Healthbar_Overlay_21
+  - first:
+      213: 2391181548522847763
+    second: Healthbar_Overlay_22
+  - first:
+      213: -8698878932509517024
+    second: Healthbar_Overlay_23
+  - first:
+      213: -6086779825649015585
+    second: Healthbar_Overlay_24
+  - first:
+      213: 3255682624439474351
+    second: Healthbar_Overlay_25
+  - first:
+      213: 2813887796189992625
+    second: Healthbar_Overlay_26
+  - first:
+      213: -4335474764022486972
+    second: Healthbar_Overlay_27
+  - first:
+      213: 1635749339079582205
+    second: Healthbar_Overlay_28
+  - first:
+      213: -6158663103865717312
+    second: Healthbar_Overlay_29
+  - first:
+      213: -82236796862239746
+    second: Healthbar_Overlay_30
+  - first:
+      213: 711717308329079078
+    second: Healthbar_Overlay_31
+  - first:
+      213: 3718852509944835522
+    second: Healthbar_Overlay_32
+  - first:
+      213: 4926640473040773334
+    second: Healthbar_Overlay_33
+  - first:
+      213: -891170545751723405
+    second: Healthbar_Overlay_34
+  - first:
+      213: -2003514261586643554
+    second: Healthbar_Overlay_35
+  - first:
+      213: 7875962889133136813
+    second: Healthbar_Overlay_36
+  - first:
+      213: -3089769016720981322
+    second: Healthbar_Overlay_37
+  - first:
+      213: 9745026644227046
+    second: Healthbar_Overlay_38
+  - first:
+      213: 5616623153529856198
+    second: Healthbar_Overlay_39
+  - first:
+      213: -5332564766534062330
+    second: Healthbar_Overlay_40
+  - first:
+      213: 7661393028743122857
+    second: Healthbar_Overlay_41
+  - first:
+      213: 592185712608006127
+    second: Healthbar_Overlay_42
+  - first:
+      213: 5354259187849216864
+    second: Healthbar_Overlay_43
+  - first:
+      213: 4283581449048800555
+    second: Healthbar_Overlay_44
+  - first:
+      213: -3453162217135320432
+    second: Healthbar_Overlay_45
+  - first:
+      213: 5111776023723103450
+    second: Healthbar_Overlay_46
+  - first:
+      213: 8235154431123597609
+    second: Healthbar_Overlay_47
+  - first:
+      213: -5676870943400724438
+    second: Healthbar_Overlay_48
+  - first:
+      213: -5491086303128670096
+    second: Healthbar_Overlay_49
+  - first:
+      213: -1231223077940773881
+    second: Healthbar_Overlay_50
+  - first:
+      213: 5187900353103244593
+    second: Healthbar_Overlay_51
+  - first:
+      213: 7577367020511083745
+    second: Healthbar_Overlay_52
+  - first:
+      213: -5835876582823622048
+    second: Healthbar_Overlay_53
+  - first:
+      213: -2118912508212006624
+    second: Healthbar_Overlay_54
+  - first:
+      213: 4405257145983776783
+    second: Healthbar_Overlay_55
+  - first:
+      213: -4461169655219304024
+    second: Healthbar_Overlay_56
+  - first:
+      213: -8707511995802255319
+    second: Healthbar_Overlay_57
+  - first:
+      213: -1945427750387663083
+    second: Healthbar_Overlay_58
+  - first:
+      213: -7519599777782376337
+    second: Healthbar_Overlay_59
+  - first:
+      213: -3699909387616327968
+    second: Healthbar_Overlay_60
+  - first:
+      213: -1861464465564935325
+    second: Healthbar_Overlay_61
+  - first:
+      213: -4982465164425719024
+    second: Healthbar_Overlay_62
+  - first:
+      213: 4241116203388238068
+    second: Healthbar_Overlay_63
+  - first:
+      213: 3444649612546437117
+    second: Healthbar_Overlay_64
+  - first:
+      213: -6121612222490741237
+    second: Healthbar_Overlay_65
+  - first:
+      213: -3714087154019030459
+    second: Healthbar_Overlay_66
+  - first:
+      213: 5156336816438466875
+    second: Healthbar_Overlay_67
+  - first:
+      213: 9010369800294786433
+    second: Healthbar_Overlay_68
+  - first:
+      213: -7216195010645351695
+    second: Healthbar_Overlay_69
+  - first:
+      213: 8239081395313798027
+    second: Healthbar_Overlay_70
+  - first:
+      213: -5158025679078483134
+    second: Healthbar_Overlay_71
+  - first:
+      213: -7553535769499281777
+    second: Healthbar_Overlay_72
+  - first:
+      213: 8825861565880992961
+    second: Healthbar_Overlay_73
+  - first:
+      213: -6799611770974603686
+    second: Healthbar_Overlay_74
+  - first:
+      213: -8567802780695752114
+    second: Healthbar_Overlay_75
+  - first:
+      213: -8551103335135027314
+    second: Healthbar_Overlay_76
+  - first:
+      213: 4843636578017816377
+    second: Healthbar_Overlay_77
+  - first:
+      213: 2207761143181566363
+    second: Healthbar_Overlay_78
+  - first:
+      213: -6362324332172309045
+    second: Healthbar_Overlay_79
+  - first:
+      213: -443008616634889695
+    second: Healthbar_Overlay_80
+  - first:
+      213: 8588233319062615607
+    second: Healthbar_Overlay_81
+  - first:
+      213: 1808218473381260562
+    second: Healthbar_Overlay_82
+  - first:
+      213: -1345000975196722665
+    second: Healthbar_Overlay_83
+  - first:
+      213: 785089365926420137
+    second: Healthbar_Overlay_84
+  - first:
+      213: 8144981653809869525
+    second: Healthbar_Overlay_85
+  - first:
+      213: -2915234362192742007
+    second: Healthbar_Overlay_86
+  - first:
+      213: -641318036692142467
+    second: Healthbar_Overlay_87
+  - first:
+      213: 918899481468723832
+    second: Healthbar_Overlay_88
+  - first:
+      213: 8238393324226667047
+    second: Healthbar_Overlay_89
+  - first:
+      213: -1973421368413204188
+    second: Healthbar_Overlay_90
+  - first:
+      213: -3644096067117684705
+    second: Healthbar_Overlay_91
+  - first:
+      213: -2963350852568728782
+    second: Healthbar_Overlay_92
+  - first:
+      213: -3024333767574706690
+    second: Healthbar_Overlay_93
+  - first:
+      213: -4187044467378495727
+    second: Healthbar_Overlay_94
+  - first:
+      213: 2678370965213070572
+    second: Healthbar_Overlay_95
+  - first:
+      213: -7815257284702053567
+    second: Healthbar_Overlay_96
+  - first:
+      213: 7377608970865466883
+    second: Healthbar_Overlay_97
+  - first:
+      213: 4152069032144525856
+    second: Healthbar_Overlay_98
+  - first:
+      213: -6196990947911780326
+    second: Healthbar_Overlay_99
+  - first:
+      213: -7851597509882962891
+    second: Healthbar_Overlay_100
+  - first:
+      213: -3302751776000585156
+    second: Healthbar_Overlay_101
+  - first:
+      213: -8382322457848895650
+    second: Healthbar_Overlay_102
+  - first:
+      213: 7359040657638516823
+    second: Healthbar_Overlay_103
+  - first:
+      213: -6623016350395118255
+    second: Healthbar_Overlay_104
+  - first:
+      213: 2455243994586602313
+    second: Healthbar_Overlay_105
+  - first:
+      213: 2426750814648833506
+    second: Healthbar_Overlay_106
+  - first:
+      213: -1147660148690184383
+    second: Healthbar_Overlay_107
+  - first:
+      213: 4198351842137454690
+    second: Healthbar_Overlay_108
+  - first:
+      213: 5850070237898062722
+    second: Healthbar_Overlay_109
+  - first:
+      213: -790769413669843030
+    second: Healthbar_Overlay_110
+  - first:
+      213: 7563585444921323743
+    second: Healthbar_Overlay_111
+  - first:
+      213: -8521815344441761910
+    second: Healthbar_Overlay_112
+  - first:
+      213: -7691077542864061361
+    second: Healthbar_Overlay_113
+  - first:
+      213: 4079866963142954742
+    second: Healthbar_Overlay_114
+  - first:
+      213: -1408153307922292982
+    second: Healthbar_Overlay_115
+  - first:
+      213: -8479382655450564443
+    second: Healthbar_Overlay_116
+  - first:
+      213: -7851088581098540529
+    second: Healthbar_Overlay_117
+  - first:
+      213: -7941226874139877702
+    second: Healthbar_Overlay_118
+  - first:
+      213: -7068187051636609189
+    second: Healthbar_Overlay_119
+  - first:
+      213: -8914362347057486356
+    second: Healthbar_Overlay_120
+  - first:
+      213: -7092581356823639340
+    second: Healthbar_Overlay_121
+  - first:
+      213: -2822280526323593423
+    second: Healthbar_Overlay_122
+  - first:
+      213: 4238607157325918066
+    second: Healthbar_Overlay_123
+  - first:
+      213: 2709417805209854657
+    second: Healthbar_Overlay_124
+  - first:
+      213: -1004126777652820241
+    second: Healthbar_Overlay_125
+  - first:
+      213: 8455278309637836157
+    second: Healthbar_Overlay_126
+  - first:
+      213: 676536644050027069
+    second: Healthbar_Overlay_127
+  - first:
+      213: 3779445623200882256
+    second: Healthbar_Overlay_128
+  - first:
+      213: 4566196161681385351
+    second: Healthbar_Overlay_129
+  - first:
+      213: 1047259995843255627
+    second: Healthbar_Overlay_130
+  - first:
+      213: -1736005778714395989
+    second: Healthbar_Overlay_131
+  - first:
+      213: -1762585657548304342
+    second: Healthbar_Overlay_132
+  - first:
+      213: 2370631444897019927
+    second: Healthbar_Overlay_133
+  - first:
+      213: 1691487392316866066
+    second: Healthbar_Overlay_134
+  - first:
+      213: -1559783168330175743
+    second: Healthbar_Overlay_135
+  - first:
+      213: -8563535388521896658
+    second: Healthbar_Overlay_136
+  - first:
+      213: -834755861374437875
+    second: Healthbar_Overlay_137
+  - first:
+      213: -34261582172871908
+    second: Healthbar_Overlay_138
+  - first:
+      213: 6234660448471138010
+    second: Healthbar_Overlay_139
+  - first:
+      213: -5688863391067927836
+    second: Healthbar_Overlay_140
+  - first:
+      213: -6613314257108961245
+    second: Healthbar_Overlay_141
+  - first:
+      213: 454519995378586419
+    second: Healthbar_Overlay_142
+  - first:
+      213: 1842287834900142564
+    second: Healthbar_Overlay_143
+  - first:
+      213: 3469039909678975231
+    second: Healthbar_Overlay_144
+  - first:
+      213: -2743406159028758291
+    second: Healthbar_Overlay_145
+  - first:
+      213: 9082567003160374544
+    second: Healthbar_Overlay_146
+  - first:
+      213: -7901612764025387526
+    second: Healthbar_Overlay_147
+  - first:
+      213: -4053752123573069336
+    second: Healthbar_Overlay_148
+  - first:
+      213: -5113890502495198609
+    second: Healthbar_Overlay_149
+  - first:
+      213: -6694099061827370103
+    second: Healthbar_Overlay_150
+  - first:
+      213: -4195695197392118711
+    second: Healthbar_Overlay_151
+  - first:
+      213: -1741284511924364910
+    second: Healthbar_Overlay_152
+  - first:
+      213: -8357123285437644029
+    second: Healthbar_Overlay_153
+  - first:
+      213: -3770571060104386673
+    second: Healthbar_Overlay_154
+  - first:
+      213: 1596487256116391776
+    second: Healthbar_Overlay_155
+  - first:
+      213: -2208994464795647419
+    second: Healthbar_Overlay_156
+  - first:
+      213: -6170185895578636762
+    second: Healthbar_Overlay_157
+  - first:
+      213: -796264416676773126
+    second: Healthbar_Overlay_158
+  - first:
+      213: 8263395115878720486
+    second: Healthbar_Overlay_159
+  - first:
+      213: 9019637551237801689
+    second: Healthbar_Overlay_160
+  - first:
+      213: 5573119277922490801
+    second: Healthbar_Overlay_161
+  - first:
+      213: -1385192947643797942
+    second: Healthbar_Overlay_162
+  - first:
+      213: -3069936074922802390
+    second: Healthbar_Overlay_163
+  - first:
+      213: 8615479329432056810
+    second: Healthbar_Overlay_164
+  - first:
+      213: -1870923246557036625
+    second: Healthbar_Overlay_165
+  - first:
+      213: 1139711046936745258
+    second: Healthbar_Overlay_166
+  - first:
+      213: -8440007205347309765
+    second: Healthbar_Overlay_167
+  - first:
+      213: -1866762639829690158
+    second: Healthbar_Overlay_168
+  - first:
+      213: 1986172859520423621
+    second: Healthbar_Overlay_169
+  - first:
+      213: -3752819839937618185
+    second: Healthbar_Overlay_170
+  - first:
+      213: 8104648381912080331
+    second: Healthbar_Overlay_171
+  - first:
+      213: 5104227036361856595
+    second: Healthbar_Overlay_172
+  - first:
+      213: 8832567457029201903
+    second: Healthbar_Overlay_173
+  - first:
+      213: -333729251280446049
+    second: Healthbar_Overlay_174
+  - first:
+      213: 5316711157255678791
+    second: Healthbar_Overlay_175
+  - first:
+      213: -2794755878990189901
+    second: Healthbar_Overlay_176
+  - first:
+      213: -359449896883421742
+    second: Healthbar_Overlay_177
+  - first:
+      213: 5173452184421251567
+    second: Healthbar_Overlay_178
+  - first:
+      213: -7210137577598102309
+    second: Healthbar_Overlay_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Healthbar_Overlay_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1026
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2184e6cc8a45faa0800000000000000
+      internalID: -6127909749474950867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1017
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ee590b41a83160800000000000000
+      internalID: 7005526564026639359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1026
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762d4719ec600bfc0800000000000000
+      internalID: -3481275027684011417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1017
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a35dad41651df50800000000000000
+      internalID: 6904394351306422901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1017
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1425eb519f66460800000000000000
+      internalID: 7234743723199971837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1026
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a900c48108c49a760800000000000000
+      internalID: 7469585570017837210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1017
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278c204bd583e7020800000000000000
+      internalID: 2341370831382431858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1017
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed48e892983269470800000000000000
+      internalID: 8400941226920936670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1026
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42ed9d2d8be87030800000000000000
+      internalID: 3492800502614057547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1017
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed83bbb3ba2d63870800000000000000
+      internalID: 8662342566177093854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1017
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0a490d2bff77b20800000000000000
+      internalID: 3132253209328132305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1026
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c460af9a48d961620800000000000000
+      internalID: 2744554216041875020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1017
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30111e63a0d9ecae0800000000000000
+      internalID: -1527110556436066045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_16
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1017
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d4e23d291df4660800000000000000
+      internalID: 7372341543567248655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1017
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1956e6f3b30d630800000000000000
+      internalID: 3949722016825053668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1017
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a40aeac58b178dd0800000000000000
+      internalID: -2483986408022604634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1017
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f6a94571b1a360800000000000000
+      internalID: 7179214398310250705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_20
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1017
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0766bbbc4caa4d660800000000000000
+      internalID: 7409735049139676784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_21
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1017
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf2c8e19ca5b810800000000000000
+      internalID: 1780518970370227667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1017
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e3c2903fe2f2120800000000000000
+      internalID: 2391181548522847763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1017
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b14a313bf574780800000000000000
+      internalID: -8698878932509517024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1018
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd42d2a6ff9678ba0800000000000000
+      internalID: -6086779825649015585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_25
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1019
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8502bf8128e2d20800000000000000
+      internalID: 3255682624439474351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_26
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1020
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b616b1ca00fc0720800000000000000
+      internalID: 2813887796189992625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 988
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd77ca7988088aa0800000000000000
+      internalID: -6158663103865717312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 998
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb6f87a116dbdef0800000000000000
+      internalID: -82236796862239746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_31
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1008
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b37ffe1780e900800000000000000
+      internalID: 711717308329079078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_32
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 988
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cde45b87a40c9330800000000000000
+      internalID: 3718852509944835522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 998
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d068a36861fe5440800000000000000
+      internalID: 4926640473040773334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1007
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3727d2a3c1de1a3f0800000000000000
+      internalID: -891170545751723405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 989
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95f2b7e4661234e0800000000000000
+      internalID: -2003514261586643554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 998
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab90fed48a0d4d60800000000000000
+      internalID: 7875962889133136813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1008
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b28658137fee15d0800000000000000
+      internalID: -3089769016720981322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 989
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3b473dc0f922000800000000000000
+      internalID: 9745026644227046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a16ffff042fd40800000000000000
+      internalID: 5616623153529856198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1007
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f29f4199ceef5b0800000000000000
+      internalID: -5332564766534062330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af43ea2e5cb25a60800000000000000
+      internalID: 7661393028743122857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefcf01a4cdd73800800000000000000
+      internalID: 592185712608006127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063cf1ffc562e4a40800000000000000
+      internalID: 5354259187849216864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_44
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 989
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2db10de1a6527b30800000000000000
+      internalID: 4283581449048800555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_45
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09259d75247e310d0800000000000000
+      internalID: -3453162217135320432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_46
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1007
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4df51d53da0f640800000000000000
+      internalID: 5111776023723103450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_47
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9292b99c255294270800000000000000
+      internalID: 8235154431123597609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_48
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28fcde44f3b731b0800000000000000
+      internalID: -5676870943400724438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_49
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b00fa91ebbc3b0800000000000000
+      internalID: -5491086303128670096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_50
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cb3184221d9eee0800000000000000
+      internalID: -1231223077940773881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13da7dc62ef1ff740800000000000000
+      internalID: 5187900353103244593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_52
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1007
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecb2569827382960800000000000000
+      internalID: 7577367020511083745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_53
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a07cfea2dc20fa0800000000000000
+      internalID: -5835876582823622048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_54
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02134eddc4c1892e0800000000000000
+      internalID: -2118912508212006624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_55
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f083d92c80e922d30800000000000000
+      internalID: 4405257145983776783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_56
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c6e9b5ddb612c0800000000000000
+      internalID: -4461169655219304024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_57
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92001c469f3b82780800000000000000
+      internalID: -8707511995802255319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fb4f1b4c37005e0800000000000000
+      internalID: -1945427750387663083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_59
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68dc28b7d305a790800000000000000
+      internalID: -7519599777782376337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_60
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6eef1d30847acc0800000000000000
+      internalID: -3699909387616327968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_61
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b5df75eefba26e0800000000000000
+      internalID: -1861464465564935325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_62
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01395a8c45abadab0800000000000000
+      internalID: -4982465164425719024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_63
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8fb1277b87bda30800000000000000
+      internalID: 4241116203388238068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_64
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff6483729addcf20800000000000000
+      internalID: 3444649612546437117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_65
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06ffb90e1aab0ba0800000000000000
+      internalID: -6121612222490741237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_66
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aaad75969e47cc0800000000000000
+      internalID: -3714087154019030459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_67
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39551ed30dfe8740800000000000000
+      internalID: 5156336816438466875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_68
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1856a7928934b0d70800000000000000
+      internalID: 9010369800294786433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_69
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a980fedceadb90800000000000000
+      internalID: -7216195010645351695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b653360e8175270800000000000000
+      internalID: 8239081395313798027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_71
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b1f2829f20b68b0800000000000000
+      internalID: -5158025679078483134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_72
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 998
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86d9ccec337c2790800000000000000
+      internalID: -7553535769499281777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_73
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c40c1f2552cb7a70800000000000000
+      internalID: 8825861565880992961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_74
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a567e74ce1de2a1a0800000000000000
+      internalID: -6799611770974603686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_75
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 998
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42960fd3cc091980800000000000000
+      internalID: -8567802780695752114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_76
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1008
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f5e9782d0645980800000000000000
+      internalID: -8551103335135027314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_77
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f27d51ecd083340800000000000000
+      internalID: 4843636578017816377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_78
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 998
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b916f30001b83ae10800000000000000
+      internalID: 2207761143181566363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_79
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1008
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd8b0b9abb74b7a0800000000000000
+      internalID: -6362324332172309045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_80
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 989
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a4a05a20e1ad9f0800000000000000
+      internalID: -443008616634889695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_81
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 999
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736b6e683b88f2770800000000000000
+      internalID: 8588233319062615607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1008
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d60360f15181910800000000000000
+      internalID: 1808218473381260562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_83
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1000
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a68da3db8955de0800000000000000
+      internalID: -1345000975196722665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_84
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1010
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae1bf46e9235ea00800000000000000
+      internalID: 785089365926420137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_85
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1001
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2396109a9c80170800000000000000
+      internalID: 8144981653809869525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_86
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1010
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9893d7c0bc10b87d0800000000000000
+      internalID: -2915234362192742007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_87
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1000
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f9eab4a49917f0800000000000000
+      internalID: -641318036692142467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_90
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d09798bffc94e0800000000000000
+      internalID: -1973421368413204188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_91
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f186d082fe19d6dc0800000000000000
+      internalID: -3644096067117684705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_92
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b3acf991010e6d0800000000000000
+      internalID: -2963350852568728782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_93
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5ad7546786706d0800000000000000
+      internalID: -3024333767574706690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 979
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fd327ad31a4e5c0800000000000000
+      internalID: -4187044467378495727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4ce36c33c7b2520800000000000000
+      internalID: 2678370965213070572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_96
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bdc0518e0aa8390800000000000000
+      internalID: -7815257284702053567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_97
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30edb205548826660800000000000000
+      internalID: 7377608970865466883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_98
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02adfdf39cc1f9930800000000000000
+      internalID: 4152069032144525856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_99
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a183861e09ddff9a0800000000000000
+      internalID: -6196990947911780326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_100
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c95101aa5890390800000000000000
+      internalID: -7851597509882962891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_101
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32d13a22c44a22d0800000000000000
+      internalID: -3302751776000585156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_102
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e572323d2220cab80800000000000000
+      internalID: -8382322457848895650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_103
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758633efc70902660800000000000000
+      internalID: 7359040657638516823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_104
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 979
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d481538b15614a0800000000000000
+      internalID: -6623016350395118255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_105
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bde369767c21220800000000000000
+      internalID: 2455243994586602313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_106
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 979
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e59889220d8da120800000000000000
+      internalID: 2426750814648833506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_107
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 980
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1471372ec21b210f0800000000000000
+      internalID: -1147660148690184383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_108
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 990
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b5b0b1ca834a30800000000000000
+      internalID: 4198351842137454690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_109
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 991
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bbff8e2ef9f2150800000000000000
+      internalID: 5850070237898062722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_110
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 991
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf07fe686f9605f0800000000000000
+      internalID: -790769413669843030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_111
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 991
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0b9d873e047f860800000000000000
+      internalID: 7563585444921323743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_113
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 970
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c7a9d49bdc34590800000000000000
+      internalID: -7691077542864061361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_114
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 969
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feccfc03699e9830800000000000000
+      internalID: 4079866963142954742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_115
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 970
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f1004f60c357ce0800000000000000
+      internalID: -1408153307922292982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_116
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 970
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b24b866e235a80800000000000000
+      internalID: -8479382655450564443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_117
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02fe7748845b0390800000000000000
+      internalID: -7851088581098540529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_118
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5b1e7b381bc190800000000000000
+      internalID: -7941226874139877702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_119
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f2f2d4351c8ed90800000000000000
+      internalID: -7068187051636609189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_120
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce56588fca2d94480800000000000000
+      internalID: -8914362347057486356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_121
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da08f585d6129d90800000000000000
+      internalID: -7092581356823639340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_122
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fcafb70de35d8d0800000000000000
+      internalID: -2822280526323593423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_123
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fe6d2a0ce82da30800000000000000
+      internalID: 4238607157325918066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_124
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e6a38329c99520800000000000000
+      internalID: 2709417805209854657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_125
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6cb8c0400a012f0800000000000000
+      internalID: -1004126777652820241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_126
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d470b13de275570800000000000000
+      internalID: 8455278309637836157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_127
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32032a4e7a836900800000000000000
+      internalID: 676536644050027069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_128
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 970
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e1bca15c9437430800000000000000
+      internalID: 3779445623200882256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_129
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 970
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78765cf57336e5f30800000000000000
+      internalID: 4566196161681385351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_130
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 981
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd6b7ea6d988e00800000000000000
+      internalID: 1047259995843255627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_131
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 982
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaf3b721f778e7e0800000000000000
+      internalID: -1736005778714395989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_132
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 981
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2092abdea90a87e0800000000000000
+      internalID: -1762585657548304342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_135
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 960
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10beb05f8798a5ae0800000000000000
+      internalID: -1559783168330175743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_136
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 960
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e256aa98fe5382980800000000000000
+      internalID: -8563535388521896658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_137
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 960
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06f99087f95a64f0800000000000000
+      internalID: -834755861374437875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_138
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a425c547468ff0800000000000000
+      internalID: -34261582172871908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_139
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 960
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adebc4e25a6f58650800000000000000
+      internalID: 6234660448471138010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_140
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea0caff2e81d01b0800000000000000
+      internalID: -5688863391067927836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_141
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3287ef4d8b9c834a0800000000000000
+      internalID: -6613314257108961245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_142
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335ad31787ce4600800000000000000
+      internalID: 454519995378586419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_143
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e91f35660f119910800000000000000
+      internalID: 1842287834900142564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_144
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff881180b61842030800000000000000
+      internalID: 3469039909678975231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_145
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8d87032a67de9d0800000000000000
+      internalID: -2743406159028758291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_146
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dee006192cb0e70800000000000000
+      internalID: 9082567003160374544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_147
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5039f3e05d75290800000000000000
+      internalID: -7901612764025387526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_148
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 960
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e911fadbed2eb7c0800000000000000
+      internalID: -4053752123573069336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_149
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 960
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62a78abeafc709b0800000000000000
+      internalID: -5113890502495198609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_150
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 960
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9830180ce58c913a0800000000000000
+      internalID: -6694099061827370103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_151
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 960
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c51ad9275e5c5c0800000000000000
+      internalID: -4195695197392118711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_152
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 961
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299dbdd46f6b5d7e0800000000000000
+      internalID: -1741284511924364910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_153
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 971
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303085b56a8850c80800000000000000
+      internalID: -8357123285437644029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_154
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 972
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f872c12299d3cabc0800000000000000
+      internalID: -3770571060104386673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_155
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 972
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f614d63bcd72610800000000000000
+      internalID: 1596487256116391776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_157
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 955
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ee8e77e981f5aa0800000000000000
+      internalID: -6170185895578636762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_158
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 955
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af282b85bb913f4f0800000000000000
+      internalID: -796264416676773126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_159
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 955
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e326a8931a7da270800000000000000
+      internalID: 8263395115878720486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_160
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6ad4490903c2d70800000000000000
+      internalID: 9019637551237801689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_161
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 955
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b99373a472b75d40800000000000000
+      internalID: 5573119277922490801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_162
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ea05a6a5ec6cce0800000000000000
+      internalID: -1385192947643797942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_163
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c113b7656565d0800000000000000
+      internalID: -3069936074922802390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_164
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b488adc4509770800000000000000
+      internalID: 8615479329432056810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_165
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf72f648352906e0800000000000000
+      internalID: -1870923246557036625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_166
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25d043a82111df00800000000000000
+      internalID: 1139711046936745258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_167
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37498fe9221fda80800000000000000
+      internalID: -8440007205347309765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_168
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d81bf4054de716e0800000000000000
+      internalID: -1866762639829690158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_169
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c69c3a41bd409b10800000000000000
+      internalID: 1986172859520423621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_170
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feda762d3e4bebc0800000000000000
+      internalID: -3752819839937618185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_171
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 955
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf505953ce797070800000000000000
+      internalID: 8104648381912080331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_172
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 955
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3561b4b327bd5d640800000000000000
+      internalID: 5104227036361856595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_173
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 955
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef96e22e45939a70800000000000000
+      internalID: 8832567457029201903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_174
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 962
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d954e930b5e5bf0800000000000000
+      internalID: -333729251280446049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_175
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 963
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba49dd0a0c8c940800000000000000
+      internalID: 5316711157255678791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_177
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 955
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd76b5293af20bf0800000000000000
+      internalID: -359449896883421742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_178
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 955
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b5e20a5bcbc740800000000000000
+      internalID: 5173452184421251567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Healthbar_Overlay_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 956
+        width: 664
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2665a029e814f4d95aff7f7f5f9bb1
+      internalID: -1198426366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 401d4d24868d1254d948bf41a66c25e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Healthbar_Overlay_0: -1198426366
+      Healthbar_Overlay_180: 1505046011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
