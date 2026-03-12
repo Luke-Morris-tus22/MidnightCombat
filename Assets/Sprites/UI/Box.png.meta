@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 85539e2d09edee84caa78256d55922f1
+guid: eb7cb8062d20efd47925cb76eaadc0a4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1566344184220266780
-    second: Healthbar_Outline1_0
+      213: 4727633781103762509
+    second: Box_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,19 +40,19 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 299, y: 293, z: 305, w: 302}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -178,23 +178,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Healthbar_Outline1_0
+      name: Box_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 926
-        width: 827
-        height: 129
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 313, y: 298, z: 313, w: 289}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c11b2789cb5ccb510800000000000000
-      internalID: 1566344184220266780
+      spriteID: d4c93d630edeb9140800000000000000
+      internalID: 4727633781103762509
       vertices: []
       indices: 
       edges: []
@@ -203,8 +203,8 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
-    internalID: 0
+    spriteID: 39eef513508b2114bbe2391d0fd83af1
+    internalID: 1756584525
     vertices: []
     indices: 
     edges: []
@@ -213,7 +213,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Healthbar_Outline1_0: 1566344184220266780
+      Box_0: 4727633781103762509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

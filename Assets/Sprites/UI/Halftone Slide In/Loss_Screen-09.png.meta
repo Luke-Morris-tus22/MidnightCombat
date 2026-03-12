@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 85539e2d09edee84caa78256d55922f1
+guid: 83e003f1629748e47960a2e7fc5a2cc1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1566344184220266780
-    second: Healthbar_Outline1_0
+      213: 5154449729391486662
+    second: Loss_Screen-09_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -178,13 +178,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Healthbar_Outline1_0
+      name: Loss_Screen-09_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 926
-        width: 827
-        height: 129
+        x: 0
+        y: 0
+        width: 983
+        height: 1118
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c11b2789cb5ccb510800000000000000
-      internalID: 1566344184220266780
+      spriteID: 6c6ecfc28b8488740800000000000000
+      internalID: 5154449729391486662
       vertices: []
       indices: 
       edges: []
@@ -203,7 +203,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -213,7 +213,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Healthbar_Outline1_0: 1566344184220266780
+      Loss_Screen-09_0: 5154449729391486662
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

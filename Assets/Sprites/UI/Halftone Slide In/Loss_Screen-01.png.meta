@@ -1,0 +1,6877 @@
+fileFormatVersion: 2
+guid: e588d90685df192418ea757a3c699519
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1214526507923923430
+    second: Loss_Screen-01_0
+  - first:
+      213: -2064966916704945097
+    second: Loss_Screen-01_1
+  - first:
+      213: 7910175522889887344
+    second: Loss_Screen-01_2
+  - first:
+      213: -5403356790670738866
+    second: Loss_Screen-01_3
+  - first:
+      213: 7625053423006594954
+    second: Loss_Screen-01_4
+  - first:
+      213: -6164977126222043137
+    second: Loss_Screen-01_5
+  - first:
+      213: -2472041435866173483
+    second: Loss_Screen-01_6
+  - first:
+      213: 2193225470385777336
+    second: Loss_Screen-01_7
+  - first:
+      213: 218935471077854936
+    second: Loss_Screen-01_8
+  - first:
+      213: -6894034711423235192
+    second: Loss_Screen-01_9
+  - first:
+      213: -625258449837433009
+    second: Loss_Screen-01_10
+  - first:
+      213: -6761042411384849476
+    second: Loss_Screen-01_11
+  - first:
+      213: -1658266900102681774
+    second: Loss_Screen-01_12
+  - first:
+      213: -1730740698906660114
+    second: Loss_Screen-01_13
+  - first:
+      213: 8057223405000225129
+    second: Loss_Screen-01_14
+  - first:
+      213: 4082461897917563072
+    second: Loss_Screen-01_15
+  - first:
+      213: 4725037866568360381
+    second: Loss_Screen-01_16
+  - first:
+      213: -2881702857801061807
+    second: Loss_Screen-01_17
+  - first:
+      213: -7880691863861899340
+    second: Loss_Screen-01_18
+  - first:
+      213: -1028758436103464325
+    second: Loss_Screen-01_19
+  - first:
+      213: 2914722530866659381
+    second: Loss_Screen-01_20
+  - first:
+      213: 4765901322580969301
+    second: Loss_Screen-01_21
+  - first:
+      213: -4728179547935461875
+    second: Loss_Screen-01_22
+  - first:
+      213: 613747258989662452
+    second: Loss_Screen-01_23
+  - first:
+      213: 7661807434547498957
+    second: Loss_Screen-01_24
+  - first:
+      213: -8106281898378454888
+    second: Loss_Screen-01_25
+  - first:
+      213: -3103512876621134861
+    second: Loss_Screen-01_26
+  - first:
+      213: -1333573150888754142
+    second: Loss_Screen-01_27
+  - first:
+      213: 7108158065291767948
+    second: Loss_Screen-01_28
+  - first:
+      213: 4529588543045064283
+    second: Loss_Screen-01_29
+  - first:
+      213: 5121687768607883110
+    second: Loss_Screen-01_30
+  - first:
+      213: -7594989634408860499
+    second: Loss_Screen-01_31
+  - first:
+      213: -8028114674034148815
+    second: Loss_Screen-01_32
+  - first:
+      213: -6287024243412970695
+    second: Loss_Screen-01_33
+  - first:
+      213: 5739064266814789833
+    second: Loss_Screen-01_34
+  - first:
+      213: 8174477342642696655
+    second: Loss_Screen-01_35
+  - first:
+      213: 4479964040188816024
+    second: Loss_Screen-01_36
+  - first:
+      213: 4050604372058264437
+    second: Loss_Screen-01_37
+  - first:
+      213: -911254830074127618
+    second: Loss_Screen-01_38
+  - first:
+      213: -4982082753619686600
+    second: Loss_Screen-01_39
+  - first:
+      213: -5270671300958544398
+    second: Loss_Screen-01_40
+  - first:
+      213: -7162730472570510682
+    second: Loss_Screen-01_41
+  - first:
+      213: 8237917926067428347
+    second: Loss_Screen-01_42
+  - first:
+      213: 8547041550459967873
+    second: Loss_Screen-01_43
+  - first:
+      213: -3275173935635667044
+    second: Loss_Screen-01_44
+  - first:
+      213: -4254026660973152104
+    second: Loss_Screen-01_45
+  - first:
+      213: -1264633307934136248
+    second: Loss_Screen-01_46
+  - first:
+      213: -7020909168049696478
+    second: Loss_Screen-01_47
+  - first:
+      213: 5456112853545755756
+    second: Loss_Screen-01_48
+  - first:
+      213: -4547801680110253719
+    second: Loss_Screen-01_49
+  - first:
+      213: 2331754133256447457
+    second: Loss_Screen-01_50
+  - first:
+      213: 8417993139577038114
+    second: Loss_Screen-01_51
+  - first:
+      213: -3558023995570366610
+    second: Loss_Screen-01_52
+  - first:
+      213: 2658527864200068100
+    second: Loss_Screen-01_53
+  - first:
+      213: 2820361204519346076
+    second: Loss_Screen-01_54
+  - first:
+      213: -3378696110328447588
+    second: Loss_Screen-01_55
+  - first:
+      213: -5808534979782839396
+    second: Loss_Screen-01_56
+  - first:
+      213: 7129920547494653843
+    second: Loss_Screen-01_57
+  - first:
+      213: 946898770438188242
+    second: Loss_Screen-01_58
+  - first:
+      213: -2689948344800258644
+    second: Loss_Screen-01_59
+  - first:
+      213: 1492178725886647644
+    second: Loss_Screen-01_60
+  - first:
+      213: -4248614996437975390
+    second: Loss_Screen-01_61
+  - first:
+      213: -6185525828842634203
+    second: Loss_Screen-01_62
+  - first:
+      213: 174064697381751478
+    second: Loss_Screen-01_63
+  - first:
+      213: 6296038079597627818
+    second: Loss_Screen-01_64
+  - first:
+      213: -2082092706852320563
+    second: Loss_Screen-01_65
+  - first:
+      213: 998962494538878627
+    second: Loss_Screen-01_66
+  - first:
+      213: -4179084466083111090
+    second: Loss_Screen-01_67
+  - first:
+      213: -1160213529006763135
+    second: Loss_Screen-01_68
+  - first:
+      213: 8213909518836342589
+    second: Loss_Screen-01_69
+  - first:
+      213: 1257596604107278622
+    second: Loss_Screen-01_70
+  - first:
+      213: 1978288758906711623
+    second: Loss_Screen-01_71
+  - first:
+      213: 731114106233425513
+    second: Loss_Screen-01_72
+  - first:
+      213: 7496134302703593949
+    second: Loss_Screen-01_73
+  - first:
+      213: 7070872751397748380
+    second: Loss_Screen-01_74
+  - first:
+      213: -2815521790693408373
+    second: Loss_Screen-01_75
+  - first:
+      213: 3471653222878770419
+    second: Loss_Screen-01_76
+  - first:
+      213: 8578553906375727195
+    second: Loss_Screen-01_77
+  - first:
+      213: -2708466551952086176
+    second: Loss_Screen-01_78
+  - first:
+      213: 5536588932589748213
+    second: Loss_Screen-01_79
+  - first:
+      213: 5538606464095530609
+    second: Loss_Screen-01_80
+  - first:
+      213: -4428363622287064359
+    second: Loss_Screen-01_81
+  - first:
+      213: -7351403473293592265
+    second: Loss_Screen-01_82
+  - first:
+      213: -8094802388674684971
+    second: Loss_Screen-01_83
+  - first:
+      213: 7202533011036583157
+    second: Loss_Screen-01_84
+  - first:
+      213: -2090350549504523071
+    second: Loss_Screen-01_85
+  - first:
+      213: -5366922638887279960
+    second: Loss_Screen-01_86
+  - first:
+      213: -8299186428783354829
+    second: Loss_Screen-01_87
+  - first:
+      213: 611320707832394288
+    second: Loss_Screen-01_88
+  - first:
+      213: -8647971429311094626
+    second: Loss_Screen-01_89
+  - first:
+      213: -1898521640485166199
+    second: Loss_Screen-01_90
+  - first:
+      213: -1763593992198227191
+    second: Loss_Screen-01_91
+  - first:
+      213: 6451649450598870464
+    second: Loss_Screen-01_92
+  - first:
+      213: -7840606300846391717
+    second: Loss_Screen-01_93
+  - first:
+      213: 8077634046646896040
+    second: Loss_Screen-01_94
+  - first:
+      213: -3221550273699935698
+    second: Loss_Screen-01_95
+  - first:
+      213: 7365390244948430393
+    second: Loss_Screen-01_96
+  - first:
+      213: -875887732984097094
+    second: Loss_Screen-01_97
+  - first:
+      213: -5144749140697716614
+    second: Loss_Screen-01_98
+  - first:
+      213: -2722606897448748886
+    second: Loss_Screen-01_99
+  - first:
+      213: 137191985853722848
+    second: Loss_Screen-01_100
+  - first:
+      213: -2123213910803803848
+    second: Loss_Screen-01_101
+  - first:
+      213: -3550216550466268674
+    second: Loss_Screen-01_102
+  - first:
+      213: -1855450112726784772
+    second: Loss_Screen-01_103
+  - first:
+      213: -8487711660339729411
+    second: Loss_Screen-01_104
+  - first:
+      213: 5343442075798096490
+    second: Loss_Screen-01_105
+  - first:
+      213: 6003541521701814479
+    second: Loss_Screen-01_106
+  - first:
+      213: 4346410849030666132
+    second: Loss_Screen-01_107
+  - first:
+      213: -864759118339878554
+    second: Loss_Screen-01_108
+  - first:
+      213: -8146749122091793767
+    second: Loss_Screen-01_109
+  - first:
+      213: 221357526860827444
+    second: Loss_Screen-01_110
+  - first:
+      213: -8874862495394312303
+    second: Loss_Screen-01_111
+  - first:
+      213: 6234336196448006533
+    second: Loss_Screen-01_112
+  - first:
+      213: -1866114330359249795
+    second: Loss_Screen-01_113
+  - first:
+      213: 7068375961466724116
+    second: Loss_Screen-01_114
+  - first:
+      213: -8190742765746829558
+    second: Loss_Screen-01_115
+  - first:
+      213: 7446639476406191634
+    second: Loss_Screen-01_116
+  - first:
+      213: -5911608241663703342
+    second: Loss_Screen-01_117
+  - first:
+      213: 4129510823883398789
+    second: Loss_Screen-01_118
+  - first:
+      213: 590782086366313441
+    second: Loss_Screen-01_119
+  - first:
+      213: 6346665044094443570
+    second: Loss_Screen-01_120
+  - first:
+      213: 6548521470147862544
+    second: Loss_Screen-01_121
+  - first:
+      213: 3428331855238321381
+    second: Loss_Screen-01_122
+  - first:
+      213: 6434310965700205924
+    second: Loss_Screen-01_123
+  - first:
+      213: 841411163723112718
+    second: Loss_Screen-01_124
+  - first:
+      213: 7706162710421602337
+    second: Loss_Screen-01_125
+  - first:
+      213: 1490946511286519363
+    second: Loss_Screen-01_126
+  - first:
+      213: 5987123399363184869
+    second: Loss_Screen-01_127
+  - first:
+      213: 320346278652985600
+    second: Loss_Screen-01_128
+  - first:
+      213: 3566946164950154637
+    second: Loss_Screen-01_129
+  - first:
+      213: 1679070309379379738
+    second: Loss_Screen-01_130
+  - first:
+      213: -8649496660003373735
+    second: Loss_Screen-01_131
+  - first:
+      213: 5881383590254185873
+    second: Loss_Screen-01_132
+  - first:
+      213: -6144160510484852230
+    second: Loss_Screen-01_133
+  - first:
+      213: -483110374493476423
+    second: Loss_Screen-01_134
+  - first:
+      213: 694125612237608470
+    second: Loss_Screen-01_135
+  - first:
+      213: 4975127871627721904
+    second: Loss_Screen-01_136
+  - first:
+      213: -7819822539340457575
+    second: Loss_Screen-01_137
+  - first:
+      213: 5780945875160771227
+    second: Loss_Screen-01_138
+  - first:
+      213: -9163530568908856142
+    second: Loss_Screen-01_139
+  - first:
+      213: 6780082919154565138
+    second: Loss_Screen-01_140
+  - first:
+      213: -8232239816083866822
+    second: Loss_Screen-01_141
+  - first:
+      213: 4606374772293573590
+    second: Loss_Screen-01_142
+  - first:
+      213: -262460702233013470
+    second: Loss_Screen-01_143
+  - first:
+      213: 3085937107789024225
+    second: Loss_Screen-01_144
+  - first:
+      213: 3522877308177785988
+    second: Loss_Screen-01_145
+  - first:
+      213: -2677129450641493510
+    second: Loss_Screen-01_146
+  - first:
+      213: -1306470400808235001
+    second: Loss_Screen-01_147
+  - first:
+      213: 380707684192380745
+    second: Loss_Screen-01_148
+  - first:
+      213: 4420311849314273648
+    second: Loss_Screen-01_149
+  - first:
+      213: 2691996757778745352
+    second: Loss_Screen-01_150
+  - first:
+      213: -2040640488058339099
+    second: Loss_Screen-01_151
+  - first:
+      213: 5387595413786830008
+    second: Loss_Screen-01_152
+  - first:
+      213: 8232065054539476875
+    second: Loss_Screen-01_153
+  - first:
+      213: -8476281089946274892
+    second: Loss_Screen-01_154
+  - first:
+      213: 1686154278505317696
+    second: Loss_Screen-01_155
+  - first:
+      213: -2441825244842337511
+    second: Loss_Screen-01_156
+  - first:
+      213: -3920765767974456971
+    second: Loss_Screen-01_157
+  - first:
+      213: -7648650511931044501
+    second: Loss_Screen-01_158
+  - first:
+      213: 4775536395925820384
+    second: Loss_Screen-01_159
+  - first:
+      213: 4737790218617257307
+    second: Loss_Screen-01_160
+  - first:
+      213: -7558491089275204431
+    second: Loss_Screen-01_161
+  - first:
+      213: -6082121973952929147
+    second: Loss_Screen-01_162
+  - first:
+      213: -2904220662207217112
+    second: Loss_Screen-01_163
+  - first:
+      213: -3296126849519037349
+    second: Loss_Screen-01_164
+  - first:
+      213: -3827344510983930132
+    second: Loss_Screen-01_165
+  - first:
+      213: -3762113194548578535
+    second: Loss_Screen-01_166
+  - first:
+      213: 163161233891963754
+    second: Loss_Screen-01_167
+  - first:
+      213: 7882930207679566854
+    second: Loss_Screen-01_168
+  - first:
+      213: -7009303008310266735
+    second: Loss_Screen-01_169
+  - first:
+      213: -3473580868424711874
+    second: Loss_Screen-01_170
+  - first:
+      213: -2800411261106716029
+    second: Loss_Screen-01_171
+  - first:
+      213: 2730044155865370487
+    second: Loss_Screen-01_172
+  - first:
+      213: 4905984819320868271
+    second: Loss_Screen-01_173
+  - first:
+      213: -6436808459633018103
+    second: Loss_Screen-01_174
+  - first:
+      213: -6555442117696005959
+    second: Loss_Screen-01_175
+  - first:
+      213: 667180020548787864
+    second: Loss_Screen-01_176
+  - first:
+      213: 2623545050134992095
+    second: Loss_Screen-01_177
+  - first:
+      213: 2986564745016612457
+    second: Loss_Screen-01_178
+  - first:
+      213: 3929371162259926801
+    second: Loss_Screen-01_179
+  - first:
+      213: 1297614114296820231
+    second: Loss_Screen-01_180
+  - first:
+      213: -4882939440664807564
+    second: Loss_Screen-01_181
+  - first:
+      213: 4176154255221331958
+    second: Loss_Screen-01_182
+  - first:
+      213: -9097128530410542233
+    second: Loss_Screen-01_183
+  - first:
+      213: 2598480256091277472
+    second: Loss_Screen-01_184
+  - first:
+      213: -2485076805273619655
+    second: Loss_Screen-01_185
+  - first:
+      213: 7216637147609551292
+    second: Loss_Screen-01_186
+  - first:
+      213: -8935021917511476615
+    second: Loss_Screen-01_187
+  - first:
+      213: -3988067157588534719
+    second: Loss_Screen-01_188
+  - first:
+      213: 8713872048883341667
+    second: Loss_Screen-01_189
+  - first:
+      213: -8601833380449673997
+    second: Loss_Screen-01_190
+  - first:
+      213: 8877415665207629986
+    second: Loss_Screen-01_191
+  - first:
+      213: -842617088825704993
+    second: Loss_Screen-01_192
+  - first:
+      213: 5025826711542276905
+    second: Loss_Screen-01_193
+  - first:
+      213: -317813684120045042
+    second: Loss_Screen-01_194
+  - first:
+      213: -471062013375871827
+    second: Loss_Screen-01_195
+  - first:
+      213: -8433267802864760915
+    second: Loss_Screen-01_196
+  - first:
+      213: -6068464142806177827
+    second: Loss_Screen-01_197
+  - first:
+      213: 6044237748239781651
+    second: Loss_Screen-01_198
+  - first:
+      213: 5099496056135289134
+    second: Loss_Screen-01_199
+  - first:
+      213: -2288785541155734524
+    second: Loss_Screen-01_200
+  - first:
+      213: -3515199817008526677
+    second: Loss_Screen-01_201
+  - first:
+      213: 240583063793536692
+    second: Loss_Screen-01_202
+  - first:
+      213: -4242655747615403712
+    second: Loss_Screen-01_203
+  - first:
+      213: -5120650141188214748
+    second: Loss_Screen-01_204
+  - first:
+      213: 5133250492567847604
+    second: Loss_Screen-01_205
+  - first:
+      213: 9188565176903191806
+    second: Loss_Screen-01_206
+  - first:
+      213: 1947241247611935265
+    second: Loss_Screen-01_207
+  - first:
+      213: 8835679297811700309
+    second: Loss_Screen-01_208
+  - first:
+      213: -6672308383838918789
+    second: Loss_Screen-01_209
+  - first:
+      213: 975783645589097844
+    second: Loss_Screen-01_210
+  - first:
+      213: 8508613535004229921
+    second: Loss_Screen-01_211
+  - first:
+      213: -6222344560422466063
+    second: Loss_Screen-01_212
+  - first:
+      213: 9116256940317330644
+    second: Loss_Screen-01_213
+  - first:
+      213: 7913658110800133383
+    second: Loss_Screen-01_214
+  - first:
+      213: -1299787708499124738
+    second: Loss_Screen-01_215
+  - first:
+      213: -2521345179604769664
+    second: Loss_Screen-01_216
+  - first:
+      213: 4740915695102622537
+    second: Loss_Screen-01_217
+  - first:
+      213: 5122984374394830914
+    second: Loss_Screen-01_218
+  - first:
+      213: 205062246365979649
+    second: Loss_Screen-01_219
+  - first:
+      213: 7760114118775238283
+    second: Loss_Screen-01_220
+  - first:
+      213: -265345983283354361
+    second: Loss_Screen-01_221
+  - first:
+      213: -1449212840131096492
+    second: Loss_Screen-01_222
+  - first:
+      213: -9132410434893477015
+    second: Loss_Screen-01_223
+  - first:
+      213: 8725232078257710365
+    second: Loss_Screen-01_224
+  - first:
+      213: 1620060148126487864
+    second: Loss_Screen-01_225
+  - first:
+      213: 65731127090070541
+    second: Loss_Screen-01_226
+  - first:
+      213: -7009885248804552023
+    second: Loss_Screen-01_227
+  - first:
+      213: 1749830168322932737
+    second: Loss_Screen-01_228
+  - first:
+      213: 4392671269781430392
+    second: Loss_Screen-01_229
+  - first:
+      213: 1511255959941440535
+    second: Loss_Screen-01_230
+  - first:
+      213: -4432544908373248941
+    second: Loss_Screen-01_231
+  - first:
+      213: 4636659235060820134
+    second: Loss_Screen-01_232
+  - first:
+      213: -3600205880809565798
+    second: Loss_Screen-01_233
+  - first:
+      213: 5088558642578388614
+    second: Loss_Screen-01_234
+  - first:
+      213: -1006550746502905953
+    second: Loss_Screen-01_235
+  - first:
+      213: 8855458444796410933
+    second: Loss_Screen-01_236
+  - first:
+      213: -8351917845426969087
+    second: Loss_Screen-01_237
+  - first:
+      213: -1301016254533297969
+    second: Loss_Screen-01_238
+  - first:
+      213: -6678134783140855059
+    second: Loss_Screen-01_239
+  - first:
+      213: -4113041701332821184
+    second: Loss_Screen-01_240
+  - first:
+      213: 6622711536299905810
+    second: Loss_Screen-01_241
+  - first:
+      213: 8104533513435613061
+    second: Loss_Screen-01_242
+  - first:
+      213: 3277799016827236478
+    second: Loss_Screen-01_243
+  - first:
+      213: 9147495641651054917
+    second: Loss_Screen-01_244
+  - first:
+      213: 8991083067495405564
+    second: Loss_Screen-01_245
+  - first:
+      213: -3544850812149203689
+    second: Loss_Screen-01_246
+  - first:
+      213: -5905708195127127484
+    second: Loss_Screen-01_247
+  - first:
+      213: -7357113754761029904
+    second: Loss_Screen-01_248
+  - first:
+      213: -3219018720659644915
+    second: Loss_Screen-01_249
+  - first:
+      213: 6433971260091977750
+    second: Loss_Screen-01_250
+  - first:
+      213: -328201196906507425
+    second: Loss_Screen-01_251
+  - first:
+      213: 9163493832821607404
+    second: Loss_Screen-01_252
+  - first:
+      213: -7930777728232652122
+    second: Loss_Screen-01_253
+  - first:
+      213: 1422581363687327149
+    second: Loss_Screen-01_254
+  - first:
+      213: 5737968790483215161
+    second: Loss_Screen-01_255
+  - first:
+      213: 6009103598433838900
+    second: Loss_Screen-01_256
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loss_Screen-01_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1105
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e9139c6ddad010800000000000000
+      internalID: 1214526507923923430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c3ed8a783c753e0800000000000000
+      internalID: -2064966916704945097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e67d86ab696cd60800000000000000
+      internalID: 7910175522889887344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1106
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a306980ab6305b0800000000000000
+      internalID: -5403356790670738866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a873faf50b1a1d960800000000000000
+      internalID: 7625053423006594954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7602797f9917aa0800000000000000
+      internalID: -6164977126222043137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df6629596b81bdd0800000000000000
+      internalID: -2472041435866173483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1106
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baeea2f1f6ef6e10800000000000000
+      internalID: 2193225470385777336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de0456a6a0d90300800000000000000
+      internalID: 218935471077854936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bc764c4f77350a0800000000000000
+      internalID: -6894034711423235192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fd0aca0c2a257f0800000000000000
+      internalID: -625258449837433009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb3e069fb3fb22a0800000000000000
+      internalID: -6761042411384849476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1107
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b679c4a07acf8e0800000000000000
+      internalID: -1658266900102681774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1106
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee27b53118c2bf7e0800000000000000
+      internalID: -1730740698906660114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96170037ff101df60800000000000000
+      internalID: 8057223405000225129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c081726771d7a830800000000000000
+      internalID: 4082461897917563072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a313c7e4b29140800000000000000
+      internalID: 4725037866568360381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a2a8cc4822208d0800000000000000
+      internalID: -2881702857801061807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf4336e08822a290800000000000000
+      internalID: -7880691863861899340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1106
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7add5827ad19b1f0800000000000000
+      internalID: -1028758436103464325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_20
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530822fe2bc237820800000000000000
+      internalID: 2914722530866659381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557c0078002e32240800000000000000
+      internalID: 4765901322580969301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1081
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e2a0b80c1226eb0800000000000000
+      internalID: -4728179547935461875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1082
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d2f951e7748800800000000000000
+      internalID: 613747258989662452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1082
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf86a98445345a60800000000000000
+      internalID: 7661807434547498957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1082
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89819f5ff83b08f80800000000000000
+      internalID: -8106281898378454888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1082
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f385295b7b1ee4d0800000000000000
+      internalID: -3103512876621134861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1082
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224074be8423e7de0800000000000000
+      internalID: -1333573150888754142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1081
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c803b09891045a260800000000000000
+      internalID: 7108158065291767948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_29
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1082
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5651e6f7c45cde30800000000000000
+      internalID: 4529588543045064283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1082
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ff552c3e3e31740800000000000000
+      internalID: 5121687768607883110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1082
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da43940ea2d299690800000000000000
+      internalID: -7594989634408860499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1082
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af71e1d38669090800000000000000
+      internalID: -8028114674034148815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_33
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1083
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933d91db2c000c8a0800000000000000
+      internalID: -6287024243412970695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1082
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c812a63b8045af40800000000000000
+      internalID: 5739064266814789833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_35
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1082
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc172b835d3917170800000000000000
+      internalID: 8174477342642696655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_36
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1082
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a6af50f870c2e30800000000000000
+      internalID: 4479964040188816024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_37
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1082
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735d222733a63830800000000000000
+      internalID: 4050604372058264437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_38
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1082
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa92916f829a53f0800000000000000
+      internalID: -911254830074127618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_39
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1082
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b06ecb1261cdab0800000000000000
+      internalID: -4982082753619686600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_40
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1081
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd15828060dad6b0800000000000000
+      internalID: -5270671300958544398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_41
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1082
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2a190c59ed89c90800000000000000
+      internalID: -7162730472570510682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb521815b6f25270800000000000000
+      internalID: 8237917926067428347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1899ba781013d9670800000000000000
+      internalID: 8547041550459967873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1058
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9761dc78ae3c82d0800000000000000
+      internalID: -3275173935635667044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1059
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89877a76a49a6f4c0800000000000000
+      internalID: -4254026660973152104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848657de4be137ee0800000000000000
+      internalID: -1264633307934136248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1059
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2215d1e5f48b09e90800000000000000
+      internalID: -7020909168049696478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64a90a8bb108bb40800000000000000
+      internalID: 5456112853545755756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_49
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9698a1c9776f2e0c0800000000000000
+      internalID: -4547801680110253719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_50
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5ac40b70e0c5020800000000000000
+      internalID: 2331754133256447457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2252a26f828b2d470800000000000000
+      internalID: 8417993139577038114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6756b9f60c5f9ec0800000000000000
+      internalID: -3558023995570366610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_53
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c7f1bc10df4e420800000000000000
+      internalID: 2658527864200068100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_54
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f1ba5929fe32720800000000000000
+      internalID: 2820361204519346076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_55
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9df0ebe9c57c11d0800000000000000
+      internalID: -3378696110328447588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_56
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93fc98f530f36fa0800000000000000
+      internalID: -5808534979782839396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_57
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f6d2646f092f260800000000000000
+      internalID: 7129920547494653843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_58
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce8323a6f042d00800000000000000
+      internalID: 946898770438188242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_59
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1059
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5d70c7b326baad0800000000000000
+      internalID: -2689948344800258644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_60
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1058
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d5ed135a845b410800000000000000
+      internalID: 1492178725886647644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_61
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1059
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aebaedbb23e905c0800000000000000
+      internalID: -4248614996437975390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_62
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1039
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524c4dee709982aa0800000000000000
+      internalID: -6185525828842634203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba00678be66a6200800000000000000
+      internalID: 174064697381751478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1034
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9cfba8645006750800000000000000
+      internalID: 6296038079597627818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_65
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1035
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac2aae6bbea13e0800000000000000
+      internalID: -2082092706852320563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_66
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1034
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae8de698170ddd00800000000000000
+      internalID: 998962494538878627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1035
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f53c0e1d8e006c0800000000000000
+      internalID: -4179084466083111090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_68
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1034
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18313f341f716efe0800000000000000
+      internalID: -1160213529006763135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1035
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f907f203badf170800000000000000
+      internalID: 8213909518836342589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_70
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1034
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e194d8ac271e37110800000000000000
+      internalID: 1257596604107278622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_71
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1035
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e68c1152b447b10800000000000000
+      internalID: 1978288758906711623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_72
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1034
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e0250f760752a00800000000000000
+      internalID: 731114106233425513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_73
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1035
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9a44d9e6e970860800000000000000
+      internalID: 7496134302703593949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_74
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1034
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e3d07ed49c02260800000000000000
+      internalID: 7070872751397748380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_75
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1035
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81095049d14de8d0800000000000000
+      internalID: -2815521790693408373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_76
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1034
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4770d663acd2030800000000000000
+      internalID: 3471653222878770419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_77
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1035
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b589014a3552d0770800000000000000
+      internalID: 8578553906375727195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_78
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1034
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6ed46508996ad0800000000000000
+      internalID: -2708466551952086176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_79
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1035
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fffe52dc4ae5dc40800000000000000
+      internalID: 5536588932589748213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_80
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1034
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ea81bfb351ddc40800000000000000
+      internalID: 5538606464095530609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_81
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1035
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2415d7fba4b82c0800000000000000
+      internalID: -4428363622287064359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_82
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1034
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73933cd8d719af990800000000000000
+      internalID: -7351403473293592265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_83
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1035
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7df089d1c79af80800000000000000
+      internalID: -8094802388674684971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f43cd5ec9984f360800000000000000
+      internalID: 7202533011036583157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c48db810459df2e0800000000000000
+      internalID: -2090350549504523071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1012
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a22f1c8b4cd485b0800000000000000
+      internalID: -5366922638887279960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c10abf9ed53dc80800000000000000
+      internalID: -8299186428783354829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_88
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1012
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b032e1f8db7800800000000000000
+      internalID: 611320707832394288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e906f20ddcb3cf780800000000000000
+      internalID: -8647971429311094626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1012
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9836d7470a817a5e0800000000000000
+      internalID: -1898521640485166199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bf207ab947687e0800000000000000
+      internalID: -1763593992198227191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1012
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd2a463efcd88950800000000000000
+      internalID: 6451649450598870464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_93
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7c565c12903390800000000000000
+      internalID: -7840606300846391717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_94
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1011
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a54df74e55891070800000000000000
+      internalID: 8077634046646896040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_95
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a8d063811ca43d0800000000000000
+      internalID: -3221550273699935698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_96
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1011
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e474e776f173660800000000000000
+      internalID: 7365390244948430393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_97
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab65c5c5fb838d3f0800000000000000
+      internalID: -875887732984097094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_98
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1011
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7867322aed2a98b0800000000000000
+      internalID: -5144749140697716614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_99
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f986a37b573ad0800000000000000
+      internalID: -2722606897448748886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_100
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e077de526767e100800000000000000
+      internalID: 137191985853722848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_101
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8311f588234d882e0800000000000000
+      internalID: -2123213910803803848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_102
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1011
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1deb17bd81bbec0800000000000000
+      internalID: -3550216550466268674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_103
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1011
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4267cf3fd1046e0800000000000000
+      internalID: -1855450112726784772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_104
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1012
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb6289f637953a80800000000000000
+      internalID: -8487711660339729411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a42d5d148b72a40800000000000000
+      internalID: 5343442075798096490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_106
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 987
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc04853b43dd05350800000000000000
+      internalID: 6003541521701814479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_107
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 988
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497706093ad815c30800000000000000
+      internalID: 4346410849030666132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 987
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661521fd922cff3f0800000000000000
+      internalID: -864759118339878554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_109
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9924e7736dee0fe80800000000000000
+      internalID: -8146749122091793767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_110
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 987
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b06e47f7b621300800000000000000
+      internalID: 221357526860827444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_111
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc59bd49726d480800000000000000
+      internalID: -8874862495394312303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_112
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 987
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581b4af5dbfc48650800000000000000
+      internalID: 6234336196448006533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_113
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74cba457ea3a16e0800000000000000
+      internalID: -1866114330359249795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_114
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 987
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f5222bc7ae71260800000000000000
+      internalID: 7068375961466724116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_115
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a074f09d9d2a45e80800000000000000
+      internalID: -8190742765746829558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_116
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 987
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21687995627c75760800000000000000
+      internalID: 7446639476406191634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_117
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d60d5010afb5fda0800000000000000
+      internalID: -5911608241663703342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_118
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 987
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e53b91738fe4930800000000000000
+      internalID: 4129510823883398789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_119
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb378d6d21e23800800000000000000
+      internalID: 590782086366313441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_120
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 987
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23063a54b32e31850800000000000000
+      internalID: 6346665044094443570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_121
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010ae20e49501ea50800000000000000
+      internalID: 6548521470147862544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_122
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 987
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4d2a388a1e39f20800000000000000
+      internalID: 3428331855238321381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_123
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 988
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d16fc9bb34b4950800000000000000
+      internalID: 6434310965700205924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_124
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 987
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a3c3defa4dab00800000000000000
+      internalID: 841411163723112718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_125
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 988
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1208a08f72ac1fa60800000000000000
+      internalID: 7706162710421602337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_126
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3464750e3f7e0b410800000000000000
+      internalID: 1490946511286519363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_127
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 965
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c875b209861350800000000000000
+      internalID: 5987123399363184869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ca304e39127400800000000000000
+      internalID: 320346278652985600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_129
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dbbc673a6508130800000000000000
+      internalID: 3566946164950154637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_130
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 964
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12967fdc814d4710800000000000000
+      internalID: 1679070309379379738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_131
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d329e5d90d6f780800000000000000
+      internalID: -8649496660003373735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_132
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d89e4e63fde9150800000000000000
+      internalID: 5881383590254185873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_133
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af15191a19e8bbaa0800000000000000
+      internalID: -6144160510484852230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_134
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9a20d8ca5ab49f0800000000000000
+      internalID: -483110374493476423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_135
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165ce2119702a900800000000000000
+      internalID: 694125612237608470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_136
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcf38c90743b0540800000000000000
+      internalID: 4975127871627721904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_137
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d408e4d86a7390800000000000000
+      internalID: -7819822539340457575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_138
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa7ba05ab0a3050800000000000000
+      internalID: 5780945875160771227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_139
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b421cf7f7994d080800000000000000
+      internalID: -9163530568908856142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_140
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210c6e71e71b71e50800000000000000
+      internalID: 6780082919154565138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_141
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b7e78e08531cd80800000000000000
+      internalID: -8232239816083866822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_142
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 964
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db11e423712def30800000000000000
+      internalID: 4606374772293573590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_143
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 965
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223d6e3c16d8b5cf0800000000000000
+      internalID: -262460702233013470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_144
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 964
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb06f4137373da20800000000000000
+      internalID: 3085937107789024225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_145
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 964
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484a83d2f36c3e030800000000000000
+      internalID: 3522877308177785988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_146
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 945
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f6ccd2fce8dad0800000000000000
+      internalID: -2677129450641493510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700534aa71c7edde0800000000000000
+      internalID: -1306470400808235001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_148
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 940
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9476c872f9b884500800000000000000
+      internalID: 380707684192380745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_149
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 941
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079c3d6053a185d30800000000000000
+      internalID: 4420311849314273648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_150
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 940
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808c7e3d9c4eb5520800000000000000
+      internalID: 2691996757778745352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_151
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 942
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c003b9403ea3e0800000000000000
+      internalID: -2040640488058339099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_152
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 941
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4a940fb7594ca40800000000000000
+      internalID: 5387595413786830008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_153
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 942
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f6bbf3d8b2e3270800000000000000
+      internalID: 8232065054539476875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 941
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3346902433e5a80800000000000000
+      internalID: -8476281089946274892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_155
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 941
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04580d6f16c666710800000000000000
+      internalID: 1686154278505317696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_156
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 940
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b579d80e4ec1ed0800000000000000
+      internalID: -2441825244842337511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_157
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 941
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571fe50ae44a699c0800000000000000
+      internalID: -3920765767974456971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_158
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 940
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d8d3932e88ad590800000000000000
+      internalID: -7648650511931044501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_159
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 941
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39b1bdc0d164240800000000000000
+      internalID: 4775536395925820384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_160
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 940
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d70091a1300c140800000000000000
+      internalID: 4737790218617257307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_161
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 941
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bccbc1a668da1790800000000000000
+      internalID: -7558491089275204431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_162
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 941
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58220f50a46f79ba0800000000000000
+      internalID: -6082121973952929147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_163
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 942
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8220ac7e1b222b7d0800000000000000
+      internalID: -2904220662207217112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_164
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 940
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b545acf081ec142d0800000000000000
+      internalID: -3296126849519037349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_165
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 941
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceef2c5027a82eac0800000000000000
+      internalID: -3827344510983930132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_166
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 940
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173f1a6bf94acbc0800000000000000
+      internalID: -3762113194548578535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_167
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 941
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63be3b174aa34200800000000000000
+      internalID: 163161233891963754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_168
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 918
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604dfe1224bc56d60800000000000000
+      internalID: 7882930207679566854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_169
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 917
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194f6920d04f9be90800000000000000
+      internalID: -7009303008310266735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_170
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c3fe9a9c5bcfc0800000000000000
+      internalID: -3473580868424711874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 917
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3820bb49bc0f229d0800000000000000
+      internalID: -2800411261106716029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_172
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f8c7302b013e520800000000000000
+      internalID: 2730044155865370487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_173
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 918
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad441d333f851440800000000000000
+      internalID: 4905984819320868271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b38544fccdba6a0800000000000000
+      internalID: -6436808459633018103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_175
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 918
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8581d40246605a0800000000000000
+      internalID: -6555442117696005959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_176
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 918
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e5c0e91bc424900800000000000000
+      internalID: 667180020548787864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_177
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 918
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4d78da254b86420800000000000000
+      internalID: 2623545050134992095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_178
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 918
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9669b65efc8627920800000000000000
+      internalID: 2986564745016612457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_179
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 918
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11faa2dd04ee78630800000000000000
+      internalID: 3929371162259926801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_180
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f132792d020210800000000000000
+      internalID: 1297614114296820231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_181
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 918
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477fd6b13705c3cb0800000000000000
+      internalID: -4882939440664807564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_182
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f714bd3b2ea4f930800000000000000
+      internalID: 4176154255221331958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_183
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76beeccdcc180c180800000000000000
+      internalID: -9097128530410542233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_184
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8cf2c8608af0420800000000000000
+      internalID: 2598480256091277472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_185
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 917
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9337a16efcb338dd0800000000000000
+      internalID: -2485076805273619655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_186
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1d7281045a62460800000000000000
+      internalID: 7216637147609551292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_187
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 917
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a1662e7ec600480800000000000000
+      internalID: -8935021917511476615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_188
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 918
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a9883cc0a87a8c0800000000000000
+      internalID: -3988067157588534719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36995ebd574ede870800000000000000
+      internalID: 8713872048883341667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_190
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 893
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc133d6d1620a880800000000000000
+      internalID: -8601833380449673997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_191
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 894
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a85030538ae23b70800000000000000
+      internalID: 8877415665207629986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_192
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 893
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddbedad83c6e44f0800000000000000
+      internalID: -842617088825704993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_193
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 894
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923a52424c25fb540800000000000000
+      internalID: 5025826711542276905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_194
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 894
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a344d5326e69bf0800000000000000
+      internalID: -317813684120045042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_195
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 894
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da40d8938937679f0800000000000000
+      internalID: -471062013375871827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_196
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 894
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7c18a5d9307fa80800000000000000
+      internalID: -8433267802864760915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_197
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 894
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7a7d3a30c78cba0800000000000000
+      internalID: -6068464142806177827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_198
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 894
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fc6d1553271e350800000000000000
+      internalID: 6044237748239781651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_199
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 894
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29037f05ac05c640800000000000000
+      internalID: 5099496056135289134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 894
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cbc544da99c30e0800000000000000
+      internalID: -2288785541155734524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_201
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 894
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa40b80460873fc0800000000000000
+      internalID: -3515199817008526677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_202
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 894
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be83689509b65300800000000000000
+      internalID: 240583063793536692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_203
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 894
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0415d1b731f0f15c0800000000000000
+      internalID: -4242655747615403712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_204
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 894
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4203c63b3dbcfe8b0800000000000000
+      internalID: -5120650141188214748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_205
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 894
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b20b983028fc3740800000000000000
+      internalID: 5133250492567847604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_206
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 893
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcc6d46857548f70800000000000000
+      internalID: 9188565176903191806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_207
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 894
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ad5e7099df50b10800000000000000
+      internalID: 1947241247611935265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_208
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 893
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ad6570283ae9a70800000000000000
+      internalID: 8835679297811700309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_209
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 894
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77ab6550e23763a0800000000000000
+      internalID: -6672308383838918789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_210
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d49f44e0eaa8d00800000000000000
+      internalID: 975783645589097844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_211
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 871
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1210205fdeaa41670800000000000000
+      internalID: 8508613535004229921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_212
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd4fe5f69ac5a9a0800000000000000
+      internalID: -6222344560422466063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 871
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dccdc02363738e70800000000000000
+      internalID: 9116256940317330644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_214
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 870
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d71289f16f2dd60800000000000000
+      internalID: 7913658110800133383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_215
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 871
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd9d7737f936fde0800000000000000
+      internalID: -1299787708499124738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_216
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a385fae1620dd0800000000000000
+      internalID: -2521345179604769664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_217
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 871
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b7aacc4bd1bc140800000000000000
+      internalID: 4740915695102622537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_218
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2404ea1552f781740800000000000000
+      internalID: 5122984374394830914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_219
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 871
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104ec7fc60788d200800000000000000
+      internalID: 205062246365979649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_220
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e671a1da671bb60800000000000000
+      internalID: 7760114118775238283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_221
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 871
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705a1dbeb3d415cf0800000000000000
+      internalID: -265345983283354361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_222
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4501d04a99c53ebe0800000000000000
+      internalID: -1449212840131096492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_223
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 871
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b8a155819234180800000000000000
+      internalID: -9132410434893477015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_224
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15e46fc850461970800000000000000
+      internalID: 8725232078257710365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_225
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 871
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83598db0f1c9b7610800000000000000
+      internalID: 1620060148126487864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_226
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04c3e0ac1689e000800000000000000
+      internalID: 65731127090070541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_227
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 871
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a201c49182e7be90800000000000000
+      internalID: -7009885248804552023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_228
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 870
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10086206445a84810800000000000000
+      internalID: 1749830168322932737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_229
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 870
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870e26a1f37e5fc30800000000000000
+      internalID: 4392671269781430392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_230
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7146001e94f09f410800000000000000
+      internalID: 1511255959941440535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3543275f3ef6c72c0800000000000000
+      internalID: -4432544908373248941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_232
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 846
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a55a1209b85040800000000000000
+      internalID: 4636659235060820134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_233
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 847
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d21c73df790ec0800000000000000
+      internalID: -3600205880809565798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_234
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 847
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686f0a500213e9640800000000000000
+      internalID: 5088558642578388614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_235
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 848
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f3a42dd630802f0800000000000000
+      internalID: -1006550746502905953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_236
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 847
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb25d8988e4ea70800000000000000
+      internalID: 8855458444796410933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_237
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 847
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106641e48f6081c80800000000000000
+      internalID: -8351917845426969087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_238
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 846
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8988d0c9cd1fde0800000000000000
+      internalID: -1301016254533297969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_239
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 847
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de285b80ccf7253a0800000000000000
+      internalID: -6678134783140855059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_240
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 846
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b50bd4d5a8be6c0800000000000000
+      internalID: -4113041701332821184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_241
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 833
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213990bbd0998eb50800000000000000
+      internalID: 6622711536299905810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_242
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 846
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58704927a46197070800000000000000
+      internalID: 8104533513435613061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_243
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 847
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70bc1bd6d41d7d20800000000000000
+      internalID: 3277799016827236478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_244
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 846
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5498b0112de62fe70800000000000000
+      internalID: 9147495641651054917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_245
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 847
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7d710c96eb6cc70800000000000000
+      internalID: 8991083067495405564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_246
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 846
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d7710c7f82ecec0800000000000000
+      internalID: -3544850812149203689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_247
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 832
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4429552bfa5ba0ea0800000000000000
+      internalID: -5905708195127127484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_248
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 846
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6145b050846e990800000000000000
+      internalID: -7357113754761029904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_249
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 847
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0edfb5578fb353d0800000000000000
+      internalID: -3219018720659644915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_250
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 846
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610dadcb5ce0a4950800000000000000
+      internalID: 6433971260091977750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_251
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 847
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53978310cef17bf0800000000000000
+      internalID: -328201196906507425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_252
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 259
+        width: 218
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb80d637154b2f70800000000000000
+      internalID: 9163493832821607404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_253
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 521
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a20d1cdca730f190800000000000000
+      internalID: -7930777728232652122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_254
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 518
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da58cae86360eb310800000000000000
+      internalID: 1422581363687327149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_255
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 519
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933a701c63c51af40800000000000000
+      internalID: 5737968790483215161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loss_Screen-01_256
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 519
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ab2b92ef946350800000000000000
+      internalID: 6009103598433838900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Loss_Screen-01_0: 1214526507923923430
+      Loss_Screen-01_1: -2064966916704945097
+      Loss_Screen-01_10: -625258449837433009
+      Loss_Screen-01_100: 137191985853722848
+      Loss_Screen-01_101: -2123213910803803848
+      Loss_Screen-01_102: -3550216550466268674
+      Loss_Screen-01_103: -1855450112726784772
+      Loss_Screen-01_104: -8487711660339729411
+      Loss_Screen-01_105: 5343442075798096490
+      Loss_Screen-01_106: 6003541521701814479
+      Loss_Screen-01_107: 4346410849030666132
+      Loss_Screen-01_108: -864759118339878554
+      Loss_Screen-01_109: -8146749122091793767
+      Loss_Screen-01_11: -6761042411384849476
+      Loss_Screen-01_110: 221357526860827444
+      Loss_Screen-01_111: -8874862495394312303
+      Loss_Screen-01_112: 6234336196448006533
+      Loss_Screen-01_113: -1866114330359249795
+      Loss_Screen-01_114: 7068375961466724116
+      Loss_Screen-01_115: -8190742765746829558
+      Loss_Screen-01_116: 7446639476406191634
+      Loss_Screen-01_117: -5911608241663703342
+      Loss_Screen-01_118: 4129510823883398789
+      Loss_Screen-01_119: 590782086366313441
+      Loss_Screen-01_12: -1658266900102681774
+      Loss_Screen-01_120: 6346665044094443570
+      Loss_Screen-01_121: 6548521470147862544
+      Loss_Screen-01_122: 3428331855238321381
+      Loss_Screen-01_123: 6434310965700205924
+      Loss_Screen-01_124: 841411163723112718
+      Loss_Screen-01_125: 7706162710421602337
+      Loss_Screen-01_126: 1490946511286519363
+      Loss_Screen-01_127: 5987123399363184869
+      Loss_Screen-01_128: 320346278652985600
+      Loss_Screen-01_129: 3566946164950154637
+      Loss_Screen-01_13: -1730740698906660114
+      Loss_Screen-01_130: 1679070309379379738
+      Loss_Screen-01_131: -8649496660003373735
+      Loss_Screen-01_132: 5881383590254185873
+      Loss_Screen-01_133: -6144160510484852230
+      Loss_Screen-01_134: -483110374493476423
+      Loss_Screen-01_135: 694125612237608470
+      Loss_Screen-01_136: 4975127871627721904
+      Loss_Screen-01_137: -7819822539340457575
+      Loss_Screen-01_138: 5780945875160771227
+      Loss_Screen-01_139: -9163530568908856142
+      Loss_Screen-01_14: 8057223405000225129
+      Loss_Screen-01_140: 6780082919154565138
+      Loss_Screen-01_141: -8232239816083866822
+      Loss_Screen-01_142: 4606374772293573590
+      Loss_Screen-01_143: -262460702233013470
+      Loss_Screen-01_144: 3085937107789024225
+      Loss_Screen-01_145: 3522877308177785988
+      Loss_Screen-01_146: -2677129450641493510
+      Loss_Screen-01_147: -1306470400808235001
+      Loss_Screen-01_148: 380707684192380745
+      Loss_Screen-01_149: 4420311849314273648
+      Loss_Screen-01_15: 4082461897917563072
+      Loss_Screen-01_150: 2691996757778745352
+      Loss_Screen-01_151: -2040640488058339099
+      Loss_Screen-01_152: 5387595413786830008
+      Loss_Screen-01_153: 8232065054539476875
+      Loss_Screen-01_154: -8476281089946274892
+      Loss_Screen-01_155: 1686154278505317696
+      Loss_Screen-01_156: -2441825244842337511
+      Loss_Screen-01_157: -3920765767974456971
+      Loss_Screen-01_158: -7648650511931044501
+      Loss_Screen-01_159: 4775536395925820384
+      Loss_Screen-01_16: 4725037866568360381
+      Loss_Screen-01_160: 4737790218617257307
+      Loss_Screen-01_161: -7558491089275204431
+      Loss_Screen-01_162: -6082121973952929147
+      Loss_Screen-01_163: -2904220662207217112
+      Loss_Screen-01_164: -3296126849519037349
+      Loss_Screen-01_165: -3827344510983930132
+      Loss_Screen-01_166: -3762113194548578535
+      Loss_Screen-01_167: 163161233891963754
+      Loss_Screen-01_168: 7882930207679566854
+      Loss_Screen-01_169: -7009303008310266735
+      Loss_Screen-01_17: -2881702857801061807
+      Loss_Screen-01_170: -3473580868424711874
+      Loss_Screen-01_171: -2800411261106716029
+      Loss_Screen-01_172: 2730044155865370487
+      Loss_Screen-01_173: 4905984819320868271
+      Loss_Screen-01_174: -6436808459633018103
+      Loss_Screen-01_175: -6555442117696005959
+      Loss_Screen-01_176: 667180020548787864
+      Loss_Screen-01_177: 2623545050134992095
+      Loss_Screen-01_178: 2986564745016612457
+      Loss_Screen-01_179: 3929371162259926801
+      Loss_Screen-01_18: -7880691863861899340
+      Loss_Screen-01_180: 1297614114296820231
+      Loss_Screen-01_181: -4882939440664807564
+      Loss_Screen-01_182: 4176154255221331958
+      Loss_Screen-01_183: -9097128530410542233
+      Loss_Screen-01_184: 2598480256091277472
+      Loss_Screen-01_185: -2485076805273619655
+      Loss_Screen-01_186: 7216637147609551292
+      Loss_Screen-01_187: -8935021917511476615
+      Loss_Screen-01_188: -3988067157588534719
+      Loss_Screen-01_189: 8713872048883341667
+      Loss_Screen-01_19: -1028758436103464325
+      Loss_Screen-01_190: -8601833380449673997
+      Loss_Screen-01_191: 8877415665207629986
+      Loss_Screen-01_192: -842617088825704993
+      Loss_Screen-01_193: 5025826711542276905
+      Loss_Screen-01_194: -317813684120045042
+      Loss_Screen-01_195: -471062013375871827
+      Loss_Screen-01_196: -8433267802864760915
+      Loss_Screen-01_197: -6068464142806177827
+      Loss_Screen-01_198: 6044237748239781651
+      Loss_Screen-01_199: 5099496056135289134
+      Loss_Screen-01_2: 7910175522889887344
+      Loss_Screen-01_20: 2914722530866659381
+      Loss_Screen-01_200: -2288785541155734524
+      Loss_Screen-01_201: -3515199817008526677
+      Loss_Screen-01_202: 240583063793536692
+      Loss_Screen-01_203: -4242655747615403712
+      Loss_Screen-01_204: -5120650141188214748
+      Loss_Screen-01_205: 5133250492567847604
+      Loss_Screen-01_206: 9188565176903191806
+      Loss_Screen-01_207: 1947241247611935265
+      Loss_Screen-01_208: 8835679297811700309
+      Loss_Screen-01_209: -6672308383838918789
+      Loss_Screen-01_21: 4765901322580969301
+      Loss_Screen-01_210: 975783645589097844
+      Loss_Screen-01_211: 8508613535004229921
+      Loss_Screen-01_212: -6222344560422466063
+      Loss_Screen-01_213: 9116256940317330644
+      Loss_Screen-01_214: 7913658110800133383
+      Loss_Screen-01_215: -1299787708499124738
+      Loss_Screen-01_216: -2521345179604769664
+      Loss_Screen-01_217: 4740915695102622537
+      Loss_Screen-01_218: 5122984374394830914
+      Loss_Screen-01_219: 205062246365979649
+      Loss_Screen-01_22: -4728179547935461875
+      Loss_Screen-01_220: 7760114118775238283
+      Loss_Screen-01_221: -265345983283354361
+      Loss_Screen-01_222: -1449212840131096492
+      Loss_Screen-01_223: -9132410434893477015
+      Loss_Screen-01_224: 8725232078257710365
+      Loss_Screen-01_225: 1620060148126487864
+      Loss_Screen-01_226: 65731127090070541
+      Loss_Screen-01_227: -7009885248804552023
+      Loss_Screen-01_228: 1749830168322932737
+      Loss_Screen-01_229: 4392671269781430392
+      Loss_Screen-01_23: 613747258989662452
+      Loss_Screen-01_230: 1511255959941440535
+      Loss_Screen-01_231: -4432544908373248941
+      Loss_Screen-01_232: 4636659235060820134
+      Loss_Screen-01_233: -3600205880809565798
+      Loss_Screen-01_234: 5088558642578388614
+      Loss_Screen-01_235: -1006550746502905953
+      Loss_Screen-01_236: 8855458444796410933
+      Loss_Screen-01_237: -8351917845426969087
+      Loss_Screen-01_238: -1301016254533297969
+      Loss_Screen-01_239: -6678134783140855059
+      Loss_Screen-01_24: 7661807434547498957
+      Loss_Screen-01_240: -4113041701332821184
+      Loss_Screen-01_241: 6622711536299905810
+      Loss_Screen-01_242: 8104533513435613061
+      Loss_Screen-01_243: 3277799016827236478
+      Loss_Screen-01_244: 9147495641651054917
+      Loss_Screen-01_245: 8991083067495405564
+      Loss_Screen-01_246: -3544850812149203689
+      Loss_Screen-01_247: -5905708195127127484
+      Loss_Screen-01_248: -7357113754761029904
+      Loss_Screen-01_249: -3219018720659644915
+      Loss_Screen-01_25: -8106281898378454888
+      Loss_Screen-01_250: 6433971260091977750
+      Loss_Screen-01_251: -328201196906507425
+      Loss_Screen-01_252: 9163493832821607404
+      Loss_Screen-01_253: -7930777728232652122
+      Loss_Screen-01_254: 1422581363687327149
+      Loss_Screen-01_255: 5737968790483215161
+      Loss_Screen-01_256: 6009103598433838900
+      Loss_Screen-01_26: -3103512876621134861
+      Loss_Screen-01_27: -1333573150888754142
+      Loss_Screen-01_28: 7108158065291767948
+      Loss_Screen-01_29: 4529588543045064283
+      Loss_Screen-01_3: -5403356790670738866
+      Loss_Screen-01_30: 5121687768607883110
+      Loss_Screen-01_31: -7594989634408860499
+      Loss_Screen-01_32: -8028114674034148815
+      Loss_Screen-01_33: -6287024243412970695
+      Loss_Screen-01_34: 5739064266814789833
+      Loss_Screen-01_35: 8174477342642696655
+      Loss_Screen-01_36: 4479964040188816024
+      Loss_Screen-01_37: 4050604372058264437
+      Loss_Screen-01_38: -911254830074127618
+      Loss_Screen-01_39: -4982082753619686600
+      Loss_Screen-01_4: 7625053423006594954
+      Loss_Screen-01_40: -5270671300958544398
+      Loss_Screen-01_41: -7162730472570510682
+      Loss_Screen-01_42: 8237917926067428347
+      Loss_Screen-01_43: 8547041550459967873
+      Loss_Screen-01_44: -3275173935635667044
+      Loss_Screen-01_45: -4254026660973152104
+      Loss_Screen-01_46: -1264633307934136248
+      Loss_Screen-01_47: -7020909168049696478
+      Loss_Screen-01_48: 5456112853545755756
+      Loss_Screen-01_49: -4547801680110253719
+      Loss_Screen-01_5: -6164977126222043137
+      Loss_Screen-01_50: 2331754133256447457
+      Loss_Screen-01_51: 8417993139577038114
+      Loss_Screen-01_52: -3558023995570366610
+      Loss_Screen-01_53: 2658527864200068100
+      Loss_Screen-01_54: 2820361204519346076
+      Loss_Screen-01_55: -3378696110328447588
+      Loss_Screen-01_56: -5808534979782839396
+      Loss_Screen-01_57: 7129920547494653843
+      Loss_Screen-01_58: 946898770438188242
+      Loss_Screen-01_59: -2689948344800258644
+      Loss_Screen-01_6: -2472041435866173483
+      Loss_Screen-01_60: 1492178725886647644
+      Loss_Screen-01_61: -4248614996437975390
+      Loss_Screen-01_62: -6185525828842634203
+      Loss_Screen-01_63: 174064697381751478
+      Loss_Screen-01_64: 6296038079597627818
+      Loss_Screen-01_65: -2082092706852320563
+      Loss_Screen-01_66: 998962494538878627
+      Loss_Screen-01_67: -4179084466083111090
+      Loss_Screen-01_68: -1160213529006763135
+      Loss_Screen-01_69: 8213909518836342589
+      Loss_Screen-01_7: 2193225470385777336
+      Loss_Screen-01_70: 1257596604107278622
+      Loss_Screen-01_71: 1978288758906711623
+      Loss_Screen-01_72: 731114106233425513
+      Loss_Screen-01_73: 7496134302703593949
+      Loss_Screen-01_74: 7070872751397748380
+      Loss_Screen-01_75: -2815521790693408373
+      Loss_Screen-01_76: 3471653222878770419
+      Loss_Screen-01_77: 8578553906375727195
+      Loss_Screen-01_78: -2708466551952086176
+      Loss_Screen-01_79: 5536588932589748213
+      Loss_Screen-01_8: 218935471077854936
+      Loss_Screen-01_80: 5538606464095530609
+      Loss_Screen-01_81: -4428363622287064359
+      Loss_Screen-01_82: -7351403473293592265
+      Loss_Screen-01_83: -8094802388674684971
+      Loss_Screen-01_84: 7202533011036583157
+      Loss_Screen-01_85: -2090350549504523071
+      Loss_Screen-01_86: -5366922638887279960
+      Loss_Screen-01_87: -8299186428783354829
+      Loss_Screen-01_88: 611320707832394288
+      Loss_Screen-01_89: -8647971429311094626
+      Loss_Screen-01_9: -6894034711423235192
+      Loss_Screen-01_90: -1898521640485166199
+      Loss_Screen-01_91: -1763593992198227191
+      Loss_Screen-01_92: 6451649450598870464
+      Loss_Screen-01_93: -7840606300846391717
+      Loss_Screen-01_94: 8077634046646896040
+      Loss_Screen-01_95: -3221550273699935698
+      Loss_Screen-01_96: 7365390244948430393
+      Loss_Screen-01_97: -875887732984097094
+      Loss_Screen-01_98: -5144749140697716614
+      Loss_Screen-01_99: -2722606897448748886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
