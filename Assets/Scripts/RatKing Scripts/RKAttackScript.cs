@@ -16,7 +16,7 @@ public class RKAttackScript : MonoBehaviour
     {
         _animator = GetComponent<Animator>();
         _hurtScript = GetComponent<RKHurtScript>();
-
+        currentAttack = "LeftJab";
     }
 
     void Update()

@@ -37,11 +37,35 @@ public class RKBehaviourScript : MonoBehaviour
         {
             AttackPos = 0;
         }
-        _attackScript.currentAttack = PhaseOneAttackOrder[AttackPos];
+        if (phase == 1)
+        {
+            _attackScript.currentAttack = PhaseOneAttackOrder[AttackPos];
+        }
+        else if (phase == 2)
+        {
+            _attackScript.currentAttack = PhaseTwoAttackOrder[AttackPos];
+        }
+        else if (phase == 3)
+        {
+            _attackScript.currentAttack = PhaseThreeAttackOrder[AttackPos];
+        }
     }
 
-    public void KnockDown(int time)
+    public void KnockDown()
     {
+        int time;
+        if (phase == 1)
+        {
+            time = 4;
+        }
+        else if (phase == 2)
+        {
+            time = 8;
+        }
+        else
+        {
+            time = 11;
+        }
         CDScript.startCountdown(time);
     }
 
@@ -50,6 +74,7 @@ public class RKBehaviourScript : MonoBehaviour
         animator.SetBool("KnockedOut", false);
         RKHealthbarScript.Heal(100);
         phase++;
+        AttackPos = 0;
     }
 }
 
