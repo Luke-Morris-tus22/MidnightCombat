@@ -231,7 +231,10 @@ public class TBotTutorialMasterScript : MonoBehaviour
     public void StartPhaseRecoverDone()
     {
         _tutorialPhase = 7;
-        _attackScript.attackingActive = false;
+        if (_attackScript != null)
+        {
+            _attackScript.attackingActive = false;
+        }
         if (_sparWon)
         {
             DialogueScript.dialogueTextCurrent = DialogueScript.dialogueTextSparWin2;

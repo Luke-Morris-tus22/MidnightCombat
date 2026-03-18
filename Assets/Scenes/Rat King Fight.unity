@@ -217,7 +217,7 @@ MonoBehaviour:
   whiteSlider: {fileID: 815188013}
   Health: 100
   whiteBarDelay: 1
-  whiteChangeRate: 10
+  whiteChangeRate: 7
   healingSpeed: 50
 --- !u!95 &12037957
 Animator:
@@ -616,11 +616,13 @@ MonoBehaviour:
   RightSpawn: {fileID: 1848380375}
   targetSpawnAnimator: {fileID: 1833830365}
   resultAnimator: {fileID: 498276860}
+  lossscreenScript: {fileID: 1692979953}
   recoveryScore: 0
   scoreGood: 10
-  scoreBad: -10
+  scoreBad: -100
   scorePerfect: 30
   recoveryActive: 0
+  CanFail: 1
   slider: {fileID: 173995430}
   botTutorialMasterScript: {fileID: 838888498}
 --- !u!95 &30214402
@@ -795,14 +797,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.1509434, g: 0.1509434, b: 0.1509434, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3802392009284819244, guid: 7b1eb265ad8aeea46b80746fe1784121, type: 3}
+  m_Sprite: {fileID: 6838061604424117903, guid: e5c37db4c481bc049817b23cef4433ce, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2465,10 +2467,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 1, g: 0.6426992, b: 0, a: 1}
-    m_PressedColor: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
-    m_SelectedColor: {r: 1, g: 0.64767194, b: 0, a: 1}
+    m_NormalColor: {r: 1, g: 0, b: 0, a: 1}
+    m_HighlightedColor: {r: 0.6037736, g: 0.050009787, b: 0, a: 1}
+    m_PressedColor: {r: 0.3962264, g: 0, b: 0, a: 1}
+    m_SelectedColor: {r: 0.6226415, g: 0.05829562, b: 0, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -2487,7 +2489,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 623279564}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1692979953}
+        m_TargetAssemblyTypeName: LossscreenScript, Assembly-CSharp
+        m_MethodName: QuitLevel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &623279564
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2501,7 +2515,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.15851644, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2990,7 +3004,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 838888491}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 314b77ddb33d5024eab084714b6bf018, type: 2}
   m_CullingMode: 0
@@ -3011,7 +3025,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 838888491}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -3082,7 +3096,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 838888491}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -3391,7 +3405,7 @@ MonoBehaviour:
   whiteSlider: {fileID: 567460466}
   Health: 100
   whiteBarDelay: 1
-  whiteChangeRate: 10
+  whiteChangeRate: 7
   healingSpeed: 50
 --- !u!95 &943881574
 Animator:
@@ -3540,7 +3554,7 @@ GameObject:
   - component: {fileID: 1001839260}
   - component: {fileID: 1001839259}
   m_Layer: 5
-  m_Name: Retry
+  m_Name: Quit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4002,14 +4016,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.15294118, g: 0.15294118, b: 0.15294118, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3802392009284819244, guid: 7b1eb265ad8aeea46b80746fe1784121, type: 3}
+  m_Sprite: {fileID: 6838061604424117903, guid: e5c37db4c481bc049817b23cef4433ce, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4817,10 +4831,10 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 1, g: 0.6426992, b: 0, a: 1}
-    m_PressedColor: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
-    m_SelectedColor: {r: 1, g: 0.64767194, b: 0, a: 1}
+    m_NormalColor: {r: 1, g: 0.5430127, b: 0, a: 1}
+    m_HighlightedColor: {r: 0, g: 1, b: 0.99077415, a: 1}
+    m_PressedColor: {r: 0.6037736, g: 0.32426015, b: 0, a: 1}
+    m_SelectedColor: {r: 0, g: 1, b: 0.9921569, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -4839,7 +4853,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1487739718}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1692979953}
+        m_TargetAssemblyTypeName: LossscreenScript, Assembly-CSharp
+        m_MethodName: RestartLevel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1487739718
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4853,7 +4879,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.50181097, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -5490,6 +5516,7 @@ GameObject:
   - component: {fileID: 1692979952}
   - component: {fileID: 1692979951}
   - component: {fileID: 1692979950}
+  - component: {fileID: 1692979953}
   m_Layer: 5
   m_Name: LossScreen
   m_TagString: Untagged
@@ -5577,6 +5604,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1692979948}
   m_CullTransparentMesh: 1
+--- !u!114 &1692979953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1692979948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c7a243fb4c3944bb4fe7a7420ae811, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RetryButton: {fileID: 1487739717}
+  QuitButton: {fileID: 623279563}
 --- !u!1 &1707717154
 GameObject:
   m_ObjectHideFlags: 0
@@ -6451,10 +6492,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SparAttackOrder:
-  - Uppercut
-  - Uppercut
-  - Uppercut
-  - Overhead
+  - ParryLeftJab
+  - ParryRightJab
+  - ParryLeftJab
+  - ParryRightJab
   CDScript: {fileID: 416338464}
   RKHealthbarScript: {fileID: 943881573}
 --- !u!1660057539 &9223372036854775807

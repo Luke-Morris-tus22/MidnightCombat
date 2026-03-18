@@ -11,6 +11,7 @@ public class KORecoveryScript : MonoBehaviour
     public GameObject RightSpawn;
     public Animator targetSpawnAnimator;
     public Animator resultAnimator;
+    public LossscreenScript lossscreenScript;
 
     public float recoveryScore;
     public float scoreGood = 10;
@@ -18,6 +19,8 @@ public class KORecoveryScript : MonoBehaviour
     public float scorePerfect = 30;
 
     public bool recoveryActive;
+
+    public bool CanFail;
 
     public Slider slider;
 
@@ -93,6 +96,10 @@ public class KORecoveryScript : MonoBehaviour
         recoveryScore += scoreBad;
         if (recoveryScore < 0)
         {
+            if (CanFail)
+            {
+                RecoverFail();
+            }
             recoveryScore = 0;
         }
     }
@@ -103,6 +110,10 @@ public class KORecoveryScript : MonoBehaviour
         recoveryScore += scoreBad;
         if (recoveryScore < 0)
         {
+            if (CanFail)
+            {
+                RecoverFail();
+            }
             recoveryScore = 0;
         }
     }
@@ -134,6 +145,6 @@ public class KORecoveryScript : MonoBehaviour
     public void RecoverFail()
     {
         recoveryActive = false;
-
+        lossscreenScript.LossScreenStart();
     }
 }

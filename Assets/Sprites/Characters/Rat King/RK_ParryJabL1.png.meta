@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 25f27cf69f8da1842a6daa429310bd1e
+guid: 2c751e306cb6cc74395539446e9bef47
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5207804079435638006
-    second: Retry_0
+      213: 1818287885671748502
+    second: RK_ParryJabL1_0
+  - first:
+      213: -5299905933260677503
+    second: RK_ParryJabL1_1
+  - first:
+      213: -884319759700109655
+    second: RK_ParryJabL1_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,19 +78,6 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -178,13 +171,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Retry_0
+      name: RK_ParryJabL1_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 2
-        width: 906
-        height: 366
+        x: 1200
+        y: 1077
+        width: 8
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +186,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f46796d736d54840800000000000000
-      internalID: 5207804079435638006
+      spriteID: 6935cd4c23bdb3910800000000000000
+      internalID: 1818287885671748502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_ParryJabL1_1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 624
+        width: 365
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e130142a3f276b0800000000000000
+      internalID: -5299905933260677503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_ParryJabL1_2
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1026
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a657372dd34ab3f0800000000000000
+      internalID: -884319759700109655
       vertices: []
       indices: 
       edges: []
@@ -203,7 +240,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -213,7 +250,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Retry_0: 5207804079435638006
+      RK_ParryJabL1_0: 1818287885671748502
+      RK_ParryJabL1_1: -5299905933260677503
+      RK_ParryJabL1_2: -884319759700109655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 25f27cf69f8da1842a6daa429310bd1e
+guid: a072ebf3f6aaf5c4fb698ed30d2f3612
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5207804079435638006
-    second: Retry_0
+      213: 1698919855609174273
+    second: RK_ParryJabR5_0
+  - first:
+      213: -8176888025251437351
+    second: RK_ParryJabR5_1
+  - first:
+      213: 8774369716634761317
+    second: RK_ParryJabR5_2
+  - first:
+      213: 6456954637660923239
+    second: RK_ParryJabR5_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,19 +81,6 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -178,13 +174,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Retry_0
+      name: RK_ParryJabR5_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 2
-        width: 906
-        height: 366
+        x: 1326
+        y: 1044
+        width: 56
+        height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +189,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f46796d736d54840800000000000000
-      internalID: 5207804079435638006
+      spriteID: 109517f7b96c39710800000000000000
+      internalID: 1698919855609174273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_ParryJabR5_1
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 598
+        width: 355
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d42ebef9abd58e80800000000000000
+      internalID: -8176888025251437351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_ParryJabR5_2
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 982
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568b5f7c4c2d4c970800000000000000
+      internalID: 8774369716634761317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RK_ParryJabR5_3
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 878
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76527945806bb9950800000000000000
+      internalID: 6456954637660923239
       vertices: []
       indices: 
       edges: []
@@ -203,7 +265,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -213,7 +275,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Retry_0: 5207804079435638006
+      RK_ParryJabR5_0: 1698919855609174273
+      RK_ParryJabR5_1: -8176888025251437351
+      RK_ParryJabR5_2: 8774369716634761317
+      RK_ParryJabR5_3: 6456954637660923239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
