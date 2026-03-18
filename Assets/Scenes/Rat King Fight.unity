@@ -619,7 +619,7 @@ MonoBehaviour:
   lossscreenScript: {fileID: 1692979953}
   recoveryScore: 0
   scoreGood: 10
-  scoreBad: -100
+  scoreBad: -10
   scorePerfect: 30
   recoveryActive: 0
   CanFail: 1
@@ -2706,7 +2706,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.8431373}
+  m_Color: {r: 0, g: 0, b: 0, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2769,49 +2769,15 @@ MonoBehaviour:
   player: {fileID: 21389782}
   dialogueTextGO: {fileID: 1416828780}
   animator: {fileID: 658875210}
-  dialogueTextIntro:
-  - 'Hey kid! Welcome to my gym. '
-  - "So, you wanna take part in the Midnight Combat fightin\u2019 ring, eh? "
-  - "Well if you wanna learn how to fight, you\u2019ve come to the right place! "
-  - "Let\u2019s start with the basics, use <sprite name=\"M1\"> and <sprite name=\"M2\">
-    on mouse and keyboard or <sprite name=\"LT\"> and <sprite name=\"RT\"> on controller
-    to throw some punches. "
-  dialogueTextPunchUp:
-  - 'If you hold <sprite name="W"> or <sprite name="StickUp"> while punching, you
-    can aim for your opponent''s head. '
-  dialogueTextDodge:
-  - "Nice work! Of course, in a real fight your opponent isn\u2019t just gonna let
-    you hit them. Your best shot at landing a hit is right after avoiding an attack
-    from your opponent. "
-  - 'Try dodging these attacks using <sprite name="A"> and <sprite name="D"> or <sprite
-    name="StickLeft"> and <sprite name="StickRight"> . '
-  dialogueTextDuck:
-  - "You got it! Some attacks can only be avoided by ducking underneath with <sprite
-    name=\"S\"> or <sprite name=\"StickDown\"> . Why don\u2019t you give it a shot?  "
-  dialogueTextParry:
-  - "You\u2019re a natural! Now listen up \u2018cause this next part\u2019s important... "
-  - 'Certain attacks can be parried if you press <sprite name="Space"> or <sprite
-    name="EButton"> right before you get hit. '
-  - 'You can tell these attacks apart from normal ones by the green glow around your
-    opponent''s fist. '
-  - "Let\u2019s see if you can parry these attacks with <sprite name=\"Space\"> or
-    <sprite name=\"EButton\"> . "
-  dialogueTextSpar:
-  - "Not bad at all kid! That\u2019s about all the basics of fighting. How about
-    you keep sparring with the bot to get some more practice in? "
-  dialogueTextSparWin1:
-  - "Good work, are you sure you\u2019re new at thi-"
-  dialogueTextSparWin2:
-  - Sorry about that kid, seems the bot went a bit out of control after all that
-    damage it took.
-  - Sorry about that kid, seems the bot went a bit out of control after all that
-    damage it took.
-  - 'Good news though! While you were out of it, I got you booked in for a fight. '
-  - 'I gotta good feeling about you kid. I think you might just make it to the top! '
-  dialogueTextSparLose:
-  - "You alright kid? Don\u2019t worry I\u2019ll get you patched up real quick."
-  - 'Good news though! While you were out of it, I got you booked in for a fight. '
-  - 'I gotta good feeling about you kid. I think you might just make it to the top! '
+  dialogueTextIntro: []
+  dialogueTextPunchUp: []
+  dialogueTextDodge: []
+  dialogueTextDuck: []
+  dialogueTextParry: []
+  dialogueTextSpar: []
+  dialogueTextSparWin1: []
+  dialogueTextSparWin2: []
+  dialogueTextSparLose: []
   dialogueTextCurrent: []
   dialogueEnded: 0
 --- !u!1 &722718805

@@ -4,8 +4,10 @@ public class RKBehaviourScript : MonoBehaviour
 {
     private float phase;
     private float KOCounter;
-    public string[] SparAttackOrder;
-    private int sparAttackPos;
+    public string[] PhaseOneAttackOrder;
+    public string[] PhaseTwoAttackOrder;
+    public string[] PhaseThreeAttackOrder;
+    private int AttackPos;
     private RKAttackScript _attackScript;
     private RKHurtScript _hurtScript;
     public CountdownScript CDScript;
@@ -30,23 +32,24 @@ public class RKBehaviourScript : MonoBehaviour
     public void PrepareNextAttack()
     {
 
-        sparAttackPos += 1;
-        if (sparAttackPos >= SparAttackOrder.Length)
+        AttackPos += 1;
+        if (AttackPos >= PhaseOneAttackOrder.Length)
         {
-            sparAttackPos = 0;
+            AttackPos = 0;
         }
-        _attackScript.currentAttack = SparAttackOrder[sparAttackPos];
+        _attackScript.currentAttack = PhaseOneAttackOrder[AttackPos];
     }
 
-    public void KnockDown()
+    public void KnockDown(int time)
     {
-        CDScript.startCountdown(4);
+        CDScript.startCountdown(time);
     }
 
     public void RKGetUp()
     {
         animator.SetBool("KnockedOut", false);
         RKHealthbarScript.Heal(100);
+        phase++;
     }
 }
 
