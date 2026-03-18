@@ -15,7 +15,18 @@ public class ParallaxScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Debug.Log("MouseX = " + Mouse.current.position.x.ReadValue());
+        //Debug.Log("MouseY = " + Mouse.current.position.y.ReadValue());
+
         Vector3 MousePos = Mouse.current.position.ReadValue();
-        _RectTransform.position = MousePos*difference;
+        MousePos.x -= Screen.width / 2;
+        MousePos.y -= Screen.height / 2;
+
+        Debug.Log("MouseX = " + MousePos.x);
+        Debug.Log("MouseY = " + MousePos.y);
+        MousePos.x *= difference * -0.25f;
+        MousePos.y *= difference * -0.25f;
+
+        _RectTransform.anchoredPosition = MousePos;
     }
 }

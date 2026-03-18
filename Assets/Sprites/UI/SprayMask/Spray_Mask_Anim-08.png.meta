@@ -1,0 +1,6903 @@
+fileFormatVersion: 2
+guid: ae06f316dbaf9064bbc801eb72cf3302
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1010824942230542712
+    second: Spray_Mask_Anim-08_0
+  - first:
+      213: 4939629257615134892
+    second: Spray_Mask_Anim-08_1
+  - first:
+      213: 3701584877991189825
+    second: Spray_Mask_Anim-08_2
+  - first:
+      213: -6156449443861644563
+    second: Spray_Mask_Anim-08_3
+  - first:
+      213: 7426749583552409585
+    second: Spray_Mask_Anim-08_4
+  - first:
+      213: -3489580795071089152
+    second: Spray_Mask_Anim-08_5
+  - first:
+      213: -8810514223944145384
+    second: Spray_Mask_Anim-08_6
+  - first:
+      213: 6938207287515156695
+    second: Spray_Mask_Anim-08_7
+  - first:
+      213: 9062333582299606893
+    second: Spray_Mask_Anim-08_8
+  - first:
+      213: 1264852265547444640
+    second: Spray_Mask_Anim-08_9
+  - first:
+      213: 7903039634646009049
+    second: Spray_Mask_Anim-08_10
+  - first:
+      213: 9278531484969931
+    second: Spray_Mask_Anim-08_11
+  - first:
+      213: 2904638722420889348
+    second: Spray_Mask_Anim-08_12
+  - first:
+      213: 7987325471974377754
+    second: Spray_Mask_Anim-08_13
+  - first:
+      213: -2261956444622340212
+    second: Spray_Mask_Anim-08_14
+  - first:
+      213: 6248510703739853572
+    second: Spray_Mask_Anim-08_15
+  - first:
+      213: -8140259849729017169
+    second: Spray_Mask_Anim-08_16
+  - first:
+      213: -1569850437415625341
+    second: Spray_Mask_Anim-08_17
+  - first:
+      213: -483669933420847652
+    second: Spray_Mask_Anim-08_18
+  - first:
+      213: -8798800514381658217
+    second: Spray_Mask_Anim-08_19
+  - first:
+      213: 3641217597980062085
+    second: Spray_Mask_Anim-08_20
+  - first:
+      213: -2130331324019725749
+    second: Spray_Mask_Anim-08_21
+  - first:
+      213: 3403954185224219957
+    second: Spray_Mask_Anim-08_22
+  - first:
+      213: 4209606631400350326
+    second: Spray_Mask_Anim-08_23
+  - first:
+      213: 4536063150121570793
+    second: Spray_Mask_Anim-08_24
+  - first:
+      213: 4167662654899007165
+    second: Spray_Mask_Anim-08_25
+  - first:
+      213: -5562541259500525829
+    second: Spray_Mask_Anim-08_26
+  - first:
+      213: 6707177143958727378
+    second: Spray_Mask_Anim-08_27
+  - first:
+      213: -4131895591230274663
+    second: Spray_Mask_Anim-08_28
+  - first:
+      213: 356875980681873323
+    second: Spray_Mask_Anim-08_29
+  - first:
+      213: 7872201780249351311
+    second: Spray_Mask_Anim-08_30
+  - first:
+      213: -4299671096316086636
+    second: Spray_Mask_Anim-08_31
+  - first:
+      213: -3931870085210517479
+    second: Spray_Mask_Anim-08_32
+  - first:
+      213: -6536751367850570642
+    second: Spray_Mask_Anim-08_33
+  - first:
+      213: 4372049486827980048
+    second: Spray_Mask_Anim-08_34
+  - first:
+      213: 6466602668852890507
+    second: Spray_Mask_Anim-08_35
+  - first:
+      213: -9039043867695695024
+    second: Spray_Mask_Anim-08_36
+  - first:
+      213: -6727843001308023383
+    second: Spray_Mask_Anim-08_37
+  - first:
+      213: -1975203636999042668
+    second: Spray_Mask_Anim-08_38
+  - first:
+      213: 8479111099120035245
+    second: Spray_Mask_Anim-08_39
+  - first:
+      213: -8835397710493985685
+    second: Spray_Mask_Anim-08_40
+  - first:
+      213: 7705257802053519866
+    second: Spray_Mask_Anim-08_41
+  - first:
+      213: -5790870143724814483
+    second: Spray_Mask_Anim-08_42
+  - first:
+      213: 768937105476451238
+    second: Spray_Mask_Anim-08_43
+  - first:
+      213: -7938771439343611592
+    second: Spray_Mask_Anim-08_44
+  - first:
+      213: 2779615728768855492
+    second: Spray_Mask_Anim-08_45
+  - first:
+      213: 1099295015334118081
+    second: Spray_Mask_Anim-08_46
+  - first:
+      213: -7859343637950009679
+    second: Spray_Mask_Anim-08_47
+  - first:
+      213: 4527815980769966594
+    second: Spray_Mask_Anim-08_48
+  - first:
+      213: -2788563782562007047
+    second: Spray_Mask_Anim-08_49
+  - first:
+      213: 609549219253690275
+    second: Spray_Mask_Anim-08_50
+  - first:
+      213: -2046957628501785401
+    second: Spray_Mask_Anim-08_51
+  - first:
+      213: 8380990222667992700
+    second: Spray_Mask_Anim-08_52
+  - first:
+      213: 5594466099006258499
+    second: Spray_Mask_Anim-08_53
+  - first:
+      213: -272277018580003085
+    second: Spray_Mask_Anim-08_54
+  - first:
+      213: -6489147419296837313
+    second: Spray_Mask_Anim-08_55
+  - first:
+      213: 5511891722957259543
+    second: Spray_Mask_Anim-08_56
+  - first:
+      213: -4173671671622714156
+    second: Spray_Mask_Anim-08_57
+  - first:
+      213: -7949512973060146399
+    second: Spray_Mask_Anim-08_58
+  - first:
+      213: -7247975257036519766
+    second: Spray_Mask_Anim-08_59
+  - first:
+      213: -8709432588280045110
+    second: Spray_Mask_Anim-08_60
+  - first:
+      213: -3731735084639908680
+    second: Spray_Mask_Anim-08_61
+  - first:
+      213: -8581689548518558632
+    second: Spray_Mask_Anim-08_62
+  - first:
+      213: -2862798114954848344
+    second: Spray_Mask_Anim-08_63
+  - first:
+      213: -1487747512467338883
+    second: Spray_Mask_Anim-08_64
+  - first:
+      213: 8220699877627476816
+    second: Spray_Mask_Anim-08_65
+  - first:
+      213: -3882347517904127786
+    second: Spray_Mask_Anim-08_66
+  - first:
+      213: -1165232032555131821
+    second: Spray_Mask_Anim-08_67
+  - first:
+      213: -8802302265799121551
+    second: Spray_Mask_Anim-08_68
+  - first:
+      213: 8903415631281125805
+    second: Spray_Mask_Anim-08_69
+  - first:
+      213: 5255320616093368409
+    second: Spray_Mask_Anim-08_70
+  - first:
+      213: -1683975893337913064
+    second: Spray_Mask_Anim-08_71
+  - first:
+      213: 2163236368730279103
+    second: Spray_Mask_Anim-08_72
+  - first:
+      213: -4765704766600246217
+    second: Spray_Mask_Anim-08_73
+  - first:
+      213: -4033415059406569620
+    second: Spray_Mask_Anim-08_74
+  - first:
+      213: 3790866601630447467
+    second: Spray_Mask_Anim-08_75
+  - first:
+      213: -1681210505211927773
+    second: Spray_Mask_Anim-08_76
+  - first:
+      213: 6185813651050328470
+    second: Spray_Mask_Anim-08_77
+  - first:
+      213: -8422880384415489804
+    second: Spray_Mask_Anim-08_78
+  - first:
+      213: -4041142549486225193
+    second: Spray_Mask_Anim-08_79
+  - first:
+      213: -5391341113465798665
+    second: Spray_Mask_Anim-08_80
+  - first:
+      213: -254432549140527130
+    second: Spray_Mask_Anim-08_81
+  - first:
+      213: 1577158120568487736
+    second: Spray_Mask_Anim-08_82
+  - first:
+      213: 1888307943564805185
+    second: Spray_Mask_Anim-08_83
+  - first:
+      213: 5778858849072593149
+    second: Spray_Mask_Anim-08_84
+  - first:
+      213: -7105415909215760999
+    second: Spray_Mask_Anim-08_85
+  - first:
+      213: 8038861007281740714
+    second: Spray_Mask_Anim-08_86
+  - first:
+      213: 2219936067321479631
+    second: Spray_Mask_Anim-08_87
+  - first:
+      213: -793017752174076454
+    second: Spray_Mask_Anim-08_88
+  - first:
+      213: 679451740026908552
+    second: Spray_Mask_Anim-08_89
+  - first:
+      213: -8542298992840146806
+    second: Spray_Mask_Anim-08_90
+  - first:
+      213: -8598677024614133796
+    second: Spray_Mask_Anim-08_91
+  - first:
+      213: -9071951093841301412
+    second: Spray_Mask_Anim-08_92
+  - first:
+      213: 9206322521253531566
+    second: Spray_Mask_Anim-08_93
+  - first:
+      213: 7581212279682417
+    second: Spray_Mask_Anim-08_94
+  - first:
+      213: 8252159346926599911
+    second: Spray_Mask_Anim-08_95
+  - first:
+      213: 7139014223411379185
+    second: Spray_Mask_Anim-08_96
+  - first:
+      213: -3654592479415419000
+    second: Spray_Mask_Anim-08_97
+  - first:
+      213: 6805473205498502093
+    second: Spray_Mask_Anim-08_98
+  - first:
+      213: -8023605207698817431
+    second: Spray_Mask_Anim-08_99
+  - first:
+      213: 2386553272862713
+    second: Spray_Mask_Anim-08_100
+  - first:
+      213: 3964471579538411927
+    second: Spray_Mask_Anim-08_101
+  - first:
+      213: -5086729237755599902
+    second: Spray_Mask_Anim-08_102
+  - first:
+      213: 2917357074113336609
+    second: Spray_Mask_Anim-08_103
+  - first:
+      213: 508970864624186530
+    second: Spray_Mask_Anim-08_104
+  - first:
+      213: 8643261562088535934
+    second: Spray_Mask_Anim-08_105
+  - first:
+      213: 2187282000104361164
+    second: Spray_Mask_Anim-08_106
+  - first:
+      213: 1200889027043257821
+    second: Spray_Mask_Anim-08_107
+  - first:
+      213: 5825975871845427617
+    second: Spray_Mask_Anim-08_108
+  - first:
+      213: -5958255590392103068
+    second: Spray_Mask_Anim-08_109
+  - first:
+      213: -1266346007230201193
+    second: Spray_Mask_Anim-08_110
+  - first:
+      213: -2660095948068602497
+    second: Spray_Mask_Anim-08_111
+  - first:
+      213: -9214020879223906082
+    second: Spray_Mask_Anim-08_112
+  - first:
+      213: -7545249531338912079
+    second: Spray_Mask_Anim-08_113
+  - first:
+      213: -8646872449578676565
+    second: Spray_Mask_Anim-08_114
+  - first:
+      213: 4994897321211455586
+    second: Spray_Mask_Anim-08_115
+  - first:
+      213: 1293101648166220510
+    second: Spray_Mask_Anim-08_116
+  - first:
+      213: -4113671457955868879
+    second: Spray_Mask_Anim-08_117
+  - first:
+      213: 7698329938020769467
+    second: Spray_Mask_Anim-08_118
+  - first:
+      213: -8470706184553394311
+    second: Spray_Mask_Anim-08_119
+  - first:
+      213: 8424746661727262435
+    second: Spray_Mask_Anim-08_120
+  - first:
+      213: -4207072482024438130
+    second: Spray_Mask_Anim-08_121
+  - first:
+      213: -4081874588747549427
+    second: Spray_Mask_Anim-08_122
+  - first:
+      213: -852799720984384746
+    second: Spray_Mask_Anim-08_123
+  - first:
+      213: 5417074875106420309
+    second: Spray_Mask_Anim-08_124
+  - first:
+      213: -3012095716392843297
+    second: Spray_Mask_Anim-08_125
+  - first:
+      213: -4494170324714468923
+    second: Spray_Mask_Anim-08_126
+  - first:
+      213: 6229242374437831500
+    second: Spray_Mask_Anim-08_127
+  - first:
+      213: -509872314165284822
+    second: Spray_Mask_Anim-08_128
+  - first:
+      213: -2247305897423209995
+    second: Spray_Mask_Anim-08_129
+  - first:
+      213: -3187551131176853784
+    second: Spray_Mask_Anim-08_130
+  - first:
+      213: -7633112833578283371
+    second: Spray_Mask_Anim-08_131
+  - first:
+      213: -8318670949814281470
+    second: Spray_Mask_Anim-08_132
+  - first:
+      213: -7027595764238657146
+    second: Spray_Mask_Anim-08_133
+  - first:
+      213: 3753009141351334952
+    second: Spray_Mask_Anim-08_134
+  - first:
+      213: 1770018554483622760
+    second: Spray_Mask_Anim-08_135
+  - first:
+      213: 5507703195089885270
+    second: Spray_Mask_Anim-08_136
+  - first:
+      213: -3802262960662528004
+    second: Spray_Mask_Anim-08_137
+  - first:
+      213: 4960671627876418709
+    second: Spray_Mask_Anim-08_138
+  - first:
+      213: 4320720956804672942
+    second: Spray_Mask_Anim-08_139
+  - first:
+      213: -5229183495106657609
+    second: Spray_Mask_Anim-08_140
+  - first:
+      213: -6328210864128034874
+    second: Spray_Mask_Anim-08_141
+  - first:
+      213: -7578326856387928
+    second: Spray_Mask_Anim-08_142
+  - first:
+      213: -8081541902653138641
+    second: Spray_Mask_Anim-08_143
+  - first:
+      213: 2930018415652382253
+    second: Spray_Mask_Anim-08_144
+  - first:
+      213: 5548285618742990554
+    second: Spray_Mask_Anim-08_145
+  - first:
+      213: 1105808756723130569
+    second: Spray_Mask_Anim-08_146
+  - first:
+      213: 3971090532734553677
+    second: Spray_Mask_Anim-08_147
+  - first:
+      213: 6715877892669036569
+    second: Spray_Mask_Anim-08_148
+  - first:
+      213: 5954273592516864875
+    second: Spray_Mask_Anim-08_149
+  - first:
+      213: -4765248566923401500
+    second: Spray_Mask_Anim-08_150
+  - first:
+      213: -8249358796887156687
+    second: Spray_Mask_Anim-08_151
+  - first:
+      213: 6393198768871649764
+    second: Spray_Mask_Anim-08_152
+  - first:
+      213: -5073746733784017851
+    second: Spray_Mask_Anim-08_153
+  - first:
+      213: -2909306646685106257
+    second: Spray_Mask_Anim-08_154
+  - first:
+      213: 5000806359852539441
+    second: Spray_Mask_Anim-08_155
+  - first:
+      213: -3847382566093100779
+    second: Spray_Mask_Anim-08_156
+  - first:
+      213: 297634094858436874
+    second: Spray_Mask_Anim-08_157
+  - first:
+      213: -146263909784131617
+    second: Spray_Mask_Anim-08_158
+  - first:
+      213: 9183818020233240967
+    second: Spray_Mask_Anim-08_159
+  - first:
+      213: 2329182715802768894
+    second: Spray_Mask_Anim-08_160
+  - first:
+      213: -6198009524056526580
+    second: Spray_Mask_Anim-08_161
+  - first:
+      213: -7641640674816990816
+    second: Spray_Mask_Anim-08_162
+  - first:
+      213: -7704199514021516411
+    second: Spray_Mask_Anim-08_163
+  - first:
+      213: -4912754376655356633
+    second: Spray_Mask_Anim-08_164
+  - first:
+      213: 7097773115501911625
+    second: Spray_Mask_Anim-08_165
+  - first:
+      213: 2984846771202809857
+    second: Spray_Mask_Anim-08_166
+  - first:
+      213: -6231254178885906204
+    second: Spray_Mask_Anim-08_167
+  - first:
+      213: -8703061475974477200
+    second: Spray_Mask_Anim-08_168
+  - first:
+      213: -9010849477737620850
+    second: Spray_Mask_Anim-08_169
+  - first:
+      213: 5874692039292320666
+    second: Spray_Mask_Anim-08_170
+  - first:
+      213: 9091635118852801048
+    second: Spray_Mask_Anim-08_171
+  - first:
+      213: -8671166703376727311
+    second: Spray_Mask_Anim-08_172
+  - first:
+      213: 4234670324767154777
+    second: Spray_Mask_Anim-08_173
+  - first:
+      213: 287652385285075244
+    second: Spray_Mask_Anim-08_174
+  - first:
+      213: 7347450490883715740
+    second: Spray_Mask_Anim-08_175
+  - first:
+      213: -6853638757872778245
+    second: Spray_Mask_Anim-08_176
+  - first:
+      213: 5571832230158130797
+    second: Spray_Mask_Anim-08_177
+  - first:
+      213: -1729773571139131973
+    second: Spray_Mask_Anim-08_178
+  - first:
+      213: 7391448338278835571
+    second: Spray_Mask_Anim-08_179
+  - first:
+      213: 1107138335281880965
+    second: Spray_Mask_Anim-08_180
+  - first:
+      213: -3857407177484511318
+    second: Spray_Mask_Anim-08_181
+  - first:
+      213: 5051781944127954874
+    second: Spray_Mask_Anim-08_182
+  - first:
+      213: 5905947907799592152
+    second: Spray_Mask_Anim-08_183
+  - first:
+      213: -8961696589775472419
+    second: Spray_Mask_Anim-08_184
+  - first:
+      213: -7291384174352490031
+    second: Spray_Mask_Anim-08_185
+  - first:
+      213: -7706792881282296949
+    second: Spray_Mask_Anim-08_186
+  - first:
+      213: -9076013696058677106
+    second: Spray_Mask_Anim-08_187
+  - first:
+      213: -508156873070094783
+    second: Spray_Mask_Anim-08_188
+  - first:
+      213: -8085303817516588569
+    second: Spray_Mask_Anim-08_189
+  - first:
+      213: 2226557902075133438
+    second: Spray_Mask_Anim-08_190
+  - first:
+      213: -7230523565499348366
+    second: Spray_Mask_Anim-08_191
+  - first:
+      213: -4129110054584392345
+    second: Spray_Mask_Anim-08_192
+  - first:
+      213: -8050625204496631680
+    second: Spray_Mask_Anim-08_193
+  - first:
+      213: 6858312477614114103
+    second: Spray_Mask_Anim-08_194
+  - first:
+      213: 7345059988483010804
+    second: Spray_Mask_Anim-08_195
+  - first:
+      213: 1966194625687997848
+    second: Spray_Mask_Anim-08_196
+  - first:
+      213: 6155277676213837248
+    second: Spray_Mask_Anim-08_197
+  - first:
+      213: -5980762208553819326
+    second: Spray_Mask_Anim-08_198
+  - first:
+      213: 3916235748666388366
+    second: Spray_Mask_Anim-08_199
+  - first:
+      213: 3564196204621900804
+    second: Spray_Mask_Anim-08_200
+  - first:
+      213: 7883468841205797290
+    second: Spray_Mask_Anim-08_201
+  - first:
+      213: -4221413644497025954
+    second: Spray_Mask_Anim-08_202
+  - first:
+      213: 9202220286182991761
+    second: Spray_Mask_Anim-08_203
+  - first:
+      213: -4997717413736300096
+    second: Spray_Mask_Anim-08_204
+  - first:
+      213: 3676497537205597756
+    second: Spray_Mask_Anim-08_205
+  - first:
+      213: -9170988028683029085
+    second: Spray_Mask_Anim-08_206
+  - first:
+      213: -6263164031036690470
+    second: Spray_Mask_Anim-08_207
+  - first:
+      213: -5716686448178600611
+    second: Spray_Mask_Anim-08_208
+  - first:
+      213: -7566410965213094765
+    second: Spray_Mask_Anim-08_209
+  - first:
+      213: -7840730458926858092
+    second: Spray_Mask_Anim-08_210
+  - first:
+      213: -8197901810598633628
+    second: Spray_Mask_Anim-08_211
+  - first:
+      213: -3776172618364434537
+    second: Spray_Mask_Anim-08_212
+  - first:
+      213: 8868210325354988246
+    second: Spray_Mask_Anim-08_213
+  - first:
+      213: -6559872907701381968
+    second: Spray_Mask_Anim-08_214
+  - first:
+      213: -7629099585951883824
+    second: Spray_Mask_Anim-08_215
+  - first:
+      213: -1889161356576766817
+    second: Spray_Mask_Anim-08_216
+  - first:
+      213: 6618355185736360673
+    second: Spray_Mask_Anim-08_217
+  - first:
+      213: -4661929929877070759
+    second: Spray_Mask_Anim-08_218
+  - first:
+      213: -1254862979901042151
+    second: Spray_Mask_Anim-08_219
+  - first:
+      213: -5036953322666479214
+    second: Spray_Mask_Anim-08_220
+  - first:
+      213: 5328310951791091315
+    second: Spray_Mask_Anim-08_221
+  - first:
+      213: -2081124865400971337
+    second: Spray_Mask_Anim-08_222
+  - first:
+      213: 3772931640553908095
+    second: Spray_Mask_Anim-08_223
+  - first:
+      213: -9005286356142184249
+    second: Spray_Mask_Anim-08_224
+  - first:
+      213: -8257967098491454062
+    second: Spray_Mask_Anim-08_225
+  - first:
+      213: 2177263149722124761
+    second: Spray_Mask_Anim-08_226
+  - first:
+      213: 4192623472858546250
+    second: Spray_Mask_Anim-08_227
+  - first:
+      213: -5230297853916739868
+    second: Spray_Mask_Anim-08_228
+  - first:
+      213: 84639902599031192
+    second: Spray_Mask_Anim-08_229
+  - first:
+      213: 4917554721367644366
+    second: Spray_Mask_Anim-08_230
+  - first:
+      213: -2846280239895709098
+    second: Spray_Mask_Anim-08_231
+  - first:
+      213: 7921793748197562840
+    second: Spray_Mask_Anim-08_232
+  - first:
+      213: 1166076711965763773
+    second: Spray_Mask_Anim-08_233
+  - first:
+      213: 6468760074253925764
+    second: Spray_Mask_Anim-08_234
+  - first:
+      213: 4595660396747006109
+    second: Spray_Mask_Anim-08_235
+  - first:
+      213: 2406585165797611920
+    second: Spray_Mask_Anim-08_236
+  - first:
+      213: 510411542049682691
+    second: Spray_Mask_Anim-08_237
+  - first:
+      213: 250078945056952724
+    second: Spray_Mask_Anim-08_238
+  - first:
+      213: -9196445257992695839
+    second: Spray_Mask_Anim-08_239
+  - first:
+      213: 5106474387734225938
+    second: Spray_Mask_Anim-08_240
+  - first:
+      213: -3799387903363155499
+    second: Spray_Mask_Anim-08_241
+  - first:
+      213: 7701955576511905031
+    second: Spray_Mask_Anim-08_242
+  - first:
+      213: -8202619904157735932
+    second: Spray_Mask_Anim-08_243
+  - first:
+      213: -3559496983164443158
+    second: Spray_Mask_Anim-08_244
+  - first:
+      213: 3259665801779988163
+    second: Spray_Mask_Anim-08_245
+  - first:
+      213: -3998026098934557335
+    second: Spray_Mask_Anim-08_246
+  - first:
+      213: 1690118521437937404
+    second: Spray_Mask_Anim-08_247
+  - first:
+      213: 5242808463616777305
+    second: Spray_Mask_Anim-08_248
+  - first:
+      213: 4059064426469740323
+    second: Spray_Mask_Anim-08_249
+  - first:
+      213: -8846350744126919575
+    second: Spray_Mask_Anim-08_250
+  - first:
+      213: -4837884030778059490
+    second: Spray_Mask_Anim-08_251
+  - first:
+      213: 2468042447959743514
+    second: Spray_Mask_Anim-08_252
+  - first:
+      213: 4608730036973649377
+    second: Spray_Mask_Anim-08_253
+  - first:
+      213: -4218236170700636273
+    second: Spray_Mask_Anim-08_254
+  - first:
+      213: -4230675966552713334
+    second: Spray_Mask_Anim-08_255
+  - first:
+      213: -5464594338685516004
+    second: Spray_Mask_Anim-08_256
+  - first:
+      213: -2613989610556907263
+    second: Spray_Mask_Anim-08_257
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 2120
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866e341214d8f1f0800000000000000
+      internalID: -1010824942230542712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 352
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0d64673a61d8440800000000000000
+      internalID: 4939629257615134892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 358
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d5f9ea5dbae5330800000000000000
+      internalID: 3701584877991189825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 355
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deab9fc59d5ef8aa0800000000000000
+      internalID: -6156449443861644563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 353
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffeb6bc56d111760800000000000000
+      internalID: 7426749583552409585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 359
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00633c661c4829fc0800000000000000
+      internalID: -3489580795071089152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_6
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 355
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81668415ef3cab580800000000000000
+      internalID: -8810514223944145384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 358
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d01e5e84c6794060800000000000000
+      internalID: 6938207287515156695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_8
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 345
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6faf09f060e3cd70800000000000000
+      internalID: 9062333582299606893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_9
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 350
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1bd4d1f68ad8110800000000000000
+      internalID: 1264852265547444640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_10
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 357
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d488e4fcac3dad60800000000000000
+      internalID: 7903039634646009049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_11
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 358
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe23576c6f02000800000000000000
+      internalID: 9278531484969931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_12
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 342
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407ddb257895f4820800000000000000
+      internalID: 2904638722420889348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_13
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194676b23ea8de60800000000000000
+      internalID: 7987325471974377754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_14
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 359
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f31e4199aeb90e0800000000000000
+      internalID: -2261956444622340212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_15
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 359
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bd3a7016b27b650800000000000000
+      internalID: 6248510703739853572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_16
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 358
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaf68dabccf70f80800000000000000
+      internalID: -8140259849729017169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_17
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 343
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d99573855c63ae0800000000000000
+      internalID: -1569850437415625341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_18
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 353
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddd9e512c8a949f0800000000000000
+      internalID: -483669933420847652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_19
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 359
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c1cadc8164e580800000000000000
+      internalID: -8798800514381658217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_20
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 352
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581b0850d14388230800000000000000
+      internalID: 3641217597980062085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_21
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 346
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aaae1a2fa8f62e0800000000000000
+      internalID: -2130331324019725749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_22
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 359
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d6ef9eb464d3f20800000000000000
+      internalID: 3403954185224219957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_23
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 346
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722fb48de68b6a30800000000000000
+      internalID: 4209606631400350326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_24
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 351
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e15cb5e66553fe30800000000000000
+      internalID: 4536063150121570793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_25
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 356
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeaae87a1386d930800000000000000
+      internalID: 4167662654899007165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_26
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 348
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf664033232edc2b0800000000000000
+      internalID: -5562541259500525829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_27
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 356
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da6747831ea41d50800000000000000
+      internalID: 6707177143958727378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_28
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 344
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99387bbf9de88a6c0800000000000000
+      internalID: -4131895591230274663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_29
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 356
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7896940d0e3f400800000000000000
+      internalID: 356875980681873323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_30
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 352
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d5f77fcdaf3d60800000000000000
+      internalID: 7872201780249351311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_31
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 340
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496b0152bef7454c0800000000000000
+      internalID: -4299671096316086636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_32
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 310
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910da0c4df03f69c0800000000000000
+      internalID: -3931870085210517479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_33
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 355
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc73e934bc845a0800000000000000
+      internalID: -6536751367850570642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_34
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 351
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0158fca18d3acac30800000000000000
+      internalID: 4372049486827980048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_35
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 350
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bc194addcfdb950800000000000000
+      internalID: 6466602668852890507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_36
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 356
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b33d44e7dde8280800000000000000
+      internalID: -9039043867695695024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_37
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 350
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ff6a9f66e1a2a0800000000000000
+      internalID: -6727843001308023383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_38
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 322
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499cc99d1caa694e0800000000000000
+      internalID: -1975203636999042668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_39
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 357
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52f12de9adba570800000000000000
+      internalID: 8479111099120035245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_40
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 356
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d4b0289c526580800000000000000
+      internalID: -8835397710493985685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_41
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 351
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9053295239eea60800000000000000
+      internalID: 7705257802053519866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_42
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 355
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ffdde1942b2afa0800000000000000
+      internalID: -5790870143724814483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_43
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 356
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab7a823930dbaa00800000000000000
+      internalID: 768937105476451238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_44
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 353
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83158e4ff61d3d190800000000000000
+      internalID: -7938771439343611592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_45
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 352
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd2b5d37cd239620800000000000000
+      internalID: 2779615728768855492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_46
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 341
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2095cfdfa714f00800000000000000
+      internalID: 1099295015334118081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be63441a900ee290800000000000000
+      internalID: -7859343637950009679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_48
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 342
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a712625a806de30800000000000000
+      internalID: 4527815980769966594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_49
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 346
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f73fd2a3080d49d0800000000000000
+      internalID: -2788563782562007047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_50
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 342
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af9bbe09cd857800800000000000000
+      internalID: 609549219253690275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_51
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 336
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c400e2d1eeb793e0800000000000000
+      internalID: -2046957628501785401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_52
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 335
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ec52004324f4470800000000000000
+      internalID: 8380990222667992700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_53
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 338
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dbb3bb64983ad40800000000000000
+      internalID: 5594466099006258499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_54
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 343
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f659038e7da83cf0800000000000000
+      internalID: -272277018580003085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_55
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 338
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f315ba99dcae1f5a0800000000000000
+      internalID: -6489147419296837313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_56
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 341
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713884b915c2e7c40800000000000000
+      internalID: 5511891722957259543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_57
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 335
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc31db4ab32416c0800000000000000
+      internalID: -4173671671622714156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_58
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 343
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bf36fb118ada190800000000000000
+      internalID: -7949512973060146399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_59
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 349
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa68487b7e40a6b90800000000000000
+      internalID: -7247975257036519766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_60
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 336
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac16b5c9431e12780800000000000000
+      internalID: -8709432588280045110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_61
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 346
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc0d2c46b6363cc0800000000000000
+      internalID: -3731735084639908680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_62
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 345
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8547ed7c2d6b7e880800000000000000
+      internalID: -8581689548518558632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_63
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 340
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7557e384c4548d0800000000000000
+      internalID: -2862798114954848344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_64
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 348
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c9e315857a5be0800000000000000
+      internalID: -1487747512467338883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_65
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 340
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b351bcbfac51270800000000000000
+      internalID: 8220699877627476816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_66
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 337
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d874b480812f1ac0800000000000000
+      internalID: -3882347517904127786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_67
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 340
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c15aad3a344dfe0800000000000000
+      internalID: -1165232032555131821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_68
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 325
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1756d61d9b0f7d580800000000000000
+      internalID: -8802302265799121551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_69
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 343
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9fb2628594f8b70800000000000000
+      internalID: 8903415631281125805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_70
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 343
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9504807a146aee840800000000000000
+      internalID: 5255320616093368409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_71
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 349
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819c54bd8d051a8e0800000000000000
+      internalID: -1683975893337913064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_72
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 342
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbccf5b140c550e10800000000000000
+      internalID: 2163236368730279103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_73
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 333
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c086ab3c0dcddb0800000000000000
+      internalID: -4765704766600246217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_74
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 336
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f3c589f5e6608c0800000000000000
+      internalID: -4033415059406569620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_75
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 321
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67331dd61ddb9430800000000000000
+      internalID: 3790866601630447467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_76
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 339
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3232034f3f32ba8e0800000000000000
+      internalID: -1681210505211927773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_77
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 336
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691fd95edbc68d550800000000000000
+      internalID: 6185813651050328470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_78
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 345
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f02f4daaeaeb1b80800000000000000
+      internalID: -8422880384415489804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_79
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 343
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8382b134afae7c0800000000000000
+      internalID: -4041142549486225193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_80
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 339
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff79e462db1e25b0800000000000000
+      internalID: -5391341113465798665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_81
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 338
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e78e21d1f2187cf0800000000000000
+      internalID: -254432549140527130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_82
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 350
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f7b1b54f033e510800000000000000
+      internalID: 1577158120568487736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_83
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 346
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1448abae11e943a10800000000000000
+      internalID: 1888307943564805185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_84
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 349
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8381a6181a23050800000000000000
+      internalID: 5778858849072593149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_85
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 336
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d09cd60ed746d90800000000000000
+      internalID: -7105415909215760999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_86
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 348
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab54c19e75cf8f60800000000000000
+      internalID: 8038861007281740714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_87
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 341
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc146cc671ccece10800000000000000
+      internalID: 2219936067321479631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_88
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addd5155e82aef4f0800000000000000
+      internalID: -793017752174076454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_89
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 342
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f2356f1c5ed6900800000000000000
+      internalID: 679451740026908552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_90
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8006963358a37980800000000000000
+      internalID: -8542298992840146806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_91
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 333
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfcf89cdcc5ba880800000000000000
+      internalID: -8598677024614133796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_92
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 332
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c507fdf9b84f91280800000000000000
+      internalID: -9071951093841301412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_93
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafcefe4e8d63cf70800000000000000
+      internalID: 9206322521253531566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_94
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 328
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175b5e8821fea1000800000000000000
+      internalID: 7581212279682417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_95
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeba77443f858270800000000000000
+      internalID: 8252159346926599911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_96
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 330
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb75e0bc9fd21360800000000000000
+      internalID: 7139014223411379185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_97
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 330
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f31a9b087484dc0800000000000000
+      internalID: -3654592479415419000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_98
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 334
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb5d2ec2d5e17e50800000000000000
+      internalID: 6805473205498502093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_99
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 327
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e3321139d66a090800000000000000
+      internalID: -8023605207698817431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_100
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 317
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7011cbe8a780000800000000000000
+      internalID: 2386553272862713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_101
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d48c95e1a40730800000000000000
+      internalID: 3964471579538411927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_102
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 300
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3ebfa75be4869b0800000000000000
+      internalID: -5086729237755599902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_103
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 335
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259f755dc88c7820800000000000000
+      internalID: 2917357074113336609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_104
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 334
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4b2f20e4a301700800000000000000
+      internalID: 508970864624186530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_105
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773315c89803f770800000000000000
+      internalID: 8643261562088535934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_106
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 336
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc83dfe369ca5e10800000000000000
+      internalID: 2187282000104361164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_107
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 332
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde39f153a6aa010800000000000000
+      internalID: 1200889027043257821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_108
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 325
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9e75720360ad050800000000000000
+      internalID: 5825975871845427617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_109
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 327
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f71b5db16005da0800000000000000
+      internalID: -5958255590392103068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_110
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 323
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7924f4c04090d6ee0800000000000000
+      internalID: -1266346007230201193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_111
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 334
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d3aea34d0751bd0800000000000000
+      internalID: -2660095948068602497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_112
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 322
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a3dc04d8312080800000000000000
+      internalID: -9214020879223906082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_113
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 324
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be8cd61783e94790800000000000000
+      internalID: -7545249531338912079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_114
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 321
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae40c8f153200880800000000000000
+      internalID: -8646872449578676565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_115
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 318
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268eb5846a0715540800000000000000
+      internalID: 4994897321211455586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_116
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 312
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed27b6d091502f110800000000000000
+      internalID: 1293101648166220510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_117
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 322
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f80e9aa9d49e6c0800000000000000
+      internalID: -4113671457955868879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_118
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe9b778a46f5da60800000000000000
+      internalID: 7698329938020769467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_119
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f8df8da91027a80800000000000000
+      internalID: -8470706184553394311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_120
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 327
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e659eed376bae470800000000000000
+      internalID: 8424746661727262435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_121
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 318
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86cc9c1ed97d95c0800000000000000
+      internalID: -4207072482024438130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_122
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 314
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05320030b44a57c0800000000000000
+      internalID: -4081874588747549427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_123
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 328
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b6c2e0c2f3a24f0800000000000000
+      internalID: -852799720984384746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_124
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 328
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5566964e5e05d2b40800000000000000
+      internalID: 5417074875106420309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_125
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 312
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7cdea97e2e236d0800000000000000
+      internalID: -3012095716392843297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_126
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 314
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9ca4b96ef71a1c0800000000000000
+      internalID: -4494170324714468923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_127
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 326
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c438d248fe6b27650800000000000000
+      internalID: 6229242374437831500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_128
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 319
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a203f59e4d19ce8f0800000000000000
+      internalID: -509872314165284822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_129
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 329
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f27a6137ffc0e0800000000000000
+      internalID: -2247305897423209995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_130
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee1fc2722b83c3d0800000000000000
+      internalID: -3187551131176853784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_131
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 328
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4710e15cb11690800000000000000
+      internalID: -7633112833578283371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_132
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 320
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b55f868d42e8c80800000000000000
+      internalID: -8318670949814281470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_133
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 318
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689d38fd2e6f87e90800000000000000
+      internalID: -7027595764238657146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_134
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 320
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8244a050eed551430800000000000000
+      internalID: 3753009141351334952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_135
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863c8d15f7e509810800000000000000
+      internalID: 1770018554483622760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_136
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 329
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658dd97ffda4f6c40800000000000000
+      internalID: 5507703195089885270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_137
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 322
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffb5178bf5ab3bc0800000000000000
+      internalID: -3802262960662528004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 308
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594cee21098d7d440800000000000000
+      internalID: 4960671627876418709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_139
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 305
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadadeb61d846fb30800000000000000
+      internalID: 4320720956804672942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_140
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 307
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b205dc01553e67b0800000000000000
+      internalID: -5229183495106657609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_141
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 317
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c771e35fbdad28a0800000000000000
+      internalID: -6328210864128034874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_142
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2bbb74d8315eff0800000000000000
+      internalID: -7578326856387928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_143
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 314
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29dce6157898df80800000000000000
+      internalID: -8081541902653138641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_144
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d262052a93489a820800000000000000
+      internalID: 2930018415652382253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_145
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad69599cf587ffc40800000000000000
+      internalID: 5548285618742990554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_146
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 319
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0aff5943f985f00800000000000000
+      internalID: 1105808756723130569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_147
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 311
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e4f8ebcc52c1730800000000000000
+      internalID: 3971090532734553677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_148
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 313
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918df637c57933d50800000000000000
+      internalID: 6715877892669036569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_149
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 312
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6be4790944d1a250800000000000000
+      internalID: 5954273592516864875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_150
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 299
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6671efcaf6eddb0800000000000000
+      internalID: -4765248566923401500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_151
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 305
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1381cc691e3648d80800000000000000
+      internalID: -8249358796887156687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_152
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 314
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e13f0d586439b850800000000000000
+      internalID: 6393198768871649764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_153
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 310
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544518c3a3e6699b0800000000000000
+      internalID: -5073746733784017851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_154
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 314
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafb6add40110a7d0800000000000000
+      internalID: -2909306646685106257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_155
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 318
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e568d83ee666540800000000000000
+      internalID: 5000806359852539441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_156
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 306
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5196df0c0f95b9ac0800000000000000
+      internalID: -3847382566093100779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_157
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 311
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a010511e1a8612400800000000000000
+      internalID: 297634094858436874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_158
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 307
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd76bddbfbd58fdf0800000000000000
+      internalID: -146263909784131617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_159
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78165d9d4d9737f70800000000000000
+      internalID: 9183818020233240967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_160
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef55768e65be25020800000000000000
+      internalID: 2329182715802768894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_161
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 304
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c017f142d2f3cf9a0800000000000000
+      internalID: -6198009524056526580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_162
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a16b5c1b4073f590800000000000000
+      internalID: -7641640674816990816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_163
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 309
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba2005c5f251590800000000000000
+      internalID: -7704199514021516411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_164
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 308
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d36be5ce362dbb0800000000000000
+      internalID: -4912754376655356633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_165
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e1fcdfa0b508260800000000000000
+      internalID: 7097773115501911625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_166
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 307
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100e382f25e4c6920800000000000000
+      internalID: 2984846771202809857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_167
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 299
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e05652c6532689a0800000000000000
+      internalID: -6231254178885906204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_168
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a872ac2b3883780800000000000000
+      internalID: -8703061475974477200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_169
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 299
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a5fea342803f280800000000000000
+      internalID: -9010849477737620850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_170
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 293
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b75d6c849178150800000000000000
+      internalID: 5874692039292320666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_171
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 291
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81200b698f9fb2e70800000000000000
+      internalID: 9091635118852801048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_172
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 304
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2090933d3d9a780800000000000000
+      internalID: -8671166703376727311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_173
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 306
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95262a0693294ca30800000000000000
+      internalID: 4234670324767154777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_174
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 301
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f5b30252fdf300800000000000000
+      internalID: 287652385285075244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_175
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 309
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b4e10b4367f560800000000000000
+      internalID: 7347450490883715740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_176
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 307
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3c422acdbf2e0a0800000000000000
+      internalID: -6853638757872778245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_177
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 307
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed5aa74ef135d40800000000000000
+      internalID: 5571832230158130797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_178
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 301
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a46e0a1c9ef7e0800000000000000
+      internalID: -1729773571139131973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_179
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 297
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375e2c22a13b39660800000000000000
+      internalID: 7391448338278835571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_180
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 296
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f91b733785d5f00800000000000000
+      internalID: 1107138335281880965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_181
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 297
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa75ef70c9cb77ac0800000000000000
+      internalID: -3857407177484511318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_182
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 293
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf9a76a9e88b1640800000000000000
+      internalID: 5051781944127954874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_183
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 291
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc2b52c45426f150800000000000000
+      internalID: 5905947907799592152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_184
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 292
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd87a95ce68a1a380800000000000000
+      internalID: -8961696589775472419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_185
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 302
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1a0de89bccfca90800000000000000
+      internalID: -7291384174352490031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_186
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 295
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83d8a1f4b8fb0590800000000000000
+      internalID: -7706792881282296949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_187
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 301
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88a7d551a58b0280800000000000000
+      internalID: -9076013696058677106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_188
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 293
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146db7a240aa2f8f0800000000000000
+      internalID: -508156873070094783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_189
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 300
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e160d7040b3bcf80800000000000000
+      internalID: -8085303817516588569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_190
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 289
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdf6097d9256ee10800000000000000
+      internalID: 2226557902075133438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_191
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 284
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a025a402508ab90800000000000000
+      internalID: -7230523565499348366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_192
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 289
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765e006484472b6c0800000000000000
+      internalID: -4129110054584392345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_193
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 271
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088fb22d70f664090800000000000000
+      internalID: -8050625204496631680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_194
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 287
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73581da8cde9d2f50800000000000000
+      internalID: 6858312477614114103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_195
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0f67bc425eee560800000000000000
+      internalID: 7345059988483010804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_196
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 292
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d4a6f3893594b10800000000000000
+      internalID: 1966194625687997848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_197
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 291
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd1e983f60fb6550800000000000000
+      internalID: 6155277676213837248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_198
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 288
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a1117570100da0800000000000000
+      internalID: -5980762208553819326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_199
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 292
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f22ff0aa3495630800000000000000
+      internalID: 3916235748666388366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_200
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 287
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ca84e6091967130800000000000000
+      internalID: 3564196204621900804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_201
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 284
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19ee58425b76d60800000000000000
+      internalID: 7883468841205797290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_202
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 284
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5484c508a68a65c0800000000000000
+      internalID: -4221413644497025954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_203
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 280
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a4d6489ad4bf70800000000000000
+      internalID: 9202220286182991761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_204
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1c672cd7a84aab0800000000000000
+      internalID: -4997717413736300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_205
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 277
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36fcbaf70b850330800000000000000
+      internalID: 3676497537205597756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_206
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5fcf65afa1ab080800000000000000
+      internalID: -9170988028683029085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_207
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 286
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfed085f75c419a0800000000000000
+      internalID: -6263164031036690470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_208
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 276
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d556604b6ff3aa0b0800000000000000
+      internalID: -5716686448178600611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_209
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 278
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c5ad1d055bef690800000000000000
+      internalID: -7566410965213094765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_210
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 279
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49044188031203390800000000000000
+      internalID: -7840730458926858092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_211
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 279
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9cb3dcb33b3e80800000000000000
+      internalID: -8197901810598633628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_212
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 264
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c4d7b207589bc0800000000000000
+      internalID: -3776172618364434537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_213
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 268
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d24c3c1e46321b70800000000000000
+      internalID: 8868210325354988246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_214
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 264
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b410cc9856a6f4a0800000000000000
+      internalID: -6559872907701381968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_215
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 262
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd1247e85eff1690800000000000000
+      internalID: -7629099585951883824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_216
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94c8d161c958c5e0800000000000000
+      internalID: -1889161356576766817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_217
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e22e23d9fe19db50800000000000000
+      internalID: 6618355185736360673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_218
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 267
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c5ae1cd6f7d4fb0800000000000000
+      internalID: -4661929929877070759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_219
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 247
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912d531b4c4d59ee0800000000000000
+      internalID: -1254862979901042151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_220
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 260
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291bd34d3a5291ab0800000000000000
+      internalID: -5036953322666479214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_221
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 263
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed45e7496f1f940800000000000000
+      internalID: 5328310951791091315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_222
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 257
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfda8016fb5e13e0800000000000000
+      internalID: -2081124865400971337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_223
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 257
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772c0556552c5430800000000000000
+      internalID: 3772931640553908095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_224
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 260
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8297965cbc60380800000000000000
+      internalID: -9005286356142184249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_225
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 253
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dbd8f2daec56d80800000000000000
+      internalID: -8257967098491454062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_226
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 257
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d14cbd8c41373e10800000000000000
+      internalID: 2177263149722124761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_227
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 256
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c2b8c5d03f2a30800000000000000
+      internalID: 4192623472858546250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_228
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 264
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e60ecb20df3a67b0800000000000000
+      internalID: -5230297853916739868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_229
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 255
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992d300b83bc2100800000000000000
+      internalID: 84639902599031192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_230
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 254
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8d9aaf6f9ae3440800000000000000
+      internalID: 4917554721367644366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_231
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 254
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a7dc9b33bff78d0800000000000000
+      internalID: -2846280239895709098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_232
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 248
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9d939417ddfed60800000000000000
+      internalID: 7921793748197562840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_233
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db82395679cbe2010800000000000000
+      internalID: 1166076711965763773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_234
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 246
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d722bb307a5c950800000000000000
+      internalID: 6468760074253925764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_235
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 241
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90af6038c017cf30800000000000000
+      internalID: 4595660396747006109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_236
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09957192578e56120800000000000000
+      internalID: 2406585165797611920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_237
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 242
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305712dd798551700800000000000000
+      internalID: 510411542049682691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_238
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 241
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4919cedb975787300800000000000000
+      internalID: 250078945056952724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_239
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef050143c9af5080800000000000000
+      internalID: -9196445257992695839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_240
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214678f7667ddd640800000000000000
+      internalID: 5106474387734225938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_241
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 225
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d97f18f4dcd54bc0800000000000000
+      internalID: -3799387903363155499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_242
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 234
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db4d54ac7d2ea60800000000000000
+      internalID: 7701955576511905031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_243
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 236
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404212118a07a2e80800000000000000
+      internalID: -8202619904157735932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_244
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 228
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5a8635a502a9ec0800000000000000
+      internalID: -3559496983164443158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_245
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c599b6c8ac3d20800000000000000
+      internalID: 3259665801779988163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_246
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 218
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965d34a02782488c0800000000000000
+      internalID: -3998026098934557335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_247
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 220
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfedd9237d1847710800000000000000
+      internalID: 1690118521437937404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_248
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 215
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c1a43258232c840800000000000000
+      internalID: 5242808463616777305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_249
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 209
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f472c0791b45830800000000000000
+      internalID: 4059064426469740323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_250
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 184
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c6dc14ed27b3580800000000000000
+      internalID: -8846350744126919575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_251
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 183
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1550f03b126cdcb0800000000000000
+      internalID: -4837884030778059490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_252
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 196
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cd939b78f304220800000000000000
+      internalID: 2468042447959743514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_253
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 117
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edbc7fec8f75ff30800000000000000
+      internalID: 4608730036973649377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_254
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 120
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f3faa4d80d575c0800000000000000
+      internalID: -4218236170700636273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_255
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 126
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d7dd9f9e9945c0800000000000000
+      internalID: -4230675966552713334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_256
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c170a01d66cd924b0800000000000000
+      internalID: -5464594338685516004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spray_Mask_Anim-08_257
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 121
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101a1387c4e39bbd0800000000000000
+      internalID: -2613989610556907263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spray_Mask_Anim-08_0: -1010824942230542712
+      Spray_Mask_Anim-08_1: 4939629257615134892
+      Spray_Mask_Anim-08_10: 7903039634646009049
+      Spray_Mask_Anim-08_100: 2386553272862713
+      Spray_Mask_Anim-08_101: 3964471579538411927
+      Spray_Mask_Anim-08_102: -5086729237755599902
+      Spray_Mask_Anim-08_103: 2917357074113336609
+      Spray_Mask_Anim-08_104: 508970864624186530
+      Spray_Mask_Anim-08_105: 8643261562088535934
+      Spray_Mask_Anim-08_106: 2187282000104361164
+      Spray_Mask_Anim-08_107: 1200889027043257821
+      Spray_Mask_Anim-08_108: 5825975871845427617
+      Spray_Mask_Anim-08_109: -5958255590392103068
+      Spray_Mask_Anim-08_11: 9278531484969931
+      Spray_Mask_Anim-08_110: -1266346007230201193
+      Spray_Mask_Anim-08_111: -2660095948068602497
+      Spray_Mask_Anim-08_112: -9214020879223906082
+      Spray_Mask_Anim-08_113: -7545249531338912079
+      Spray_Mask_Anim-08_114: -8646872449578676565
+      Spray_Mask_Anim-08_115: 4994897321211455586
+      Spray_Mask_Anim-08_116: 1293101648166220510
+      Spray_Mask_Anim-08_117: -4113671457955868879
+      Spray_Mask_Anim-08_118: 7698329938020769467
+      Spray_Mask_Anim-08_119: -8470706184553394311
+      Spray_Mask_Anim-08_12: 2904638722420889348
+      Spray_Mask_Anim-08_120: 8424746661727262435
+      Spray_Mask_Anim-08_121: -4207072482024438130
+      Spray_Mask_Anim-08_122: -4081874588747549427
+      Spray_Mask_Anim-08_123: -852799720984384746
+      Spray_Mask_Anim-08_124: 5417074875106420309
+      Spray_Mask_Anim-08_125: -3012095716392843297
+      Spray_Mask_Anim-08_126: -4494170324714468923
+      Spray_Mask_Anim-08_127: 6229242374437831500
+      Spray_Mask_Anim-08_128: -509872314165284822
+      Spray_Mask_Anim-08_129: -2247305897423209995
+      Spray_Mask_Anim-08_13: 7987325471974377754
+      Spray_Mask_Anim-08_130: -3187551131176853784
+      Spray_Mask_Anim-08_131: -7633112833578283371
+      Spray_Mask_Anim-08_132: -8318670949814281470
+      Spray_Mask_Anim-08_133: -7027595764238657146
+      Spray_Mask_Anim-08_134: 3753009141351334952
+      Spray_Mask_Anim-08_135: 1770018554483622760
+      Spray_Mask_Anim-08_136: 5507703195089885270
+      Spray_Mask_Anim-08_137: -3802262960662528004
+      Spray_Mask_Anim-08_138: 4960671627876418709
+      Spray_Mask_Anim-08_139: 4320720956804672942
+      Spray_Mask_Anim-08_14: -2261956444622340212
+      Spray_Mask_Anim-08_140: -5229183495106657609
+      Spray_Mask_Anim-08_141: -6328210864128034874
+      Spray_Mask_Anim-08_142: -7578326856387928
+      Spray_Mask_Anim-08_143: -8081541902653138641
+      Spray_Mask_Anim-08_144: 2930018415652382253
+      Spray_Mask_Anim-08_145: 5548285618742990554
+      Spray_Mask_Anim-08_146: 1105808756723130569
+      Spray_Mask_Anim-08_147: 3971090532734553677
+      Spray_Mask_Anim-08_148: 6715877892669036569
+      Spray_Mask_Anim-08_149: 5954273592516864875
+      Spray_Mask_Anim-08_15: 6248510703739853572
+      Spray_Mask_Anim-08_150: -4765248566923401500
+      Spray_Mask_Anim-08_151: -8249358796887156687
+      Spray_Mask_Anim-08_152: 6393198768871649764
+      Spray_Mask_Anim-08_153: -5073746733784017851
+      Spray_Mask_Anim-08_154: -2909306646685106257
+      Spray_Mask_Anim-08_155: 5000806359852539441
+      Spray_Mask_Anim-08_156: -3847382566093100779
+      Spray_Mask_Anim-08_157: 297634094858436874
+      Spray_Mask_Anim-08_158: -146263909784131617
+      Spray_Mask_Anim-08_159: 9183818020233240967
+      Spray_Mask_Anim-08_16: -8140259849729017169
+      Spray_Mask_Anim-08_160: 2329182715802768894
+      Spray_Mask_Anim-08_161: -6198009524056526580
+      Spray_Mask_Anim-08_162: -7641640674816990816
+      Spray_Mask_Anim-08_163: -7704199514021516411
+      Spray_Mask_Anim-08_164: -4912754376655356633
+      Spray_Mask_Anim-08_165: 7097773115501911625
+      Spray_Mask_Anim-08_166: 2984846771202809857
+      Spray_Mask_Anim-08_167: -6231254178885906204
+      Spray_Mask_Anim-08_168: -8703061475974477200
+      Spray_Mask_Anim-08_169: -9010849477737620850
+      Spray_Mask_Anim-08_17: -1569850437415625341
+      Spray_Mask_Anim-08_170: 5874692039292320666
+      Spray_Mask_Anim-08_171: 9091635118852801048
+      Spray_Mask_Anim-08_172: -8671166703376727311
+      Spray_Mask_Anim-08_173: 4234670324767154777
+      Spray_Mask_Anim-08_174: 287652385285075244
+      Spray_Mask_Anim-08_175: 7347450490883715740
+      Spray_Mask_Anim-08_176: -6853638757872778245
+      Spray_Mask_Anim-08_177: 5571832230158130797
+      Spray_Mask_Anim-08_178: -1729773571139131973
+      Spray_Mask_Anim-08_179: 7391448338278835571
+      Spray_Mask_Anim-08_18: -483669933420847652
+      Spray_Mask_Anim-08_180: 1107138335281880965
+      Spray_Mask_Anim-08_181: -3857407177484511318
+      Spray_Mask_Anim-08_182: 5051781944127954874
+      Spray_Mask_Anim-08_183: 5905947907799592152
+      Spray_Mask_Anim-08_184: -8961696589775472419
+      Spray_Mask_Anim-08_185: -7291384174352490031
+      Spray_Mask_Anim-08_186: -7706792881282296949
+      Spray_Mask_Anim-08_187: -9076013696058677106
+      Spray_Mask_Anim-08_188: -508156873070094783
+      Spray_Mask_Anim-08_189: -8085303817516588569
+      Spray_Mask_Anim-08_19: -8798800514381658217
+      Spray_Mask_Anim-08_190: 2226557902075133438
+      Spray_Mask_Anim-08_191: -7230523565499348366
+      Spray_Mask_Anim-08_192: -4129110054584392345
+      Spray_Mask_Anim-08_193: -8050625204496631680
+      Spray_Mask_Anim-08_194: 6858312477614114103
+      Spray_Mask_Anim-08_195: 7345059988483010804
+      Spray_Mask_Anim-08_196: 1966194625687997848
+      Spray_Mask_Anim-08_197: 6155277676213837248
+      Spray_Mask_Anim-08_198: -5980762208553819326
+      Spray_Mask_Anim-08_199: 3916235748666388366
+      Spray_Mask_Anim-08_2: 3701584877991189825
+      Spray_Mask_Anim-08_20: 3641217597980062085
+      Spray_Mask_Anim-08_200: 3564196204621900804
+      Spray_Mask_Anim-08_201: 7883468841205797290
+      Spray_Mask_Anim-08_202: -4221413644497025954
+      Spray_Mask_Anim-08_203: 9202220286182991761
+      Spray_Mask_Anim-08_204: -4997717413736300096
+      Spray_Mask_Anim-08_205: 3676497537205597756
+      Spray_Mask_Anim-08_206: -9170988028683029085
+      Spray_Mask_Anim-08_207: -6263164031036690470
+      Spray_Mask_Anim-08_208: -5716686448178600611
+      Spray_Mask_Anim-08_209: -7566410965213094765
+      Spray_Mask_Anim-08_21: -2130331324019725749
+      Spray_Mask_Anim-08_210: -7840730458926858092
+      Spray_Mask_Anim-08_211: -8197901810598633628
+      Spray_Mask_Anim-08_212: -3776172618364434537
+      Spray_Mask_Anim-08_213: 8868210325354988246
+      Spray_Mask_Anim-08_214: -6559872907701381968
+      Spray_Mask_Anim-08_215: -7629099585951883824
+      Spray_Mask_Anim-08_216: -1889161356576766817
+      Spray_Mask_Anim-08_217: 6618355185736360673
+      Spray_Mask_Anim-08_218: -4661929929877070759
+      Spray_Mask_Anim-08_219: -1254862979901042151
+      Spray_Mask_Anim-08_22: 3403954185224219957
+      Spray_Mask_Anim-08_220: -5036953322666479214
+      Spray_Mask_Anim-08_221: 5328310951791091315
+      Spray_Mask_Anim-08_222: -2081124865400971337
+      Spray_Mask_Anim-08_223: 3772931640553908095
+      Spray_Mask_Anim-08_224: -9005286356142184249
+      Spray_Mask_Anim-08_225: -8257967098491454062
+      Spray_Mask_Anim-08_226: 2177263149722124761
+      Spray_Mask_Anim-08_227: 4192623472858546250
+      Spray_Mask_Anim-08_228: -5230297853916739868
+      Spray_Mask_Anim-08_229: 84639902599031192
+      Spray_Mask_Anim-08_23: 4209606631400350326
+      Spray_Mask_Anim-08_230: 4917554721367644366
+      Spray_Mask_Anim-08_231: -2846280239895709098
+      Spray_Mask_Anim-08_232: 7921793748197562840
+      Spray_Mask_Anim-08_233: 1166076711965763773
+      Spray_Mask_Anim-08_234: 6468760074253925764
+      Spray_Mask_Anim-08_235: 4595660396747006109
+      Spray_Mask_Anim-08_236: 2406585165797611920
+      Spray_Mask_Anim-08_237: 510411542049682691
+      Spray_Mask_Anim-08_238: 250078945056952724
+      Spray_Mask_Anim-08_239: -9196445257992695839
+      Spray_Mask_Anim-08_24: 4536063150121570793
+      Spray_Mask_Anim-08_240: 5106474387734225938
+      Spray_Mask_Anim-08_241: -3799387903363155499
+      Spray_Mask_Anim-08_242: 7701955576511905031
+      Spray_Mask_Anim-08_243: -8202619904157735932
+      Spray_Mask_Anim-08_244: -3559496983164443158
+      Spray_Mask_Anim-08_245: 3259665801779988163
+      Spray_Mask_Anim-08_246: -3998026098934557335
+      Spray_Mask_Anim-08_247: 1690118521437937404
+      Spray_Mask_Anim-08_248: 5242808463616777305
+      Spray_Mask_Anim-08_249: 4059064426469740323
+      Spray_Mask_Anim-08_25: 4167662654899007165
+      Spray_Mask_Anim-08_250: -8846350744126919575
+      Spray_Mask_Anim-08_251: -4837884030778059490
+      Spray_Mask_Anim-08_252: 2468042447959743514
+      Spray_Mask_Anim-08_253: 4608730036973649377
+      Spray_Mask_Anim-08_254: -4218236170700636273
+      Spray_Mask_Anim-08_255: -4230675966552713334
+      Spray_Mask_Anim-08_256: -5464594338685516004
+      Spray_Mask_Anim-08_257: -2613989610556907263
+      Spray_Mask_Anim-08_26: -5562541259500525829
+      Spray_Mask_Anim-08_27: 6707177143958727378
+      Spray_Mask_Anim-08_28: -4131895591230274663
+      Spray_Mask_Anim-08_29: 356875980681873323
+      Spray_Mask_Anim-08_3: -6156449443861644563
+      Spray_Mask_Anim-08_30: 7872201780249351311
+      Spray_Mask_Anim-08_31: -4299671096316086636
+      Spray_Mask_Anim-08_32: -3931870085210517479
+      Spray_Mask_Anim-08_33: -6536751367850570642
+      Spray_Mask_Anim-08_34: 4372049486827980048
+      Spray_Mask_Anim-08_35: 6466602668852890507
+      Spray_Mask_Anim-08_36: -9039043867695695024
+      Spray_Mask_Anim-08_37: -6727843001308023383
+      Spray_Mask_Anim-08_38: -1975203636999042668
+      Spray_Mask_Anim-08_39: 8479111099120035245
+      Spray_Mask_Anim-08_4: 7426749583552409585
+      Spray_Mask_Anim-08_40: -8835397710493985685
+      Spray_Mask_Anim-08_41: 7705257802053519866
+      Spray_Mask_Anim-08_42: -5790870143724814483
+      Spray_Mask_Anim-08_43: 768937105476451238
+      Spray_Mask_Anim-08_44: -7938771439343611592
+      Spray_Mask_Anim-08_45: 2779615728768855492
+      Spray_Mask_Anim-08_46: 1099295015334118081
+      Spray_Mask_Anim-08_47: -7859343637950009679
+      Spray_Mask_Anim-08_48: 4527815980769966594
+      Spray_Mask_Anim-08_49: -2788563782562007047
+      Spray_Mask_Anim-08_5: -3489580795071089152
+      Spray_Mask_Anim-08_50: 609549219253690275
+      Spray_Mask_Anim-08_51: -2046957628501785401
+      Spray_Mask_Anim-08_52: 8380990222667992700
+      Spray_Mask_Anim-08_53: 5594466099006258499
+      Spray_Mask_Anim-08_54: -272277018580003085
+      Spray_Mask_Anim-08_55: -6489147419296837313
+      Spray_Mask_Anim-08_56: 5511891722957259543
+      Spray_Mask_Anim-08_57: -4173671671622714156
+      Spray_Mask_Anim-08_58: -7949512973060146399
+      Spray_Mask_Anim-08_59: -7247975257036519766
+      Spray_Mask_Anim-08_6: -8810514223944145384
+      Spray_Mask_Anim-08_60: -8709432588280045110
+      Spray_Mask_Anim-08_61: -3731735084639908680
+      Spray_Mask_Anim-08_62: -8581689548518558632
+      Spray_Mask_Anim-08_63: -2862798114954848344
+      Spray_Mask_Anim-08_64: -1487747512467338883
+      Spray_Mask_Anim-08_65: 8220699877627476816
+      Spray_Mask_Anim-08_66: -3882347517904127786
+      Spray_Mask_Anim-08_67: -1165232032555131821
+      Spray_Mask_Anim-08_68: -8802302265799121551
+      Spray_Mask_Anim-08_69: 8903415631281125805
+      Spray_Mask_Anim-08_7: 6938207287515156695
+      Spray_Mask_Anim-08_70: 5255320616093368409
+      Spray_Mask_Anim-08_71: -1683975893337913064
+      Spray_Mask_Anim-08_72: 2163236368730279103
+      Spray_Mask_Anim-08_73: -4765704766600246217
+      Spray_Mask_Anim-08_74: -4033415059406569620
+      Spray_Mask_Anim-08_75: 3790866601630447467
+      Spray_Mask_Anim-08_76: -1681210505211927773
+      Spray_Mask_Anim-08_77: 6185813651050328470
+      Spray_Mask_Anim-08_78: -8422880384415489804
+      Spray_Mask_Anim-08_79: -4041142549486225193
+      Spray_Mask_Anim-08_8: 9062333582299606893
+      Spray_Mask_Anim-08_80: -5391341113465798665
+      Spray_Mask_Anim-08_81: -254432549140527130
+      Spray_Mask_Anim-08_82: 1577158120568487736
+      Spray_Mask_Anim-08_83: 1888307943564805185
+      Spray_Mask_Anim-08_84: 5778858849072593149
+      Spray_Mask_Anim-08_85: -7105415909215760999
+      Spray_Mask_Anim-08_86: 8038861007281740714
+      Spray_Mask_Anim-08_87: 2219936067321479631
+      Spray_Mask_Anim-08_88: -793017752174076454
+      Spray_Mask_Anim-08_89: 679451740026908552
+      Spray_Mask_Anim-08_9: 1264852265547444640
+      Spray_Mask_Anim-08_90: -8542298992840146806
+      Spray_Mask_Anim-08_91: -8598677024614133796
+      Spray_Mask_Anim-08_92: -9071951093841301412
+      Spray_Mask_Anim-08_93: 9206322521253531566
+      Spray_Mask_Anim-08_94: 7581212279682417
+      Spray_Mask_Anim-08_95: 8252159346926599911
+      Spray_Mask_Anim-08_96: 7139014223411379185
+      Spray_Mask_Anim-08_97: -3654592479415419000
+      Spray_Mask_Anim-08_98: 6805473205498502093
+      Spray_Mask_Anim-08_99: -8023605207698817431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
