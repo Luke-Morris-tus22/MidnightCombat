@@ -10,6 +10,7 @@ public class RKHurtScript : MonoBehaviour
     public float returnHitCount;
     public float returnHitCountMax;
     public ParticleSystem blockPS;
+    public Animator camAnimator;
 
     Animator _animator;
     RKAttackScript _attackScript;
@@ -26,6 +27,8 @@ public class RKHurtScript : MonoBehaviour
     void Update()
     {
         _animator.SetBool("GuardUp", guardUp);
+        camAnimator.SetBool("Zoom", !guardUp);
+
     }
 
     public void isHit(bool hitHead, bool hitRight)
@@ -56,7 +59,7 @@ public class RKHurtScript : MonoBehaviour
             // _masterScript.robotDefeated();
            // _behaviourScript.KnockDown();
             _animator.SetBool("KnockedOut", true);
-
+            RaiseGuard();
         }
     }
 
@@ -73,7 +76,7 @@ public class RKHurtScript : MonoBehaviour
         }
         _animator.SetBool("StunEnd", false);
         returnHitCount = 0;
-
+        camAnimator.SetBool("Zoom", true);
     }
 
     public void RaiseGuard()
@@ -83,5 +86,7 @@ public class RKHurtScript : MonoBehaviour
         {
             guardUp = true;
         }
+        camAnimator.SetBool("Zoom", false);
+
     }
 }

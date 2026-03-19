@@ -1,3 +1,4 @@
+using StarterAssets;
 using UnityEngine;
 
 public class RKBehaviourScript : MonoBehaviour
@@ -20,13 +21,14 @@ public class RKBehaviourScript : MonoBehaviour
     {
         phase = 1;
         animator = GetComponent<Animator>();
+        _attackScript = GetComponent<RKAttackScript>();
+        _hurtScript = GetComponent<RKHurtScript>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        _attackScript = GetComponent<RKAttackScript>();
-        _hurtScript = GetComponent<RKHurtScript>();
+
     }
 
     public void PrepareNextAttack()
