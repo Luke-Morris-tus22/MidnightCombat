@@ -11,9 +11,18 @@ public class VictoryScreenButtons : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        button.enabled = false;
-        button2.enabled = false;
-        button3.enabled = false;
+        if (button != null)
+        {
+            button.enabled = false;
+        }
+        if (button2 != null)
+        {
+            button2.enabled = false;
+        }
+        if (button3 != null)
+        {
+            button3.enabled = false;
+        }
     }
 
     // Update is called once per frame
@@ -44,6 +53,11 @@ public class VictoryScreenButtons : MonoBehaviour
     public void RestartPlaytest()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void OpenMainMenu()
+    {
+        SceneManager.LoadScene("MainMenuScene");
     }
 
     public void QuitGame()

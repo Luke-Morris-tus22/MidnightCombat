@@ -1,3 +1,4 @@
+using StarterAssets;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -11,6 +12,8 @@ public class CountdownScript : MonoBehaviour
     public int counterGoal;
 
     public RKBehaviourScript behaviourScript;
+    public PlayerController playerController;
+    public Animator VictoryScreenAnimator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -35,7 +38,7 @@ public class CountdownScript : MonoBehaviour
     public void updateCountdown()
     {
         counter++;
-        if (counter == counterGoal)
+        if (counter == counterGoal + 1)
         {
             countdownEnd(false);
             return;
@@ -56,6 +59,11 @@ public class CountdownScript : MonoBehaviour
         if (!win)
         {
             behaviourScript.RKGetUp();
+        } else
+        {
+            playerController.playerInCombat = false;
+            VictoryScreenAnimator.SetTrigger("Start");
+
         }
     }
 }
