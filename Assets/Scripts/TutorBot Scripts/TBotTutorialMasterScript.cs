@@ -250,7 +250,6 @@ public class TBotTutorialMasterScript : MonoBehaviour
     {
         _attackScript.attackingActive = false;
         PlayerController.playerInCombat = false;
-        victoryScreenPanel.GetComponent<Image>().color = Color.gray;
-        victoryScreenPanel.GetComponent<VictoryScreenButtons>().enableButtons();
+        victoryScreenPanel.GetComponent<Animator>().SetTrigger("Start");
     }
 }

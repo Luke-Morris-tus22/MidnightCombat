@@ -55,4 +55,9 @@ public class MainMenuButtons : MonoBehaviour
     {
         FightSelectMenu.SetActive(false);
     }
+
+    public void OpenLink()
+    {
+        Application.OpenURL("https://docs.google.com/forms/d/e/1FAIpQLSdGJMNXrdWKaGAQhyERlWMQt8dN5eIUP9mr_dEpVVV7c4CbQA/viewform?usp=publish-editor");
+    }
 }

@@ -22,8 +22,8 @@ public class ParallaxScript : MonoBehaviour
         MousePos.x -= Screen.width / 2;
         MousePos.y -= Screen.height / 2;
 
-        Debug.Log("MouseX = " + MousePos.x);
-        Debug.Log("MouseY = " + MousePos.y);
+        //Debug.Log("MouseX = " + MousePos.x);
+        //Debug.Log("MouseY = " + MousePos.y);
         MousePos.x *= difference * -0.25f;
         MousePos.y *= difference * -0.25f;
 

@@ -4,25 +4,12 @@ using UnityEngine.UI;
 
 public class VictoryScreenButtons : MonoBehaviour
 {
-    public Button button;
-    public Button button2;
-    public Button button3;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        if (button != null)
-        {
-            button.enabled = false;
-        }
-        if (button2 != null)
-        {
-            button2.enabled = false;
-        }
-        if (button3 != null)
-        {
-            button3.enabled = false;
-        }
+
     }
 
     // Update is called once per frame
@@ -31,23 +18,9 @@ public class VictoryScreenButtons : MonoBehaviour
         
     }
 
-    public void enableButtons()
-    {
-        button.enabled = true;
-        button2.enabled = true;
-        button3.enabled = true;
-    }
-
-    public void disabelButtons()
-    {
-        button.enabled = false ;
-        button2.enabled = false ;
-        button3.enabled = false ;
-    }
-
     public void OpenLink()
     {
-        Application.OpenURL("https://docs.google.com/forms/d/e/1FAIpQLSfTlz_8N2UOqsHKS_kNI5ZrCe0Ao2t_QkCvJAjoUhNYhmXG_Q/viewform?usp=publish-editor");
+        Application.OpenURL("https://docs.google.com/forms/d/e/1FAIpQLSdGJMNXrdWKaGAQhyERlWMQt8dN5eIUP9mr_dEpVVV7c4CbQA/viewform?usp=publish-editor");
     }
 
     public void RestartPlaytest()
@@ -58,6 +31,12 @@ public class VictoryScreenButtons : MonoBehaviour
     public void OpenMainMenu()
     {
         SceneManager.LoadScene("MainMenuScene");
+    }
+
+    public void StartRKFight()
+    {
+        SceneManager.LoadScene("Rat King Fight");
+
     }
 
     public void QuitGame()
