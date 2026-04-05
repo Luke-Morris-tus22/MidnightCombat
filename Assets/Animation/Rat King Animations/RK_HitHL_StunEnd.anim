@@ -43,9 +43,7 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: 21300000, guid: 7ad4122d5dbb2a547b48ac43394ec997, type: 3}
-    - time: 0.6666667
-      value: {fileID: 21300000, guid: fed76814e8fbcde41baa53991e6746bf, type: 3}
-    - time: 0.71666664
+    - time: 0.6333333
       value: {fileID: 21300000, guid: 69b83b3ef97f7274fb04dfbefd18e850, type: 3}
     - time: 0.76666665
       value: {fileID: 21300000, guid: 69b83b3ef97f7274fb04dfbefd18e850, type: 3}
@@ -81,7 +79,6 @@ AnimationClip:
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
     - {fileID: 21300000, guid: 7ad4122d5dbb2a547b48ac43394ec997, type: 3}
-    - {fileID: 21300000, guid: fed76814e8fbcde41baa53991e6746bf, type: 3}
     - {fileID: 21300000, guid: 69b83b3ef97f7274fb04dfbefd18e850, type: 3}
     - {fileID: 21300000, guid: 69b83b3ef97f7274fb04dfbefd18e850, type: 3}
   m_AnimationClipSettings:
@@ -137,7 +134,7 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.71666664
+  - time: 0.68333334
     functionName: restartAttackCounter
     data: 
     objectReferenceParameter: {fileID: 0}
