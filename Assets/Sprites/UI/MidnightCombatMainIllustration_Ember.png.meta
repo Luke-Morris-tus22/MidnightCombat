@@ -1,0 +1,5746 @@
+fileFormatVersion: 2
+guid: a6d82fcf32e8f6644aedeee5c8d5d812
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -143136587611282619
+    second: MidnightCombatMainIllustration_Ember_0
+  - first:
+      213: -4562378857114595223
+    second: MidnightCombatMainIllustration_Ember_1
+  - first:
+      213: 8825139752879291139
+    second: MidnightCombatMainIllustration_Ember_2
+  - first:
+      213: 3513557112263582183
+    second: MidnightCombatMainIllustration_Ember_3
+  - first:
+      213: -3329451173740320325
+    second: MidnightCombatMainIllustration_Ember_4
+  - first:
+      213: 2439467123689832228
+    second: MidnightCombatMainIllustration_Ember_5
+  - first:
+      213: -6387857511518001010
+    second: MidnightCombatMainIllustration_Ember_6
+  - first:
+      213: 9124217987573358481
+    second: MidnightCombatMainIllustration_Ember_7
+  - first:
+      213: -3412693974036572276
+    second: MidnightCombatMainIllustration_Ember_8
+  - first:
+      213: -4632780348247104212
+    second: MidnightCombatMainIllustration_Ember_9
+  - first:
+      213: -4985289231029363731
+    second: MidnightCombatMainIllustration_Ember_10
+  - first:
+      213: -667944621875102865
+    second: MidnightCombatMainIllustration_Ember_11
+  - first:
+      213: 1122454770291102856
+    second: MidnightCombatMainIllustration_Ember_12
+  - first:
+      213: 1823098640820096043
+    second: MidnightCombatMainIllustration_Ember_13
+  - first:
+      213: 686601259677580226
+    second: MidnightCombatMainIllustration_Ember_14
+  - first:
+      213: -5714421404851558948
+    second: MidnightCombatMainIllustration_Ember_15
+  - first:
+      213: -5995726758093975969
+    second: MidnightCombatMainIllustration_Ember_16
+  - first:
+      213: 5701682363540524806
+    second: MidnightCombatMainIllustration_Ember_17
+  - first:
+      213: -3621751348427984071
+    second: MidnightCombatMainIllustration_Ember_18
+  - first:
+      213: 6540711626798579114
+    second: MidnightCombatMainIllustration_Ember_19
+  - first:
+      213: -4789286126023205817
+    second: MidnightCombatMainIllustration_Ember_20
+  - first:
+      213: -1802517909935431895
+    second: MidnightCombatMainIllustration_Ember_21
+  - first:
+      213: 2394577232771320623
+    second: MidnightCombatMainIllustration_Ember_22
+  - first:
+      213: 4316409408168733451
+    second: MidnightCombatMainIllustration_Ember_23
+  - first:
+      213: 2525224673256209845
+    second: MidnightCombatMainIllustration_Ember_24
+  - first:
+      213: -6616974949914550724
+    second: MidnightCombatMainIllustration_Ember_25
+  - first:
+      213: 685166931491217074
+    second: MidnightCombatMainIllustration_Ember_26
+  - first:
+      213: -7229791194533983150
+    second: MidnightCombatMainIllustration_Ember_27
+  - first:
+      213: -2812959171690643023
+    second: MidnightCombatMainIllustration_Ember_28
+  - first:
+      213: -6846232278935079150
+    second: MidnightCombatMainIllustration_Ember_29
+  - first:
+      213: 2529556970411183758
+    second: MidnightCombatMainIllustration_Ember_30
+  - first:
+      213: -710610573427057292
+    second: MidnightCombatMainIllustration_Ember_31
+  - first:
+      213: -1910504322027069270
+    second: MidnightCombatMainIllustration_Ember_32
+  - first:
+      213: 1212432492964860373
+    second: MidnightCombatMainIllustration_Ember_33
+  - first:
+      213: 3423067901224743486
+    second: MidnightCombatMainIllustration_Ember_34
+  - first:
+      213: 5898697426863689477
+    second: MidnightCombatMainIllustration_Ember_35
+  - first:
+      213: -5476177000442246972
+    second: MidnightCombatMainIllustration_Ember_36
+  - first:
+      213: 7592204540348279102
+    second: MidnightCombatMainIllustration_Ember_37
+  - first:
+      213: -9104994995090134049
+    second: MidnightCombatMainIllustration_Ember_38
+  - first:
+      213: -4854902170939493403
+    second: MidnightCombatMainIllustration_Ember_39
+  - first:
+      213: 5819842107493912056
+    second: MidnightCombatMainIllustration_Ember_40
+  - first:
+      213: 8938758773729299812
+    second: MidnightCombatMainIllustration_Ember_41
+  - first:
+      213: 1320505454631133884
+    second: MidnightCombatMainIllustration_Ember_42
+  - first:
+      213: -2698830379425292303
+    second: MidnightCombatMainIllustration_Ember_43
+  - first:
+      213: -6821418690320743497
+    second: MidnightCombatMainIllustration_Ember_44
+  - first:
+      213: -4886977420642413294
+    second: MidnightCombatMainIllustration_Ember_45
+  - first:
+      213: 2422210965720693064
+    second: MidnightCombatMainIllustration_Ember_46
+  - first:
+      213: 7521572541022259005
+    second: MidnightCombatMainIllustration_Ember_47
+  - first:
+      213: 6638166056575055021
+    second: MidnightCombatMainIllustration_Ember_48
+  - first:
+      213: -4474148705789781233
+    second: MidnightCombatMainIllustration_Ember_49
+  - first:
+      213: -7448834999205325261
+    second: MidnightCombatMainIllustration_Ember_50
+  - first:
+      213: -7727753032146486297
+    second: MidnightCombatMainIllustration_Ember_51
+  - first:
+      213: -2184754560827344697
+    second: MidnightCombatMainIllustration_Ember_52
+  - first:
+      213: -3086282568784356033
+    second: MidnightCombatMainIllustration_Ember_53
+  - first:
+      213: 9011362389920452018
+    second: MidnightCombatMainIllustration_Ember_54
+  - first:
+      213: -5236082697192080830
+    second: MidnightCombatMainIllustration_Ember_55
+  - first:
+      213: -7276970467169680502
+    second: MidnightCombatMainIllustration_Ember_56
+  - first:
+      213: -2413856118863703977
+    second: MidnightCombatMainIllustration_Ember_57
+  - first:
+      213: -6980073863196536844
+    second: MidnightCombatMainIllustration_Ember_58
+  - first:
+      213: 4034771411935466389
+    second: MidnightCombatMainIllustration_Ember_59
+  - first:
+      213: 6507121223287496743
+    second: MidnightCombatMainIllustration_Ember_60
+  - first:
+      213: -7121929621162106162
+    second: MidnightCombatMainIllustration_Ember_61
+  - first:
+      213: -4114303283844380656
+    second: MidnightCombatMainIllustration_Ember_62
+  - first:
+      213: -2658885215625612080
+    second: MidnightCombatMainIllustration_Ember_63
+  - first:
+      213: 2040875613512139097
+    second: MidnightCombatMainIllustration_Ember_64
+  - first:
+      213: -5458336271234957823
+    second: MidnightCombatMainIllustration_Ember_65
+  - first:
+      213: -208570163556512449
+    second: MidnightCombatMainIllustration_Ember_66
+  - first:
+      213: -715423655462592249
+    second: MidnightCombatMainIllustration_Ember_67
+  - first:
+      213: 1622667041374024517
+    second: MidnightCombatMainIllustration_Ember_68
+  - first:
+      213: -2275354728468495648
+    second: MidnightCombatMainIllustration_Ember_69
+  - first:
+      213: -6280569231821888595
+    second: MidnightCombatMainIllustration_Ember_70
+  - first:
+      213: 6576364424647366086
+    second: MidnightCombatMainIllustration_Ember_71
+  - first:
+      213: -8250340698239618623
+    second: MidnightCombatMainIllustration_Ember_72
+  - first:
+      213: -715506207844456099
+    second: MidnightCombatMainIllustration_Ember_73
+  - first:
+      213: 6476917041410583283
+    second: MidnightCombatMainIllustration_Ember_74
+  - first:
+      213: 4936803249057581856
+    second: MidnightCombatMainIllustration_Ember_75
+  - first:
+      213: 685818931925478926
+    second: MidnightCombatMainIllustration_Ember_76
+  - first:
+      213: 2428545659102055143
+    second: MidnightCombatMainIllustration_Ember_77
+  - first:
+      213: -7330388910076240609
+    second: MidnightCombatMainIllustration_Ember_78
+  - first:
+      213: -9176932401792264056
+    second: MidnightCombatMainIllustration_Ember_79
+  - first:
+      213: -1310054326138933983
+    second: MidnightCombatMainIllustration_Ember_80
+  - first:
+      213: 8859314073379631122
+    second: MidnightCombatMainIllustration_Ember_81
+  - first:
+      213: -3112116856136032316
+    second: MidnightCombatMainIllustration_Ember_82
+  - first:
+      213: 6463386068915169609
+    second: MidnightCombatMainIllustration_Ember_83
+  - first:
+      213: -3805094214665035122
+    second: MidnightCombatMainIllustration_Ember_84
+  - first:
+      213: 4620936797668847368
+    second: MidnightCombatMainIllustration_Ember_85
+  - first:
+      213: 7744238623875367156
+    second: MidnightCombatMainIllustration_Ember_86
+  - first:
+      213: 542030094339266578
+    second: MidnightCombatMainIllustration_Ember_87
+  - first:
+      213: -1028025046735262127
+    second: MidnightCombatMainIllustration_Ember_88
+  - first:
+      213: 6657644486520134219
+    second: MidnightCombatMainIllustration_Ember_89
+  - first:
+      213: 4583034975240953390
+    second: MidnightCombatMainIllustration_Ember_90
+  - first:
+      213: -3420363715641844794
+    second: MidnightCombatMainIllustration_Ember_91
+  - first:
+      213: 8773539335692218153
+    second: MidnightCombatMainIllustration_Ember_92
+  - first:
+      213: -5892767418531506304
+    second: MidnightCombatMainIllustration_Ember_93
+  - first:
+      213: -5095482196231389377
+    second: MidnightCombatMainIllustration_Ember_94
+  - first:
+      213: -1278793367201499390
+    second: MidnightCombatMainIllustration_Ember_95
+  - first:
+      213: -5041901275584890123
+    second: MidnightCombatMainIllustration_Ember_96
+  - first:
+      213: 7804923607565062812
+    second: MidnightCombatMainIllustration_Ember_97
+  - first:
+      213: 1116895061108906764
+    second: MidnightCombatMainIllustration_Ember_98
+  - first:
+      213: 7176191918811691286
+    second: MidnightCombatMainIllustration_Ember_99
+  - first:
+      213: 5432071482540552550
+    second: MidnightCombatMainIllustration_Ember_100
+  - first:
+      213: 3833812848895413049
+    second: MidnightCombatMainIllustration_Ember_101
+  - first:
+      213: 3830470758352257133
+    second: MidnightCombatMainIllustration_Ember_102
+  - first:
+      213: 1542609429384272999
+    second: MidnightCombatMainIllustration_Ember_103
+  - first:
+      213: 4950254509225165025
+    second: MidnightCombatMainIllustration_Ember_104
+  - first:
+      213: -5333643662477750002
+    second: MidnightCombatMainIllustration_Ember_105
+  - first:
+      213: -8367567815322639953
+    second: MidnightCombatMainIllustration_Ember_106
+  - first:
+      213: -1075999528555111953
+    second: MidnightCombatMainIllustration_Ember_107
+  - first:
+      213: -144158894117498899
+    second: MidnightCombatMainIllustration_Ember_108
+  - first:
+      213: -6626091074136035402
+    second: MidnightCombatMainIllustration_Ember_109
+  - first:
+      213: -5567546658263785341
+    second: MidnightCombatMainIllustration_Ember_110
+  - first:
+      213: 1829978149860271668
+    second: MidnightCombatMainIllustration_Ember_111
+  - first:
+      213: 2313099381675419959
+    second: MidnightCombatMainIllustration_Ember_112
+  - first:
+      213: -2401533225791540788
+    second: MidnightCombatMainIllustration_Ember_113
+  - first:
+      213: 764636573861071627
+    second: MidnightCombatMainIllustration_Ember_114
+  - first:
+      213: -5219069223415199966
+    second: MidnightCombatMainIllustration_Ember_115
+  - first:
+      213: 4856576342713746452
+    second: MidnightCombatMainIllustration_Ember_116
+  - first:
+      213: 7489950606532928363
+    second: MidnightCombatMainIllustration_Ember_117
+  - first:
+      213: -2609224835804092776
+    second: MidnightCombatMainIllustration_Ember_118
+  - first:
+      213: 692559619695051386
+    second: MidnightCombatMainIllustration_Ember_119
+  - first:
+      213: -6727937655937838962
+    second: MidnightCombatMainIllustration_Ember_120
+  - first:
+      213: -3254532399216382640
+    second: MidnightCombatMainIllustration_Ember_121
+  - first:
+      213: -4304549839841210282
+    second: MidnightCombatMainIllustration_Ember_122
+  - first:
+      213: -6375033608423697476
+    second: MidnightCombatMainIllustration_Ember_123
+  - first:
+      213: -563385678556081775
+    second: MidnightCombatMainIllustration_Ember_124
+  - first:
+      213: -2757282114299882771
+    second: MidnightCombatMainIllustration_Ember_125
+  - first:
+      213: -858571048251678117
+    second: MidnightCombatMainIllustration_Ember_126
+  - first:
+      213: -7749296271975355347
+    second: MidnightCombatMainIllustration_Ember_127
+  - first:
+      213: 1132012562091771599
+    second: MidnightCombatMainIllustration_Ember_128
+  - first:
+      213: -7724062526493506465
+    second: MidnightCombatMainIllustration_Ember_129
+  - first:
+      213: 23839738214374702
+    second: MidnightCombatMainIllustration_Ember_130
+  - first:
+      213: -2271996042647928031
+    second: MidnightCombatMainIllustration_Ember_131
+  - first:
+      213: 5961449677321603367
+    second: MidnightCombatMainIllustration_Ember_132
+  - first:
+      213: -1072135634046430958
+    second: MidnightCombatMainIllustration_Ember_133
+  - first:
+      213: -1437094008652763128
+    second: MidnightCombatMainIllustration_Ember_134
+  - first:
+      213: -2405032753001522927
+    second: MidnightCombatMainIllustration_Ember_135
+  - first:
+      213: -5504761610258860443
+    second: MidnightCombatMainIllustration_Ember_136
+  - first:
+      213: 9138746963550953836
+    second: MidnightCombatMainIllustration_Ember_137
+  - first:
+      213: -976034233900352885
+    second: MidnightCombatMainIllustration_Ember_138
+  - first:
+      213: -2559570028550719713
+    second: MidnightCombatMainIllustration_Ember_139
+  - first:
+      213: -1130861840898827259
+    second: MidnightCombatMainIllustration_Ember_140
+  - first:
+      213: 2991813623267741973
+    second: MidnightCombatMainIllustration_Ember_141
+  - first:
+      213: -4632833802666390117
+    second: MidnightCombatMainIllustration_Ember_142
+  - first:
+      213: -4783010200706574389
+    second: MidnightCombatMainIllustration_Ember_143
+  - first:
+      213: -2487161280030369678
+    second: MidnightCombatMainIllustration_Ember_144
+  - first:
+      213: -28779205609470279
+    second: MidnightCombatMainIllustration_Ember_145
+  - first:
+      213: -454198612621111260
+    second: MidnightCombatMainIllustration_Ember_146
+  - first:
+      213: -2089460263358661540
+    second: MidnightCombatMainIllustration_Ember_147
+  - first:
+      213: 1843436625111124541
+    second: MidnightCombatMainIllustration_Ember_148
+  - first:
+      213: -665018530094419210
+    second: MidnightCombatMainIllustration_Ember_149
+  - first:
+      213: 4854242747820559932
+    second: MidnightCombatMainIllustration_Ember_150
+  - first:
+      213: 4588505255959047200
+    second: MidnightCombatMainIllustration_Ember_151
+  - first:
+      213: -201868125550339814
+    second: MidnightCombatMainIllustration_Ember_152
+  - first:
+      213: 5368267480717020812
+    second: MidnightCombatMainIllustration_Ember_153
+  - first:
+      213: -2583641027415882280
+    second: MidnightCombatMainIllustration_Ember_154
+  - first:
+      213: -1833235023249201835
+    second: MidnightCombatMainIllustration_Ember_155
+  - first:
+      213: -8913184078587877014
+    second: MidnightCombatMainIllustration_Ember_156
+  - first:
+      213: 2572122169505582042
+    second: MidnightCombatMainIllustration_Ember_157
+  - first:
+      213: -5509494471140638567
+    second: MidnightCombatMainIllustration_Ember_158
+  - first:
+      213: -2754439901978402341
+    second: MidnightCombatMainIllustration_Ember_159
+  - first:
+      213: 134757408148116379
+    second: MidnightCombatMainIllustration_Ember_160
+  - first:
+      213: -930532203008403893
+    second: MidnightCombatMainIllustration_Ember_161
+  - first:
+      213: 7521301208801077924
+    second: MidnightCombatMainIllustration_Ember_162
+  - first:
+      213: -5357886698362891113
+    second: MidnightCombatMainIllustration_Ember_163
+  - first:
+      213: -3677588473473263763
+    second: MidnightCombatMainIllustration_Ember_164
+  - first:
+      213: -3972757282076839742
+    second: MidnightCombatMainIllustration_Ember_165
+  - first:
+      213: 9066939499619420348
+    second: MidnightCombatMainIllustration_Ember_166
+  - first:
+      213: 4935411955157846912
+    second: MidnightCombatMainIllustration_Ember_167
+  - first:
+      213: -5877783952092245317
+    second: MidnightCombatMainIllustration_Ember_168
+  - first:
+      213: -5576639990630733531
+    second: MidnightCombatMainIllustration_Ember_169
+  - first:
+      213: 2291359498837449058
+    second: MidnightCombatMainIllustration_Ember_170
+  - first:
+      213: -7295174642137518436
+    second: MidnightCombatMainIllustration_Ember_171
+  - first:
+      213: -2934896664622452192
+    second: MidnightCombatMainIllustration_Ember_172
+  - first:
+      213: 5996281873267464327
+    second: MidnightCombatMainIllustration_Ember_173
+  - first:
+      213: -6639478833276813229
+    second: MidnightCombatMainIllustration_Ember_174
+  - first:
+      213: -6930636732915346628
+    second: MidnightCombatMainIllustration_Ember_175
+  - first:
+      213: 4778712360103727960
+    second: MidnightCombatMainIllustration_Ember_176
+  - first:
+      213: 2504580365266102959
+    second: MidnightCombatMainIllustration_Ember_177
+  - first:
+      213: -2959580669403209538
+    second: MidnightCombatMainIllustration_Ember_178
+  - first:
+      213: -1319472690790669247
+    second: MidnightCombatMainIllustration_Ember_179
+  - first:
+      213: -841696331393420335
+    second: MidnightCombatMainIllustration_Ember_180
+  - first:
+      213: 7536214215848635051
+    second: MidnightCombatMainIllustration_Ember_181
+  - first:
+      213: -7784661816102543857
+    second: MidnightCombatMainIllustration_Ember_182
+  - first:
+      213: 6156477982096432137
+    second: MidnightCombatMainIllustration_Ember_183
+  - first:
+      213: 8659655305184284132
+    second: MidnightCombatMainIllustration_Ember_184
+  - first:
+      213: -8471237175544155358
+    second: MidnightCombatMainIllustration_Ember_185
+  - first:
+      213: -3722016486421577884
+    second: MidnightCombatMainIllustration_Ember_186
+  - first:
+      213: -7166416801221226076
+    second: MidnightCombatMainIllustration_Ember_187
+  - first:
+      213: -5570500946567627579
+    second: MidnightCombatMainIllustration_Ember_188
+  - first:
+      213: -796663682965673437
+    second: MidnightCombatMainIllustration_Ember_189
+  - first:
+      213: -4716865486471899248
+    second: MidnightCombatMainIllustration_Ember_190
+  - first:
+      213: -3691264652442475394
+    second: MidnightCombatMainIllustration_Ember_191
+  - first:
+      213: 2314507206051482554
+    second: MidnightCombatMainIllustration_Ember_192
+  - first:
+      213: 4001480615002043622
+    second: MidnightCombatMainIllustration_Ember_193
+  - first:
+      213: -1337217637343044578
+    second: MidnightCombatMainIllustration_Ember_194
+  - first:
+      213: 4266222116750969730
+    second: MidnightCombatMainIllustration_Ember_195
+  - first:
+      213: 8107283074584091802
+    second: MidnightCombatMainIllustration_Ember_196
+  - first:
+      213: -4735222045189835827
+    second: MidnightCombatMainIllustration_Ember_197
+  - first:
+      213: -5260613061060800381
+    second: MidnightCombatMainIllustration_Ember_198
+  - first:
+      213: 5199751374805635151
+    second: MidnightCombatMainIllustration_Ember_199
+  - first:
+      213: -3871467553580422298
+    second: MidnightCombatMainIllustration_Ember_200
+  - first:
+      213: -5812374351549873194
+    second: MidnightCombatMainIllustration_Ember_201
+  - first:
+      213: 7550113708821324736
+    second: MidnightCombatMainIllustration_Ember_202
+  - first:
+      213: -993755903265302671
+    second: MidnightCombatMainIllustration_Ember_203
+  - first:
+      213: -6263829650111883053
+    second: MidnightCombatMainIllustration_Ember_204
+  - first:
+      213: -5163659909528307795
+    second: MidnightCombatMainIllustration_Ember_205
+  - first:
+      213: 3369156168067343081
+    second: MidnightCombatMainIllustration_Ember_206
+  - first:
+      213: 6727087070756959377
+    second: MidnightCombatMainIllustration_Ember_207
+  - first:
+      213: -9164961090543735067
+    second: MidnightCombatMainIllustration_Ember_208
+  - first:
+      213: 8516539668229314510
+    second: MidnightCombatMainIllustration_Ember_209
+  - first:
+      213: 2561238071038399898
+    second: MidnightCombatMainIllustration_Ember_210
+  - first:
+      213: -3253762727311208671
+    second: MidnightCombatMainIllustration_Ember_211
+  - first:
+      213: 1713909780624224031
+    second: MidnightCombatMainIllustration_Ember_212
+  - first:
+      213: 2895665639671826689
+    second: MidnightCombatMainIllustration_Ember_213
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_0
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 6485
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543611d280a730ef0800000000000000
+      internalID: -143136587611282619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_1
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 6471
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609eea1a9c2fa0c0800000000000000
+      internalID: -4562378857114595223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_2
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 6473
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b7c8ff8d1397a70800000000000000
+      internalID: 8825139752879291139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_3
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 420
+        width: 4064
+        height: 6049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1a486f399a2c030800000000000000
+      internalID: 3513557112263582183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_4
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 6466
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb963343cc96bc1d0800000000000000
+      internalID: -3329451173740320325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_5
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 6452
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fb6c49c6abad120800000000000000
+      internalID: 2439467123689832228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_6
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 6449
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88a8260075c957a0800000000000000
+      internalID: -6387857511518001010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_7
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 6453
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f1a82eaebbf9e70800000000000000
+      internalID: 9124217987573358481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_8
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 6446
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c871f6e69eca3a0d0800000000000000
+      internalID: -3412693974036572276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_9
+      rect:
+        serializedVersion: 2
+        x: 3933
+        y: 6455
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25225c91de05bfb0800000000000000
+      internalID: -4632780348247104212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_10
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 6450
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb1ae98bd1b0dab0800000000000000
+      internalID: -4985289231029363731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_11
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 4819
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7083c7ebfab6f0800000000000000
+      internalID: -667944621875102865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_12
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 4821
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884d4a3aaa2c39f00800000000000000
+      internalID: 1122454770291102856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_13
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4819
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c449cfd82fc4910800000000000000
+      internalID: 1823098640820096043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_14
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 4777
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbfa69353c478900800000000000000
+      internalID: 686601259677580226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_15
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 4795
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52fe2320c42b0b0800000000000000
+      internalID: -5714421404851558948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_16
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 4799
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e018db746eacca0800000000000000
+      internalID: -5995726758093975969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_17
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 4792
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f41fc96e1702f40800000000000000
+      internalID: 5701682363540524806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_18
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 4787
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93378246654fcbdc0800000000000000
+      internalID: -3621751348427984071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_19
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 4777
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadb895029645ca50800000000000000
+      internalID: 6540711626798579114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_20
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 4780
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1ea2a4a9098db0800000000000000
+      internalID: -4789286126023205817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_21
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 4766
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd405d28b2cf6e0800000000000000
+      internalID: -1802517909935431895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_22
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 4757
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b82926e4f3b3120800000000000000
+      internalID: 2394577232771320623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_23
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 4762
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b2d07cc77f6eb30800000000000000
+      internalID: 4316409408168733451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_24
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 4743
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdfc7b06766b0320800000000000000
+      internalID: 2525224673256209845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_25
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 4754
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e5fae5758cb24a0800000000000000
+      internalID: -6616974949914550724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_26
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 4727
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bed06ba1b3328900800000000000000
+      internalID: 685166931491217074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_27
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 4730
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c0e81b63f9aab90800000000000000
+      internalID: -7229791194533983150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_28
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4732
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1c3bb798c56f8d0800000000000000
+      internalID: -2812959171690643023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_29
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 4728
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f244e30c4df0a0800000000000000
+      internalID: -6846232278935079150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_30
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 4735
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ec87499aaca1320800000000000000
+      internalID: 2529556970411183758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_31
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 4722
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d5e3dc2776326f0800000000000000
+      internalID: -710610573427057292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_32
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 4719
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa06abff0768c75e0800000000000000
+      internalID: -1910504322027069270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_33
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 4709
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1df49bdec63d010800000000000000
+      internalID: 1212432492964860373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_34
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 4708
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32fa86be1e218f20800000000000000
+      internalID: 3423067901224743486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_35
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 4701
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f88bd9e026cd150800000000000000
+      internalID: 5898697426863689477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_36
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 4705
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8c9793806b004b0800000000000000
+      internalID: -5476177000442246972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_37
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 4688
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e392191edcdec5960800000000000000
+      internalID: 7592204540348279102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_38
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 4698
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb61f3da4f84a180800000000000000
+      internalID: -9104994995090134049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_39
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 4680
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3f0e9a23cef9cb0800000000000000
+      internalID: -4854902170939493403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_40
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 4671
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd090adf8b34c050800000000000000
+      internalID: 5819842107493912056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_41
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 4664
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d8a01ceb9dc0c70800000000000000
+      internalID: 8938758773729299812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_42
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 4670
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb22143f6b0635210800000000000000
+      internalID: 1320505454631133884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_43
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 4649
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff9255a114db8ad0800000000000000
+      internalID: -2698830379425292303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_44
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 4658
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3c833b7d37551a0800000000000000
+      internalID: -6821418690320743497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_45
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 4654
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2151141ade7fd2cb0800000000000000
+      internalID: -4886977420642413294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_46
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 4643
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84976d63a0c6d9120800000000000000
+      internalID: 2422210965720693064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_47
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 4588
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c6f3006ef16860800000000000000
+      internalID: 7521572541022259005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_48
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 4620
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da43632abd08f1c50800000000000000
+      internalID: 6638166056575055021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_49
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 4625
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b50270571a8e1c0800000000000000
+      internalID: -4474148705789781233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_50
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 4632
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3369ed9a80c60a890800000000000000
+      internalID: -7448834999205325261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_51
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 4618
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf5f68f8181c490800000000000000
+      internalID: -7727753032146486297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_52
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 4621
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b8706d413ea1e0800000000000000
+      internalID: -2184754560827344697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_53
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 4612
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dd0230b525b25d0800000000000000
+      internalID: -3086282568784356033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_54
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 4607
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd0681795ace0d70800000000000000
+      internalID: 9011362389920452018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_55
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 4597
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24afb436782b557b0800000000000000
+      internalID: -5236082697192080830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_56
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4598
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83c7574ae1030b90800000000000000
+      internalID: -7276970467169680502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_57
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 4602
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d93826a2408ed0800000000000000
+      internalID: -2413856118863703977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_58
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 4588
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8e2eadcbc12f90800000000000000
+      internalID: -6980073863196536844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_59
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 4585
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5939056d8336ef730800000000000000
+      internalID: 4034771411935466389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_60
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 4572
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e470c640fd4a50800000000000000
+      internalID: 6507121223287496743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_61
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 4573
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2ec4f3eb2d92d90800000000000000
+      internalID: -7121929621162106162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_62
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 4490
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0188b3c36fe07e6c0800000000000000
+      internalID: -4114303283844380656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_63
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 4561
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4f818dbfdb91bd0800000000000000
+      internalID: -2658885215625612080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_64
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 4560
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9510626be85a25c10800000000000000
+      internalID: 2040875613512139097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_65
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 4529
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ef860b4181044b0800000000000000
+      internalID: -5458336271234957823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_66
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 4538
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d08729a820b1df0800000000000000
+      internalID: -208570163556512449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_67
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 4531
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701ad30d9fd4216f0800000000000000
+      internalID: -715423655462592249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4527
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54335dda31fd48610800000000000000
+      internalID: 1622667041374024517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_69
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 4521
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e241a70ee05c60e0800000000000000
+      internalID: -2275354728468495648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_70
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 4500
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3220e3f8fe6d8a0800000000000000
+      internalID: -6280569231821888595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_71
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 4514
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c55f94e990f34b50800000000000000
+      internalID: 6576364424647366086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_72
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 4517
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1ba7dd8d6e08d80800000000000000
+      internalID: -8250340698239618623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_73
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 4510
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5928d615e20216f0800000000000000
+      internalID: -715506207844456099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_74
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 4505
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faa3f4abb1a2e950800000000000000
+      internalID: 6476917041410583283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_75
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b4212166c038440800000000000000
+      internalID: 4936803249057581856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_76
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4487
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ee7a95fa4848900800000000000000
+      internalID: 685818931925478926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_77
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 4484
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea4893f86de3b120800000000000000
+      internalID: 2428545659102055143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_78
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 4447
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d5175df1a354a90800000000000000
+      internalID: -7330388910076240609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_79
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 4481
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888566f1a9cf4a080800000000000000
+      internalID: -9176932401792264056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_80
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 4480
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d66060880c1dde0800000000000000
+      internalID: -1310054326138933983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_81
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 4473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2107969063b92fa70800000000000000
+      internalID: 8859314073379631122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_82
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 4446
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf9182453a8fc4d0800000000000000
+      internalID: -3112116856136032316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_83
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 4445
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949a5eb926f82b950800000000000000
+      internalID: 6463386068915169609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_84
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 4426
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e822ff5d8f6913bc0800000000000000
+      internalID: -3805094214665035122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_85
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 4431
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f2592e88dd02040800000000000000
+      internalID: 4620936797668847368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_86
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 4416
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f083f76fff097b60800000000000000
+      internalID: 7744238623875367156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_87
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 4418
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d9aebf7da58700800000000000000
+      internalID: 542030094339266578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_88
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 4386
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ee32daaa8bbb1f0800000000000000
+      internalID: -1028025046735262127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_89
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aded30364b46c50800000000000000
+      internalID: 6657644486520134219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_90
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 4409
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e9d6c27063a9f30800000000000000
+      internalID: 4583034975240953390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_91
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4405
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb588e825d6880d0800000000000000
+      internalID: -3420363715641844794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_92
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 4382
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe9d6aa8fd1c970800000000000000
+      internalID: 8773539335692218153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_93
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 4397
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0871f6a014fa83ea0800000000000000
+      internalID: -5892767418531506304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_94
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 4377
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ffc4680f53949b0800000000000000
+      internalID: -5095482196231389377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_95
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 4388
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20734d63530d04ee0800000000000000
+      internalID: -1278793367201499390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_96
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 4386
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa7c24c081970ab0800000000000000
+      internalID: -5041901275584890123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_97
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 4365
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92d9f73ba8a05c60800000000000000
+      internalID: 7804923607565062812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_98
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 4358
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd8c8f322008f00800000000000000
+      internalID: 1116895061108906764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_99
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 4361
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619bcc07784f69360800000000000000
+      internalID: 7176191918811691286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_100
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 4355
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661fb57ab38926b40800000000000000
+      internalID: 5432071482540552550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_101
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 4344
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b4db14970743530800000000000000
+      internalID: 3833812848895413049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_102
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 4328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608b1a2cd0982530800000000000000
+      internalID: 3830470758352257133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_103
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 4326
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c1e995a13786510800000000000000
+      internalID: 1542609429384272999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_104
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4318
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e04422af36d2b440800000000000000
+      internalID: 4950254509225165025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_105
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 4314
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01108b09571bf5b0800000000000000
+      internalID: -5333643662477750002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_106
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 4306
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e3bdb76d60eb80800000000000000
+      internalID: -8367567815322639953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_107
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 4304
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe91cf131284111f0800000000000000
+      internalID: -1075999528555111953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_108
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 4253
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defc9e4ef38dffdf0800000000000000
+      internalID: -144158894117498899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_109
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 4202
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2cbc46456b04a0800000000000000
+      internalID: -6626091074136035402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_110
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 4186
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38026cbffc91cb2b0800000000000000
+      internalID: -5567546658263785341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_111
+      rect:
+        serializedVersion: 2
+        x: 6045
+        y: 4146
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436e5218e63656910800000000000000
+      internalID: 1829978149860271668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_112
+      rect:
+        serializedVersion: 2
+        x: 6094
+        y: 4160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73960fed1a7c91020800000000000000
+      internalID: 2313099381675419959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_113
+      rect:
+        serializedVersion: 2
+        x: 6031
+        y: 4121
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1b568414a0caed0800000000000000
+      internalID: -2401533225791540788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_114
+      rect:
+        serializedVersion: 2
+        x: 6068
+        y: 4101
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bc247a9e88c9a00800000000000000
+      internalID: 764636573861071627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_115
+      rect:
+        serializedVersion: 2
+        x: 6077
+        y: 4138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c92071342297b0800000000000000
+      internalID: -5219069223415199966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_116
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 4123
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414c404d376066340800000000000000
+      internalID: 4856576342713746452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_117
+      rect:
+        serializedVersion: 2
+        x: 6037
+        y: 4105
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63ed97a466a1f760800000000000000
+      internalID: 7489950606532928363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_118
+      rect:
+        serializedVersion: 2
+        x: 6045
+        y: 4091
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89625ca06db2acbd0800000000000000
+      internalID: -2609224835804092776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_119
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 4100
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7204b50e477c9900800000000000000
+      internalID: 692559619695051386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_120
+      rect:
+        serializedVersion: 2
+        x: 6087
+        y: 4103
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d9da195091a2a0800000000000000
+      internalID: -6727937655937838962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_121
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 4101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d25b2b60495d2d0800000000000000
+      internalID: -3254532399216382640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_122
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 4079
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650dc462aba2344c0800000000000000
+      internalID: -4304549839841210282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_123
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 4089
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb39ab2a5b45787a0800000000000000
+      internalID: -6375033608423697476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_124
+      rect:
+        serializedVersion: 2
+        x: 6033
+        y: 4028
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1915f16d5b37e28f0800000000000000
+      internalID: -563385678556081775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_125
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 4065
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de21e97968a2cb9d0800000000000000
+      internalID: -2757282114299882771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_126
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 4042
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5226863e2eb514f0800000000000000
+      internalID: -858571048251678117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_127
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 4071
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c66a12918f47490800000000000000
+      internalID: -7749296271975355347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_128
+      rect:
+        serializedVersion: 2
+        x: 6134
+        y: 4060
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc682c47d67b5bf00800000000000000
+      internalID: 1132012562091771599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_129
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 4053
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c2755e0e9ec490800000000000000
+      internalID: -7724062526493506465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_130
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 4039
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5ec79d12b45000800000000000000
+      internalID: 23839738214374702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_131
+      rect:
+        serializedVersion: 2
+        x: 6061
+        y: 4036
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12380e203af3870e0800000000000000
+      internalID: -2271996042647928031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_132
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 4017
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7290f1b75e25bb250800000000000000
+      internalID: 5961449677321603367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_133
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 4040
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211df9d32520f11f0800000000000000
+      internalID: -1072135634046430958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_134
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 4017
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800f869fc9a6e0ce0800000000000000
+      internalID: -1437094008652763128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_135
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 3995
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1191a2c147b9f9ed0800000000000000
+      internalID: -2405032753001522927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_136
+      rect:
+        serializedVersion: 2
+        x: 6113
+        y: 4024
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566305f1b782b93b0800000000000000
+      internalID: -5504761610258860443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_137
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 3999
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6162a6b1f953de70800000000000000
+      internalID: 9138746963550953836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_138
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 3990
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8abfb7190e6472f0800000000000000
+      internalID: -976034233900352885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_139
+      rect:
+        serializedVersion: 2
+        x: 6131
+        y: 4001
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f177f76ce949a7cd0800000000000000
+      internalID: -2559570028550719713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_140
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 3994
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c5e23b52f5e40f0800000000000000
+      internalID: -1130861840898827259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_141
+      rect:
+        serializedVersion: 2
+        x: 6129
+        y: 3984
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115c0993ae058920800000000000000
+      internalID: 2991813623267741973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_142
+      rect:
+        serializedVersion: 2
+        x: 6051
+        y: 3977
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dc5a8c33ed4bfb0800000000000000
+      internalID: -4632833802666390117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_143
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 3966
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc790dd50955f9db0800000000000000
+      internalID: -4783010200706574389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_144
+      rect:
+        serializedVersion: 2
+        x: 6094
+        y: 3972
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2781fac4ef3db7dd0800000000000000
+      internalID: -2487161280030369678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_145
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 3980
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6cab80771c99ff0800000000000000
+      internalID: -28779205609470279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_146
+      rect:
+        serializedVersion: 2
+        x: 6149
+        y: 3962
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4205e3da4cc52b9f0800000000000000
+      internalID: -454198612621111260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_147
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 3946
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c763ef5feb003e0800000000000000
+      internalID: -2089460263358661540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_148
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 3958
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a81b5f7d3359910800000000000000
+      internalID: 1843436625111124541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_149
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 3957
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f27ba89b2165c6f0800000000000000
+      internalID: -665018530094419210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_150
+      rect:
+        serializedVersion: 2
+        x: 6045
+        y: 3928
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e4c5d6f0cbd5340800000000000000
+      internalID: 4854242747820559932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_151
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 3941
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ca3772835adaf30800000000000000
+      internalID: 4588505255959047200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_152
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 3923
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1919156202d23df0800000000000000
+      internalID: -201868125550339814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_153
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 3926
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e4b67d4daef7a40800000000000000
+      internalID: 5368267480717020812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_154
+      rect:
+        serializedVersion: 2
+        x: 6089
+        y: 3927
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d540cd9c20152cd0800000000000000
+      internalID: -2583641027415882280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_155
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 3913
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5552d61957a0f86e0800000000000000
+      internalID: -1833235023249201835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_156
+      rect:
+        serializedVersion: 2
+        x: 6159
+        y: 3912
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a692a1afd420e4480800000000000000
+      internalID: -8913184078587877014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_157
+      rect:
+        serializedVersion: 2
+        x: 6042
+        y: 3905
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb89484c7302b320800000000000000
+      internalID: 2572122169505582042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_158
+      rect:
+        serializedVersion: 2
+        x: 6061
+        y: 3916
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9900fa318f75a83b0800000000000000
+      internalID: -5509494471140638567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_159
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 3904
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16a67b08346c9d0800000000000000
+      internalID: -2754439901978402341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_160
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 3905
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9355831621ced100800000000000000
+      internalID: 134757408148116379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_161
+      rect:
+        serializedVersion: 2
+        x: 6082
+        y: 3894
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b465f9b34e51613f0800000000000000
+      internalID: -930532203008403893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_162
+      rect:
+        serializedVersion: 2
+        x: 6089
+        y: 3907
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaed4f8997016860800000000000000
+      internalID: 7521301208801077924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_163
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 3886
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7941a456f66f4a5b0800000000000000
+      internalID: -5357886698362891113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_164
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 3897
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d671e80a4c496fcc0800000000000000
+      internalID: -3677588473473263763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_165
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 3888
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0b6feec4eedd8c0800000000000000
+      internalID: -3972757282076839742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_166
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 3886
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb806caaf6d34dd70800000000000000
+      internalID: 9066939499619420348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_167
+      rect:
+        serializedVersion: 2
+        x: 6093
+        y: 3886
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b4667360b1e7440800000000000000
+      internalID: 4935411955157846912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_168
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 3856
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2dc0d23aaed6ea0800000000000000
+      internalID: -5877783952092245317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_169
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 3871
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a73e897bcb92b0800000000000000
+      internalID: -5576639990630733531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_170
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 3865
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695ce4f25b8ccf10800000000000000
+      internalID: 2291359498837449058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_171
+      rect:
+        serializedVersion: 2
+        x: 6099
+        y: 3843
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ea4f0805552ca90800000000000000
+      internalID: -7295174642137518436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_172
+      rect:
+        serializedVersion: 2
+        x: 6117
+        y: 3861
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02233b488072547d0800000000000000
+      internalID: -2934896664622452192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_173
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 3854
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78898351892173350800000000000000
+      internalID: 5996281873267464327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_174
+      rect:
+        serializedVersion: 2
+        x: 6054
+        y: 3804
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3508fc8bd25dbd3a0800000000000000
+      internalID: -6639478833276813229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_175
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 3817
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c339e4b8c9e61df90800000000000000
+      internalID: -6930636732915346628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_176
+      rect:
+        serializedVersion: 2
+        x: 6089
+        y: 3805
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85350c3a295615240800000000000000
+      internalID: 4778712360103727960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_177
+      rect:
+        serializedVersion: 2
+        x: 6114
+        y: 3813
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaaa17829e02c220800000000000000
+      internalID: 2504580365266102959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_178
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 3817
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0eb1ccf057de6d0800000000000000
+      internalID: -2959580669403209538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_179
+      rect:
+        serializedVersion: 2
+        x: 6046
+        y: 3794
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e79e149a40bde0800000000000000
+      internalID: -1319472690790669247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_180
+      rect:
+        serializedVersion: 2
+        x: 6115
+        y: 3805
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3bb8665a1b154f0800000000000000
+      internalID: -841696331393420335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_181
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 3775
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa28e696e2069860800000000000000
+      internalID: 7536214215848635051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_182
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 3786
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e19aab25357f390800000000000000
+      internalID: -7784661816102543857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_183
+      rect:
+        serializedVersion: 2
+        x: 6061
+        y: 3798
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c1f563b14307550800000000000000
+      internalID: 6156477982096432137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_184
+      rect:
+        serializedVersion: 2
+        x: 6070
+        y: 3778
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed06d68e964d2870800000000000000
+      internalID: 8659655305184284132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_185
+      rect:
+        serializedVersion: 2
+        x: 6077
+        y: 3768
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2237b9fdbae107a80800000000000000
+      internalID: -8471237175544155358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_186
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 3784
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fb1b6c9bdb85cc0800000000000000
+      internalID: -3722016486421577884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_187
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 3779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a151da73e5cb8c90800000000000000
+      internalID: -7166416801221226076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_188
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 3783
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccfbd227ea91b2b0800000000000000
+      internalID: -5570500946567627579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_189
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 3756
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a606be99ea1f4f0800000000000000
+      internalID: -796663682965673437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_190
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 3763
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097da81c4d35a8eb0800000000000000
+      internalID: -4716865486471899248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_191
+      rect:
+        serializedVersion: 2
+        x: 6134
+        y: 3762
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74e5331b5ef5ccc0800000000000000
+      internalID: -3691264652442475394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_192
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 3720
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbc7c68a08ce1020800000000000000
+      internalID: 2314507206051482554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_193
+      rect:
+        serializedVersion: 2
+        x: 6085
+        y: 3745
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4fec82b6d188730800000000000000
+      internalID: 4001480615002043622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_194
+      rect:
+        serializedVersion: 2
+        x: 6099
+        y: 3745
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cd7cac4af317de0800000000000000
+      internalID: -1337217637343044578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_195
+      rect:
+        serializedVersion: 2
+        x: 6055
+        y: 3734
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b4bd9696aa43b30800000000000000
+      internalID: 4266222116750969730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_196
+      rect:
+        serializedVersion: 2
+        x: 6099
+        y: 3728
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c1f1a800bd28070800000000000000
+      internalID: 8107283074584091802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_197
+      rect:
+        serializedVersion: 2
+        x: 6109
+        y: 3702
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37cdf53ac194eb0800000000000000
+      internalID: -4735222045189835827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_198
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 3722
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380d0bafa4c8ef6b0800000000000000
+      internalID: -5260613061060800381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_199
+      rect:
+        serializedVersion: 2
+        x: 6054
+        y: 3704
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4093af635a392840800000000000000
+      internalID: 5199751374805635151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_200
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 3710
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b636d95c8c54ac0800000000000000
+      internalID: -3871467553580422298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_201
+      rect:
+        serializedVersion: 2
+        x: 6088
+        y: 3697
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d34742925c465fa0800000000000000
+      internalID: -5812374351549873194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_202
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 3690
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c32a1c7a6467c860800000000000000
+      internalID: 7550113708821324736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_203
+      rect:
+        serializedVersion: 2
+        x: 6082
+        y: 3668
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1779c6865487532f0800000000000000
+      internalID: -993755903265302671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_204
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 3695
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89583de186219a0800000000000000
+      internalID: -6263829650111883053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_205
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 3673
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7b3a7abaef658b0800000000000000
+      internalID: -5163659909528307795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_206
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 3673
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2687e2fa5a1ce20800000000000000
+      internalID: 3369156168067343081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_207
+      rect:
+        serializedVersion: 2
+        x: 6042
+        y: 3660
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19477999c0a6b5d50800000000000000
+      internalID: 6727087070756959377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_208
+      rect:
+        serializedVersion: 2
+        x: 6067
+        y: 3656
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2dd932748fc080800000000000000
+      internalID: -9164961090543735067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_209
+      rect:
+        serializedVersion: 2
+        x: 6067
+        y: 3646
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7d458a4b3d03670800000000000000
+      internalID: 8516539668229314510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_210
+      rect:
+        serializedVersion: 2
+        x: 6099
+        y: 3635
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a955371a4785b8320800000000000000
+      internalID: 2561238071038399898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_211
+      rect:
+        serializedVersion: 2
+        x: 6078
+        y: 3628
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f8537e90058d2d0800000000000000
+      internalID: -3253762727311208671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_212
+      rect:
+        serializedVersion: 2
+        x: 6107
+        y: 3615
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fac236dd709c710800000000000000
+      internalID: 1713909780624224031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidnightCombatMainIllustration_Ember_213
+      rect:
+        serializedVersion: 2
+        x: 6053
+        y: 3592
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10981f0be887f2820800000000000000
+      internalID: 2895665639671826689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MidnightCombatMainIllustration_Ember_0: -143136587611282619
+      MidnightCombatMainIllustration_Ember_1: -4562378857114595223
+      MidnightCombatMainIllustration_Ember_10: -4985289231029363731
+      MidnightCombatMainIllustration_Ember_100: 5432071482540552550
+      MidnightCombatMainIllustration_Ember_101: 3833812848895413049
+      MidnightCombatMainIllustration_Ember_102: 3830470758352257133
+      MidnightCombatMainIllustration_Ember_103: 1542609429384272999
+      MidnightCombatMainIllustration_Ember_104: 4950254509225165025
+      MidnightCombatMainIllustration_Ember_105: -5333643662477750002
+      MidnightCombatMainIllustration_Ember_106: -8367567815322639953
+      MidnightCombatMainIllustration_Ember_107: -1075999528555111953
+      MidnightCombatMainIllustration_Ember_108: -144158894117498899
+      MidnightCombatMainIllustration_Ember_109: -6626091074136035402
+      MidnightCombatMainIllustration_Ember_11: -667944621875102865
+      MidnightCombatMainIllustration_Ember_110: -5567546658263785341
+      MidnightCombatMainIllustration_Ember_111: 1829978149860271668
+      MidnightCombatMainIllustration_Ember_112: 2313099381675419959
+      MidnightCombatMainIllustration_Ember_113: -2401533225791540788
+      MidnightCombatMainIllustration_Ember_114: 764636573861071627
+      MidnightCombatMainIllustration_Ember_115: -5219069223415199966
+      MidnightCombatMainIllustration_Ember_116: 4856576342713746452
+      MidnightCombatMainIllustration_Ember_117: 7489950606532928363
+      MidnightCombatMainIllustration_Ember_118: -2609224835804092776
+      MidnightCombatMainIllustration_Ember_119: 692559619695051386
+      MidnightCombatMainIllustration_Ember_12: 1122454770291102856
+      MidnightCombatMainIllustration_Ember_120: -6727937655937838962
+      MidnightCombatMainIllustration_Ember_121: -3254532399216382640
+      MidnightCombatMainIllustration_Ember_122: -4304549839841210282
+      MidnightCombatMainIllustration_Ember_123: -6375033608423697476
+      MidnightCombatMainIllustration_Ember_124: -563385678556081775
+      MidnightCombatMainIllustration_Ember_125: -2757282114299882771
+      MidnightCombatMainIllustration_Ember_126: -858571048251678117
+      MidnightCombatMainIllustration_Ember_127: -7749296271975355347
+      MidnightCombatMainIllustration_Ember_128: 1132012562091771599
+      MidnightCombatMainIllustration_Ember_129: -7724062526493506465
+      MidnightCombatMainIllustration_Ember_13: 1823098640820096043
+      MidnightCombatMainIllustration_Ember_130: 23839738214374702
+      MidnightCombatMainIllustration_Ember_131: -2271996042647928031
+      MidnightCombatMainIllustration_Ember_132: 5961449677321603367
+      MidnightCombatMainIllustration_Ember_133: -1072135634046430958
+      MidnightCombatMainIllustration_Ember_134: -1437094008652763128
+      MidnightCombatMainIllustration_Ember_135: -2405032753001522927
+      MidnightCombatMainIllustration_Ember_136: -5504761610258860443
+      MidnightCombatMainIllustration_Ember_137: 9138746963550953836
+      MidnightCombatMainIllustration_Ember_138: -976034233900352885
+      MidnightCombatMainIllustration_Ember_139: -2559570028550719713
+      MidnightCombatMainIllustration_Ember_14: 686601259677580226
+      MidnightCombatMainIllustration_Ember_140: -1130861840898827259
+      MidnightCombatMainIllustration_Ember_141: 2991813623267741973
+      MidnightCombatMainIllustration_Ember_142: -4632833802666390117
+      MidnightCombatMainIllustration_Ember_143: -4783010200706574389
+      MidnightCombatMainIllustration_Ember_144: -2487161280030369678
+      MidnightCombatMainIllustration_Ember_145: -28779205609470279
+      MidnightCombatMainIllustration_Ember_146: -454198612621111260
+      MidnightCombatMainIllustration_Ember_147: -2089460263358661540
+      MidnightCombatMainIllustration_Ember_148: 1843436625111124541
+      MidnightCombatMainIllustration_Ember_149: -665018530094419210
+      MidnightCombatMainIllustration_Ember_15: -5714421404851558948
+      MidnightCombatMainIllustration_Ember_150: 4854242747820559932
+      MidnightCombatMainIllustration_Ember_151: 4588505255959047200
+      MidnightCombatMainIllustration_Ember_152: -201868125550339814
+      MidnightCombatMainIllustration_Ember_153: 5368267480717020812
+      MidnightCombatMainIllustration_Ember_154: -2583641027415882280
+      MidnightCombatMainIllustration_Ember_155: -1833235023249201835
+      MidnightCombatMainIllustration_Ember_156: -8913184078587877014
+      MidnightCombatMainIllustration_Ember_157: 2572122169505582042
+      MidnightCombatMainIllustration_Ember_158: -5509494471140638567
+      MidnightCombatMainIllustration_Ember_159: -2754439901978402341
+      MidnightCombatMainIllustration_Ember_16: -5995726758093975969
+      MidnightCombatMainIllustration_Ember_160: 134757408148116379
+      MidnightCombatMainIllustration_Ember_161: -930532203008403893
+      MidnightCombatMainIllustration_Ember_162: 7521301208801077924
+      MidnightCombatMainIllustration_Ember_163: -5357886698362891113
+      MidnightCombatMainIllustration_Ember_164: -3677588473473263763
+      MidnightCombatMainIllustration_Ember_165: -3972757282076839742
+      MidnightCombatMainIllustration_Ember_166: 9066939499619420348
+      MidnightCombatMainIllustration_Ember_167: 4935411955157846912
+      MidnightCombatMainIllustration_Ember_168: -5877783952092245317
+      MidnightCombatMainIllustration_Ember_169: -5576639990630733531
+      MidnightCombatMainIllustration_Ember_17: 5701682363540524806
+      MidnightCombatMainIllustration_Ember_170: 2291359498837449058
+      MidnightCombatMainIllustration_Ember_171: -7295174642137518436
+      MidnightCombatMainIllustration_Ember_172: -2934896664622452192
+      MidnightCombatMainIllustration_Ember_173: 5996281873267464327
+      MidnightCombatMainIllustration_Ember_174: -6639478833276813229
+      MidnightCombatMainIllustration_Ember_175: -6930636732915346628
+      MidnightCombatMainIllustration_Ember_176: 4778712360103727960
+      MidnightCombatMainIllustration_Ember_177: 2504580365266102959
+      MidnightCombatMainIllustration_Ember_178: -2959580669403209538
+      MidnightCombatMainIllustration_Ember_179: -1319472690790669247
+      MidnightCombatMainIllustration_Ember_18: -3621751348427984071
+      MidnightCombatMainIllustration_Ember_180: -841696331393420335
+      MidnightCombatMainIllustration_Ember_181: 7536214215848635051
+      MidnightCombatMainIllustration_Ember_182: -7784661816102543857
+      MidnightCombatMainIllustration_Ember_183: 6156477982096432137
+      MidnightCombatMainIllustration_Ember_184: 8659655305184284132
+      MidnightCombatMainIllustration_Ember_185: -8471237175544155358
+      MidnightCombatMainIllustration_Ember_186: -3722016486421577884
+      MidnightCombatMainIllustration_Ember_187: -7166416801221226076
+      MidnightCombatMainIllustration_Ember_188: -5570500946567627579
+      MidnightCombatMainIllustration_Ember_189: -796663682965673437
+      MidnightCombatMainIllustration_Ember_19: 6540711626798579114
+      MidnightCombatMainIllustration_Ember_190: -4716865486471899248
+      MidnightCombatMainIllustration_Ember_191: -3691264652442475394
+      MidnightCombatMainIllustration_Ember_192: 2314507206051482554
+      MidnightCombatMainIllustration_Ember_193: 4001480615002043622
+      MidnightCombatMainIllustration_Ember_194: -1337217637343044578
+      MidnightCombatMainIllustration_Ember_195: 4266222116750969730
+      MidnightCombatMainIllustration_Ember_196: 8107283074584091802
+      MidnightCombatMainIllustration_Ember_197: -4735222045189835827
+      MidnightCombatMainIllustration_Ember_198: -5260613061060800381
+      MidnightCombatMainIllustration_Ember_199: 5199751374805635151
+      MidnightCombatMainIllustration_Ember_2: 8825139752879291139
+      MidnightCombatMainIllustration_Ember_20: -4789286126023205817
+      MidnightCombatMainIllustration_Ember_200: -3871467553580422298
+      MidnightCombatMainIllustration_Ember_201: -5812374351549873194
+      MidnightCombatMainIllustration_Ember_202: 7550113708821324736
+      MidnightCombatMainIllustration_Ember_203: -993755903265302671
+      MidnightCombatMainIllustration_Ember_204: -6263829650111883053
+      MidnightCombatMainIllustration_Ember_205: -5163659909528307795
+      MidnightCombatMainIllustration_Ember_206: 3369156168067343081
+      MidnightCombatMainIllustration_Ember_207: 6727087070756959377
+      MidnightCombatMainIllustration_Ember_208: -9164961090543735067
+      MidnightCombatMainIllustration_Ember_209: 8516539668229314510
+      MidnightCombatMainIllustration_Ember_21: -1802517909935431895
+      MidnightCombatMainIllustration_Ember_210: 2561238071038399898
+      MidnightCombatMainIllustration_Ember_211: -3253762727311208671
+      MidnightCombatMainIllustration_Ember_212: 1713909780624224031
+      MidnightCombatMainIllustration_Ember_213: 2895665639671826689
+      MidnightCombatMainIllustration_Ember_22: 2394577232771320623
+      MidnightCombatMainIllustration_Ember_23: 4316409408168733451
+      MidnightCombatMainIllustration_Ember_24: 2525224673256209845
+      MidnightCombatMainIllustration_Ember_25: -6616974949914550724
+      MidnightCombatMainIllustration_Ember_26: 685166931491217074
+      MidnightCombatMainIllustration_Ember_27: -7229791194533983150
+      MidnightCombatMainIllustration_Ember_28: -2812959171690643023
+      MidnightCombatMainIllustration_Ember_29: -6846232278935079150
+      MidnightCombatMainIllustration_Ember_3: 3513557112263582183
+      MidnightCombatMainIllustration_Ember_30: 2529556970411183758
+      MidnightCombatMainIllustration_Ember_31: -710610573427057292
+      MidnightCombatMainIllustration_Ember_32: -1910504322027069270
+      MidnightCombatMainIllustration_Ember_33: 1212432492964860373
+      MidnightCombatMainIllustration_Ember_34: 3423067901224743486
+      MidnightCombatMainIllustration_Ember_35: 5898697426863689477
+      MidnightCombatMainIllustration_Ember_36: -5476177000442246972
+      MidnightCombatMainIllustration_Ember_37: 7592204540348279102
+      MidnightCombatMainIllustration_Ember_38: -9104994995090134049
+      MidnightCombatMainIllustration_Ember_39: -4854902170939493403
+      MidnightCombatMainIllustration_Ember_4: -3329451173740320325
+      MidnightCombatMainIllustration_Ember_40: 5819842107493912056
+      MidnightCombatMainIllustration_Ember_41: 8938758773729299812
+      MidnightCombatMainIllustration_Ember_42: 1320505454631133884
+      MidnightCombatMainIllustration_Ember_43: -2698830379425292303
+      MidnightCombatMainIllustration_Ember_44: -6821418690320743497
+      MidnightCombatMainIllustration_Ember_45: -4886977420642413294
+      MidnightCombatMainIllustration_Ember_46: 2422210965720693064
+      MidnightCombatMainIllustration_Ember_47: 7521572541022259005
+      MidnightCombatMainIllustration_Ember_48: 6638166056575055021
+      MidnightCombatMainIllustration_Ember_49: -4474148705789781233
+      MidnightCombatMainIllustration_Ember_5: 2439467123689832228
+      MidnightCombatMainIllustration_Ember_50: -7448834999205325261
+      MidnightCombatMainIllustration_Ember_51: -7727753032146486297
+      MidnightCombatMainIllustration_Ember_52: -2184754560827344697
+      MidnightCombatMainIllustration_Ember_53: -3086282568784356033
+      MidnightCombatMainIllustration_Ember_54: 9011362389920452018
+      MidnightCombatMainIllustration_Ember_55: -5236082697192080830
+      MidnightCombatMainIllustration_Ember_56: -7276970467169680502
+      MidnightCombatMainIllustration_Ember_57: -2413856118863703977
+      MidnightCombatMainIllustration_Ember_58: -6980073863196536844
+      MidnightCombatMainIllustration_Ember_59: 4034771411935466389
+      MidnightCombatMainIllustration_Ember_6: -6387857511518001010
+      MidnightCombatMainIllustration_Ember_60: 6507121223287496743
+      MidnightCombatMainIllustration_Ember_61: -7121929621162106162
+      MidnightCombatMainIllustration_Ember_62: -4114303283844380656
+      MidnightCombatMainIllustration_Ember_63: -2658885215625612080
+      MidnightCombatMainIllustration_Ember_64: 2040875613512139097
+      MidnightCombatMainIllustration_Ember_65: -5458336271234957823
+      MidnightCombatMainIllustration_Ember_66: -208570163556512449
+      MidnightCombatMainIllustration_Ember_67: -715423655462592249
+      MidnightCombatMainIllustration_Ember_68: 1622667041374024517
+      MidnightCombatMainIllustration_Ember_69: -2275354728468495648
+      MidnightCombatMainIllustration_Ember_7: 9124217987573358481
+      MidnightCombatMainIllustration_Ember_70: -6280569231821888595
+      MidnightCombatMainIllustration_Ember_71: 6576364424647366086
+      MidnightCombatMainIllustration_Ember_72: -8250340698239618623
+      MidnightCombatMainIllustration_Ember_73: -715506207844456099
+      MidnightCombatMainIllustration_Ember_74: 6476917041410583283
+      MidnightCombatMainIllustration_Ember_75: 4936803249057581856
+      MidnightCombatMainIllustration_Ember_76: 685818931925478926
+      MidnightCombatMainIllustration_Ember_77: 2428545659102055143
+      MidnightCombatMainIllustration_Ember_78: -7330388910076240609
+      MidnightCombatMainIllustration_Ember_79: -9176932401792264056
+      MidnightCombatMainIllustration_Ember_8: -3412693974036572276
+      MidnightCombatMainIllustration_Ember_80: -1310054326138933983
+      MidnightCombatMainIllustration_Ember_81: 8859314073379631122
+      MidnightCombatMainIllustration_Ember_82: -3112116856136032316
+      MidnightCombatMainIllustration_Ember_83: 6463386068915169609
+      MidnightCombatMainIllustration_Ember_84: -3805094214665035122
+      MidnightCombatMainIllustration_Ember_85: 4620936797668847368
+      MidnightCombatMainIllustration_Ember_86: 7744238623875367156
+      MidnightCombatMainIllustration_Ember_87: 542030094339266578
+      MidnightCombatMainIllustration_Ember_88: -1028025046735262127
+      MidnightCombatMainIllustration_Ember_89: 6657644486520134219
+      MidnightCombatMainIllustration_Ember_9: -4632780348247104212
+      MidnightCombatMainIllustration_Ember_90: 4583034975240953390
+      MidnightCombatMainIllustration_Ember_91: -3420363715641844794
+      MidnightCombatMainIllustration_Ember_92: 8773539335692218153
+      MidnightCombatMainIllustration_Ember_93: -5892767418531506304
+      MidnightCombatMainIllustration_Ember_94: -5095482196231389377
+      MidnightCombatMainIllustration_Ember_95: -1278793367201499390
+      MidnightCombatMainIllustration_Ember_96: -5041901275584890123
+      MidnightCombatMainIllustration_Ember_97: 7804923607565062812
+      MidnightCombatMainIllustration_Ember_98: 1116895061108906764
+      MidnightCombatMainIllustration_Ember_99: 7176191918811691286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

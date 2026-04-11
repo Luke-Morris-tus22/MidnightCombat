@@ -185,9 +185,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 438
-        height: 736
+        y: 5
+        width: 933
+        height: 1159
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,28 +198,6 @@ TextureImporter:
       bones: []
       spriteID: 257a5b73818e4a3b0800000000000000
       internalID: -5502017654028392622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VictoryScreenImage_1
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 54
-        width: 485
-        height: 1090
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fdb64cf68a2e354d0800000000000000
-      internalID: -3146922501544317985
       vertices: []
       indices: 
       edges: []

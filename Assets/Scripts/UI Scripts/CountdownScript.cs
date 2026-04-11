@@ -8,6 +8,7 @@ public class CountdownScript : MonoBehaviour
     public int counter;
     public Image numberSprite;
     Animator animator;
+    public GloveCursorScript cursorScript;
 
     public int counterGoal;
 
@@ -61,6 +62,7 @@ public class CountdownScript : MonoBehaviour
             behaviourScript.RKGetUp();
         } else
         {
+            cursorScript.showGlove();
             playerController.playerInCombat = false;
             VictoryScreenAnimator.SetTrigger("Start");
 

@@ -14,6 +14,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
     public HurtBoxScript HurtBoxScript;
     public string[] SparAttackOrder;
     public GameObject victoryScreenPanel;
+    public GloveCursorScript GloveCursorScript;
 
     private int sparAttackPos;
     private TBotAttackScript _attackScript;
@@ -26,6 +27,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        GloveCursorScript.hideGlove();
         _animator = GetComponent<Animator>();
         _tutorialPhase = 0;
         DialogueScript.dialogueTextCurrent = DialogueScript.dialogueTextIntro;
@@ -248,6 +250,7 @@ public class TBotTutorialMasterScript : MonoBehaviour
     }
     public void EnableVictoryScreen()
     {
+        GloveCursorScript.showGlove();
         _attackScript.attackingActive = false;
         PlayerController.playerInCombat = false;
         victoryScreenPanel.GetComponent<Animator>().SetTrigger("Start");

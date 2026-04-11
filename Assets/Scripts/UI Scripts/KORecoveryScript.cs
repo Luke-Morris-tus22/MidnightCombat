@@ -12,6 +12,7 @@ public class KORecoveryScript : MonoBehaviour
     public Animator targetSpawnAnimator;
     public Animator resultAnimator;
     public LossscreenScript lossscreenScript;
+    public GloveCursorScript gloveCursorScript;
 
     public float recoveryScore;
     public float scoreGood = 10;
@@ -146,5 +147,7 @@ public class KORecoveryScript : MonoBehaviour
     {
         recoveryActive = false;
         lossscreenScript.LossScreenStart();
+        gloveCursorScript.showGlove();
+
     }
 }

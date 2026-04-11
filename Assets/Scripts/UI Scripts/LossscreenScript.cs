@@ -24,6 +24,7 @@ public class LossscreenScript : MonoBehaviour
 
     public void LossScreenStart()
     {
+
         _animator.SetTrigger("Open");
         RetryButton.interactable = true;
         QuitButton.interactable = true;
@@ -37,6 +38,7 @@ public class LossscreenScript : MonoBehaviour
 
     public void QuitLevel()
     {
+        SceneManager.LoadScene("MainMenuScene");
 
     }
 }

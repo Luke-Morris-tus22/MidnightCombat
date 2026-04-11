@@ -184,10 +184,10 @@ TextureImporter:
       name: Healthbar_TBotName_0
       rect:
         serializedVersion: 2
-        x: 1335
-        y: 882
-        width: 287
-        height: 115
+        x: 1322
+        y: 876
+        width: 521
+        height: 133
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,33 +202,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Healthbar_TBotName_1
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 880
-        width: 201
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4d50b7300b3224d0800000000000000
-      internalID: -3160899116340322994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bb24792dfb8490949b01239cdb50ef86
     internalID: 0
     vertices: []
     indices: 
