@@ -35,7 +35,10 @@ public class TBotHurtScript : MonoBehaviour
         _animator.SetBool("HitInHead", isHead);
         _animator.SetBool("HitRight", isRight);
         _animator.SetTrigger("GotHit");
-        returnHitCount += 1;
+        if (!guardUp)
+        {
+            returnHitCount += 1;
+        }
         if (returnHitCount >= returnHitCountMax)
         {
             _attackScript.RaiseGuard();
