@@ -8,12 +8,16 @@ public class playerAudioScript : MonoBehaviour
     public AudioClip[] parrySounds;
     public AudioClip[] punchSounds;
     public AudioClip[] KOSounds;
+    public AudioClip parryClashSound;
 
     private AudioSource audioSource;
 
     private int arrayPos = 0;
 
     private float audioVolume;
+
+    public RKSoundScript rkSoundScript;
+    public TBotAudioScript botAudioScript;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -50,6 +54,14 @@ public class playerAudioScript : MonoBehaviour
         {
             arrayPos = 0;
         }
+        if (rkSoundScript != null)
+        {
+            rkSoundScript.playPunch();
+        }
+        if (botAudioScript != null)
+        {
+            botAudioScript.playPunch();
+        }
         audioSource.resource = gotHitSounds[arrayPos];
         audioSource.PlayOneShot(gotHitSounds[arrayPos]);
         arrayPos++;
@@ -77,7 +89,6 @@ public class playerAudioScript : MonoBehaviour
         {
             arrayPos = 0;
         }
-        audioSource.resource = punchSounds[arrayPos];
         audioSource.PlayOneShot(punchSounds[arrayPos]);
         arrayPos++;
     }
@@ -94,5 +105,13 @@ public class playerAudioScript : MonoBehaviour
         audioSource.resource = KOSounds[arrayPos];
         audioSource.PlayOneShot(KOSounds[arrayPos]);
         arrayPos++;
+    }
+
+    public void playParryClash()
+    {
+        audioSource.volume = audioVolume;
+        audioSource.pitch = 1f;
+        audioSource.PlayOneShot(parryClashSound);
+        audioSource.PlayOneShot(parryClashSound);
     }
 }

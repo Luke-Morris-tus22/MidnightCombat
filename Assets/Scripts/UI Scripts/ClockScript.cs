@@ -6,11 +6,12 @@ public class ClockScript : MonoBehaviour
     public Animator CombatUIMaskAnimator;
     public PlayerController controller;
     public RKAttackScript attackScript;
+    private AudioSource audioSource;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -30,5 +31,10 @@ public class ClockScript : MonoBehaviour
         CombatUIMaskAnimator.SetTrigger("Start");
         controller.playerInCombat = true;
         attackScript.attackingActive = true;
+    }
+
+    public void playAudio()
+    {
+        audioSource.Play();
     }
 }

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
 public class MainMenuButtons : MonoBehaviour
@@ -59,5 +60,17 @@ public class MainMenuButtons : MonoBehaviour
     public void OpenLink()
     {
         Application.OpenURL("https://docs.google.com/forms/d/e/1FAIpQLSdGJMNXrdWKaGAQhyERlWMQt8dN5eIUP9mr_dEpVVV7c4CbQA/viewform?usp=publish-editor");
+    }
+
+    public void selectButton(GameObject buttonToSelect)
+    {
+        EventSystem.current.SetSelectedGameObject(buttonToSelect);
+
+    }
+
+    public void deselectButtons()
+    {
+        EventSystem.current.SetSelectedGameObject(null);
+
     }
 }

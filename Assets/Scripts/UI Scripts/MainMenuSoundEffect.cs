@@ -30,7 +30,7 @@ public class MainMenuSoundEffect : MonoBehaviour
             arrayPos = 0;
         }
         audioSource.resource = confirmSounds[arrayPos];
-        audioSource.Play();
+        audioSource.PlayOneShot(confirmSounds[arrayPos]);
         arrayPos++;
     }
 
@@ -41,7 +41,7 @@ public class MainMenuSoundEffect : MonoBehaviour
             arrayPos = 0;
         }
         audioSource.resource = hoverSounds[arrayPos];
-        audioSource.Play();
+        audioSource.PlayOneShot(hoverSounds[arrayPos]);
         arrayPos++;
     }
 
@@ -52,7 +52,7 @@ public class MainMenuSoundEffect : MonoBehaviour
             arrayPos = 0;
         }
         audioSource.resource = openSounds[arrayPos];
-        audioSource.Play();
+        audioSource.PlayOneShot(openSounds[arrayPos]);
         arrayPos++;
     }
 
@@ -63,7 +63,7 @@ public class MainMenuSoundEffect : MonoBehaviour
             arrayPos = 0;
         }
         audioSource.resource = closeSounds[arrayPos];
-        audioSource.Play();
+        audioSource.PlayOneShot(closeSounds[arrayPos]);
         arrayPos++;
     }
 }

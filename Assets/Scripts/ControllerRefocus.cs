@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 public class ControllerRefocus : MonoBehaviour
 {
     public GameObject lastselect;
-    public bool UsingController;
+    //public bool UsingController;
 
     void Start()
     {
@@ -15,7 +15,7 @@ public class ControllerRefocus : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (EventSystem.current.currentSelectedGameObject == null && UsingController)
+        if (EventSystem.current.currentSelectedGameObject == null)
         {
             EventSystem.current.SetSelectedGameObject(lastselect);
         }
@@ -24,10 +24,10 @@ public class ControllerRefocus : MonoBehaviour
             lastselect = EventSystem.current.currentSelectedGameObject;
         }
 
-        if (!UsingController)
-        {
-            EventSystem.current.SetSelectedGameObject(null);
-        }
+        //if (!UsingController)
+        //{
+        //    EventSystem.current.SetSelectedGameObject(null);
+        //}
     }
 
 }

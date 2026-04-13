@@ -8,6 +8,8 @@ public class KOPanelAudioScript : MonoBehaviour
     private AudioSource audioSource;
     public AudioSource droneAudioSource;
 
+    public AudioLowPassFilter musicLowPassFilter;
+
     private int arrayPos = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -43,5 +45,15 @@ public class KOPanelAudioScript : MonoBehaviour
     public void stopDrone()
     {
         droneAudioSource.volume = 0;
+    }
+
+    public void enableMusicBlur()
+    {
+        musicLowPassFilter.enabled = true;
+    }
+
+    public void disableMusicBlur()
+    {
+        musicLowPassFilter.enabled = false;
     }
 }
